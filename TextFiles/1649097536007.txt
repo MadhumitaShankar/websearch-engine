@@ -1,0 +1,2224 @@
+
+
+
+
+Help:Category - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help:Category
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+
+For guidelines on the use of categories on Wikipedia, see . For a basic readers' guide, see . For quick answers, see the or the on categories. For a list of categories, see .
+Wikipedia:Categorization
+Help:Categories
+readers' FAQ
+editors' FAQ
+Special:Categories
+
+This page describes editing with the source editor. See for .
+Help:VisualEditor § Editing categories
+VisualEditor
+Wikipedia information page
+
+
+
+
+
+
+
+This is an .
+information page
+
+It is not one of , but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of and .
+Wikipedia's policies or guidelines
+consensus
+vetting
+
+
+
+
+
+
+Shortcut
+
+
+
+H:CAT
+
+
+Wikipedia data structure
+
+
+
+
+Namespaces
+
+
+Subject namespaces
+
+Talk namespaces
+
+0
+
+(Main/Article)
+Talk
+1
+
+2
+
+User
+User talk
+3
+
+4
+
+Wikipedia
+Wikipedia talk
+5
+
+6
+
+File
+File talk
+7
+
+8
+
+MediaWiki
+MediaWiki talk
+9
+
+10
+
+Template
+Template talk
+11
+
+12
+
+Help
+Help talk
+13
+
+14
+
+Category
+Category talk
+15
+
+100
+
+Portal
+Portal talk
+101
+
+118
+
+Draft
+Draft talk
+119
+
+710
+
+TimedText
+TimedText talk
+711
+
+828
+
+Module
+Module talk
+829
+
+
+Deprecated
+
+2300
+
+Gadget
+Gadget talk
+2301
+
+2302
+
+Gadget definition
+Gadget definition talk
+2303
+
+
+
+Virtual namespaces
+
+-1
+
+Special
+
+-2
+
+Media
+are intended to group together pages on similar subjects. They are implemented by a feature that adds any page with a text like in its wiki markup to the automated listing that is the category with name . Categories help readers to find, and navigate around, a subject area, to see pages sorted by title, and to thus find article relationships.
+Categories
+MediaWiki
+[[Category:]]
+XYZ
+XYZ
+Categories are normally found at the bottom of an article page. Clicking a category name brings up a category page listing the articles (or other pages) that have been added to that particular category. There may also be a section listing the of that category. The subcategorization feature makes it possible to organize categories into tree-like structures to aid navigation.
+subcategories
+The term does refer to both the title of a category page—the —and the category itself. Keeping this in mind while reading about categorization, plus learning a category page layout is a worthwhile investment in research techniques. (See also the search box parameter "".) The layout of a category page is mostly text, but see about below.
+category
+category pagename
+incategory
+
+displaying category trees
+
+
+
+Contents
+
+
+
+
+
+1
+Summary
+
+
+2
+Category page definition
+
+
+
+2.1
+Putting pages into categories
+
+
+3
+Working with category pages
+
+
+
+3.1
+Linking to category pages
+
+
+3.2
+Retrieving raw category information
+
+
+3.3
+Sorting category pages
+
+
+
+3.3.1
+Default sort key
+
+
+3.4
+Searching for pages in categories
+
+
+3.5
+Listing all categories
+
+
+3.6
+Displaying category trees and page counts
+
+
+3.7
+Moving and redirecting category pages
+
+
+3.8
+Hiding categories
+
+
+4
+Finding articles for a category
+
+
+5
+Categorizing
+
+
+
+5.1
+Categorizing templates
+
+
+5.2
+Categories and templates
+
+
+5.3
+Categorizing redirect pages
+
+
+5.4
+"Related Changes" with categories
+
+
+5.5
+Watching category additions and removals
+
+
+6
+See also
+
+
+7
+Notes
+
+Summary
+
+
+The MediaWiki software maintains tables of , to which any editable page can be added. To add a page to a category, include "" or "" in that page's . The categories to which a page belongs appear in a box at the bottom of the page.
+categories
+[[Category:]]
+Category name
+[[Category:|]]
+Category name
+Sortkey
+wiki markup
+A category is usually associated with a in the "Category:" . A category page contains text that can be edited, like any other page, but when the page is displayed, the last part of what is displayed is an automatically generated list of all pages in that category, in the form of links. Other category pages which appear in this list are treated separately, as .
+category page
+namespace
+
+[1]
+subcategories
+
+
+
+
+
+The bottom of a Wikipedia article on . At the very bottom of the page, below the References, navigation templates and external links are a series of links. These links are the categories used on the page, which include: , , , and . By clicking on the category link at the bottom of the page, readers can navigate the Category tree.
+
+
+Chicken eyeglasses
+Category:Animal welfare
+Category:Animal equipment
+Category:Eyewear
+Category:Poultry farming
+
+Category page definition
+
+
+A is any page in the Category namespace. They each act as a category, and are termed a "category". The category page has one section titled listing other "categories", and one section titled , listing pages as categorized (in namespaces). New categories are created by in the Category namespace.
+category page
+Subcategories
+Pages
+other
+creating a page
+A category page can be edited like any other page. However, when it is displayed, the editable part of the page is followed by automatically generated lists of pages belonging to the category, as follows:
+
+First a count and list of subcategories (other category pages belonging to the category) is shown, if any exist. The name of each subcategory is followed by counts like "(6 C, 38 P, 2 F)", meaning this subcategory contains 6 subcategories, 38 pages, and 2 files. Counts of 0 are omitted. The further subcategories are expanded in the display if the sign alongside the subcategory is clicked (but this "" is only visible if your browser has enabled). Note: is shown if there are no further subcategories. The subcategory is collapsed again if is clicked.
+?
+widget
+JavaScript
+?
+?
+Next a count and list of pages in the category (excluding subcategories and images) is shown. If the category has no members, a message to that effect is displayed.
+Next a count and list of image and other media files in the category appears, if any exist. These are shown with thumbnails. The first 20 characters of the file name are shown, with an ellipsis if that is not the full name; also the file size is shown.
+The items in the lists all link to the pages concerned; in the case of the images this applies both to the image itself and to the text below it (the name of the image).
+For the way in which the lists are ordered, see below. The first and second lists are divided into sections, according to the first character of the sort key. These initial characters are displayed above the sections. To suppress these, make all sort keys start with a space.
+Sorting category pages
+A category page can only display a limited number of items (currently 200). If more pages belong to the category, there will be a link to the next ones.
+The categories box for the category page appears at the bottom, in the same place as for other pages. This contains the categories to which the current category page has been added, i.e., its (the categories of which it is a subcategory). Add a category page to other categories in the normal way, using the "[[Category:]]" or "[[Category:|]]" syntax.
+
+parent categories
+Category name
+Category name
+Sortkey
+
+Putting pages into categories
+
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:PAGECAT
+A page belongs to a category if the page's wiki markup contains a declaration for that category. A category declaration takes the form or . The declaration must be processed, i.e. it will not work if it appears between or tags, or in a comment. The declaration may however come from a page; see below.
+[[Category:]]
+Category name
+[[Category:|]]
+Category name
+Sortkey
+<nowiki>...</nowiki>
+<includeonly>...</includeonly>
+transcluded
+Categories and templates
+A category name can be any string that would be a legitimate . If the category name begins with a lower-case letter, it will be capitalized. For initial lower-case letters, as in , see the page.
+page title
+Category:macOS
+technical restrictions
+On Wikipedia, it is customary to place category declarations at the end of the wiki markup, but before any templates (which themselves transclude categories) and .
+stub
+interlanguage links
+When a page has been added to one or more categories, a categories box appears at the bottom of the page (or possibly elsewhere, if a non-default is being used). This box contains a list of the categories the page belongs to, in the order in which the category declarations appear in the processed wiki markup. The category names are to the corresponding category pages. They appear as if the corresponding category page does not exist. If a user has enabled the gadget, the categories box will also provide links to quickly add, remove, or modify category declarations on the page, without having to edit the whole page.
+skin
+linked
+red links
+HotCat
+Hidden categories are not displayed, except as described below under .
+Hiding categories
+
+Working with category pages
+
+
+The following subsections are ordered from simple actions to more elaborate or rarer actions.
+
+Linking to category pages
+
+
+To link to a category page putting the current page in that category, precede the link with a colon: [[:Category:]]. Such a link can be like a normal wikilink. (The {{}} template, and others listed on its documentation page, may sometimes be helpful.)
+without
+Category name
+piped
+cl
+
+Retrieving raw category information
+
+
+Raw information about the members of a category, their sortkeys and timestamps (time when last added to the category) can be obtained from the , using a query of the form:
+API
+
+https://en.wikipedia.org/w/api.php?cmtitle=Category:&action=query&list=categorymembers&cmlimit=500&cmprop=title|sortkey|timestamp
+Category_name
+Listings of up to 500 members are possible. If there are more members then the results will include text near the end like this: .
+
+<categorymembers
+cmcontinue=
+"page|NNNN|TITLE"
+/>
+This can be added to the previous one, without quotation marks, for the next page of members:
+...&cmcontinue=page|NNNN|TITLE
+
+Sorting category pages
+
+
+
+See also:
+Help:Sorting
+
+
+
+
+
+Shortcut
+
+
+
+WP:SORTCAT
+By default, a page is sorted under the first character of its name, without the namespace. English Wikipedia groups accented characters together with their unaccented version, so pages starting with À, Á, Ä, will be listed under heading A. Sorting is case-insensitive, so "ABC" comes after "Abacus".
+Unlike at and , a space is treated as a space (coming before all other characters), not as an underscore.
+Special:Allpages
+Special:Prefixindex
+The English Wikipedia has . This means a page whose title begins with a number will be sorted according to the numeric value of the number (even if it is multiple digits). Thus "9 dogs", "25 dogs", and "112 dogs" will all appear under the "0–9" heading in numeric order. If the number includes a comma, space, or period, the sorting algorithm will only consider the part of the number before the separator.
+numerical sorting in categories
+Each of the three lists (subcategories, pages, media files) is arranged in the order explained above (except that, in the subcategories list, the namespace indicator "Category:" is not considered). If an item ought to be positioned within a list on the basis of an alternative name (sort key) for that item, then this can be specified in the category tag that places the item in the list:
+
+[[Category:|]]
+Category name
+Sortkey
+For example, to add an article called to the category "People" and have the article sorted by "Einstein, Albert", you would type:
+Albert Einstein
+
+[[Category:People|Einstein, Albert]]
+Unlike a (which uses the same syntax), the sort key itself is not displayed to readers. It affects only the order in which pages are listed on the category page.
+piped link
+It is useful to document the system being used for sort keys on the category page. For guidelines about the use of sort keys on Wikipedia, see .
+WP:SORTKEY
+
+Default sort key
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:DEFAULTSORT
+
+See also: and
+WP:NAMESORT
+WP:SORTKEY
+It is possible to set a default sort key which is different from by using the :
+{{PAGENAME}}
+magic word
+{{DEFAULTSORT}}
+{{DEFAULTSORT:new key}}
+This is often used in biography articles, to make sure the subject is sorted by their last name:
+{{DEFAULTSORT:LastName, FirstName}}
+In the case of multiple default sort key tags, the last DEFAULTSORT on the final rendering of a page applies for all categories, regardless of the position of the category tags. This also means that a DEFAULTSORT tag included from a template is not effective if another DEFAULTSORT tag occurs later on the page, even if the later DEFAULTSORT tag is also "hidden" (included by another template). If a category is added inside then .
+<ref>...</ref>
+DEFAULTSORT may be ignored
+
+Searching for pages in categories
+
+
+
+Further information:
+Help:Searching § Syntax
+
+See also: , , and
+§ Searching for articles in categories
+Wikipedia:Category intersection
+Wikimedia bug T3497 "Hierarchical category system is urgently needed"
+In addition to browsing through hierarchies of categories, it is possible to use the search tool to find specific articles in specific categories. To search for articles in a specific category, type in the search box.
+incategory:""
+CategoryName
+A pipe "|" can be added to join the contents of one category with the contents of another. For example, enter
+
+
+
+
+incategory:"Suspension bridges|Bridges in New York City"
+to return all pages that belong to either (or both) of the categories, as .
+here
+Note that using search to find categories will not find articles which have been categorized using templates. This feature also doesn't return pages in subcategories.
+
+
+
+
+
+
+
+Listing all categories
+
+
+provides an alphabetic list of all categories, with the number of members of each; this number does not include the content of the subcategories, but it includes the subcategories themselves, i.e., each counting as one.
+Special:Categories
+The above list contains all categories that have members, regardless of whether they have corresponding category pages. To list all existing category pages (regardless of whether they have members), use .
+Special:AllPages/Category:
+
+Displaying category trees and page counts
+
+
+As described at , or returns the number of pages in "Category:Example". Each subcategory counts as one page; pages in subcategories are not counted.
+mw:Help:Magic words
+{{PAGESINCATEGORY:}}
+Example
+{{PAGESINCAT:}}
+Example
+The page enables you to see the tree structure of a category (its subcategories, their subcategories and so on; the display of files and other member pages is optional).
+Special:CategoryTree
+The can be used to display such a tree on any page. (This is sometimes done on the category page itself, if the category is split over multiple screens, to make all subcategories available on every screen.) The basic syntax is
+CategoryTree extension
+
+
+<categorytree></categorytree>
+Category name
+to display just the subcategory tree, and
+
+
+<categorytree mode=pages></categorytree>
+Category name
+to display member pages as well. They will be indicated by italics.
+category-visualizer will render charts of the tree structure.
+Dapete's
+vCat
+You may also use or , instead.
+Template:Category tree
+Template:Category tree all
+Warning:
+
+The following code will not work as expected when used in the wikitext or in a transcluded template in a category page whose title contains some ASCII punctuations.
+{{PAGESINCATEGORY:{{PAGENAME}}}}
+For legacy reasons, may return the page name with these characters being HTML-encoded using numeric character entities : this still works for generating derived wikilinks or displaying page names, or when HTML-encoded this page name is used in a conditional "#switch", but PAGESINCATEGORY does not recognize the category name given in parameter if some characters are HTML-encoded (this is the case notably when the category name contains ASCII apostrophes and a few other ASCII punctuations. (The same HTML-encoding is also applied to the values returned by , , or ).
+{{PAGENAME}}
+'
+{{FULLPAGENAME}}
+{{SUBPAGENAME}}
+{{NAMESPACE}}
+In that case, as the category is not found by its HTML-encoded pagename, PAGESINCATEGORY will unexpectedly return 0 and not its effective number of member pages.
+A simple workaround is to transform these HTML-encoded characters back into standard UTF-8-encoded characters, by using the parser function, like this:
+{{titleparts:}}
+
+{{PAGESINCATEGORY:{{titleparts:{{PAGENAME}}}}}}
+
+
+
+Moving and redirecting category pages
+
+
+in the same way as an ordinary page; but a certain amount of cleanup may be necessary. A redirect is left at the old category name, and this is not a normal but a . Once all the pages have been moved out of the old category, it may be left as a category redirect or deleted. For categories entirely populated through templates (see above), modifying the templates enables all affected articles to be moved to another category, but with the refresh problem mentioned. Almost all category name changes are made pursuant to a consensus decision at .
+Categories can be moved
+#REDIRECT [[...]]
+{{}}
+category redirect
+Wikipedia:Categories for discussion
+Do not create intercategory redirects other than with a template. See for more on category redirects.
+{{}}
+category redirect
+Wikipedia:Categories for discussion#Redirecting categories
+
+Hiding categories
+
+
+When the is placed on a category page, that category becomes , meaning that it will not be displayed on the pages belonging to that category. On Wikipedia, the magic word is not normally used explicitly, but is applied through the {{}} template. The feature is mostly used to prevent project maintenance categories from showing up to ordinary readers on article pages.
+magic word
+__HIDDENCAT__
+hidden
+hidden category
+However, hidden categories displayed (although listed as hidden):
+are
+
+on category pages (whether as parent categories or subcategories);
+at preview during editing;
+if the user has selected "Show hidden categories" in user preferences.
+Hidden categories are automatically added to .
+Category:Hidden categories
+For guidelines on the hiding of categories on Wikipedia, see .
+WP:HIDDENCAT
+
+
+
+Finding articles for a category
+
+
+The most effective way of finding entries of a category is using the "" tool on the category's main article.
+What links here
+An easy way to find relevant articles for a new category or missing entries in an existing one is by finding the most relevant and checking its entries. Sometimes categories are about things that are for which the can be used.
+list
+intersections of other categories
+PetScan tool
+More relevant articles may also be found linked in a category's main article and the articles already featured in the category ? especially in their sections (if existent) and the automatically suggested "RELATED ARTICLES" below them.
+"See also"
+Furthermore, a category's superordinate categories often feature articles that should be subcategorized to the category.
+Other ways to find relevant articles include for the category's topic and searching the Web for the topic in quotes (with synonyms also in quotes and appended after an ) and appending the word or or to them.
+searching Wikipedia
+"
+OR
+wiki
+Wikipedia
+site:Wikipedia.org
+
+Categorizing
+
+
+
+Main page:
+Wikipedia:Categorization
+
+Categorizing templates
+
+
+Templates are categorized the same way as articles, except that should be placed on the template's documentation page (or inside tags, if there is no documentation page), this is necessary to avoid (see below).
+[[Category: Some-topic templates]]
+<noinclude>...</noinclude>
+categorizing pages by template inclusion
+
+Categories and templates
+
+
+A template can be used to add pages to a category, usually by placing the category link inside tags on the template (e.g. ). When the template is transcluded into the page, the category link becomes active, and the page is added to the category page. This is useful for categories that have high turnover or many pages included, like cleanup categories.
+<includeonly></includeonly>
+<includeonly>[[Category:category name]]</includeonly>
+Changes to the template, however, may not be reflected immediately on the category page. When you edit an article to add a category tag directly, the list of category members is updated immediately when the page is saved. When a category link is contained in a template, however, this does not happen immediately: instead, whenever a template is edited, all the pages that transclude it are put into the to be recached during periods of low server load. This means that, in busy periods, it may take hours or even days before individual pages are recached and they start to appear in the category list. Performing a to a page will allow it to jump the queue and be immediately recached.
+job queue
+null edit
+To add the template itself to the category page as well, omit the "includeonly" tags. To add the template to a category categorizing pages on which the template is transcluded, place the category declaration between <noinclude>...</noinclude> tags, or add it to the page between (the latter allows recategorizing the template without editing it, which is helpful if it is protected, or so complicated that mere mortals hesitate to touch it).
+without
+template documentation
+<includeonly></includeonly>
+can be used to make the transcluded categories, or the sort key used in them, dependent on other variables, notably PAGENAME.
+Parser functions
+
+Passing a category name as a parameter
+<includeonly>[[Category:{{{cat|default}}}]]</includeonly> or <includeonly>{{{cat|[[Category:default]]}}}</includeonly> If the user provides a parameter 'cat=XXX' the page will be categorized at the page , otherwise it will be categorized at the page . Calling the template with "cat=" (equal to nothing) disables putting the page in any category.
+
+[[Category:XXX]]
+[[Category:default]]
+
+Excluding non-article pages
+<includeonly>{{#if:{{NAMESPACE}} | | [[Category:XXX]]}}</includeonly> the variable NAMESPACE is null for mainspace articles. For any space other than mainspace, this ParserFunction will produce an empty string, but for regular articles this will include the article in Category:XXX.
+
+On Wikipedia it is not recommended that templates be used to populate ordinary content categories of articles. See in the categorization guideline.
+Categorization using templates
+
+Categorizing redirect pages
+
+
+
+Main page:
+Wikipedia:Categorizing redirects
+Redirect pages can be categorized and there are conventions on how to do it. The redirect link must be first on the page. On a category page, redirects are listed in italics.
+
+
+"Related Changes" with categories
+
+
+For a category, the "" feature, when applied to the corresponding category page, lists recent changes to the pages which are currently listed as belonging to a category. Where those pages are subcategories or image pages, only changes to their are listed.
+Related Changes
+editable parts
+Notice that "Related Changes" does show edits to pages that have been removed from the category.
+not
+Also, "Related Changes" does list recent changes to pages linked from the editable part of the category page (as it would normally, with a non-category page). If a workaround would be required, the links in question could be placed in a template and transcluded onto the category page.
+not
+As usual – unlike with – recent changes to corresponding are shown under "Related Changes". Pages one is watching are bolded on the list. This can help to find which pages in a given category one has on one's watchlist.
+watchlists
+talk pages
+not
+The extension provides a list of edits to the pages in a category, or optionally, just the list of pages; the simpler is installed on Meta, Wikinews, and Wikiversity; the extension is installed on Wikia.
+DynamicPageList (third-party)
+last
+DynamicPageList (Wikimedia)
+Wikibooks
+mw:Extension:DPLforum
+
+Watching category additions and removals
+
+
+Since , additions and removals from categories are available via the on recent changes pages, including and . For example, category changes to articles in can be . You can monitor additions and removals from specific categories by adding the categories to your watchlist and making sure the "Category changes" filter is active. You can view changes to categories in your watchlist by . Additional scripts with similar functionality are and .
+2016
+"Category changes" filter
+watchlists
+Special:RecentChangesLinked
+Category:Cannabis stubs
+found here
+clicking here
+User:CategoryWatchlistBot
+User:Ais523/catwatch
+
+See also
+
+
+
+
+MediaWiki: Help:Categories
+
+Template:Category TOC
+
+Wikipedia:FAQ/Categorization
+
+Wikipedia:WikiProject Categories
+
+Wikipedia:Quick cat index
+
+Notes
+
+
+
+
+
+
+
+^
+The category itself is permanently created as soon as it has been saved on to any page. Unless you create a , it will display as a red link. Unless you add another category to the category page, it will not be placed in the category tree. Category pages are created like any other page. Most commonly, editors click on the redlink in an article and create the category page that way.
+category page
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+Wikipedia help pages
+
+
+
+
+
+Visit the or the for an interactive forum.
+
+Teahouse
+
+Help desk
+Q & A
+
+
+
+
+FAQs
+
+(?)
+
+
+Reference desks
+
+(?)
+
+
+Noticeboards
+
+(?)
+
+
+Cheatsheet
+
+(?)
+
+
+Directories
+
+(?)
+
+
+About Wikipedia
+(?)
+
+
+
+
+Administration
+
+
+Purpose
+
+Principles
+
+Policies and guidelines
+
+What Wikipedia is not
+()
+Disclaimer
+parental advice
+
+Making requests
+
+Who writes Wikipedia?
+
+
+Help for readers
+(?)
+
+
+
+
+FAQ
+
+Books
+
+Copyright
+
+Glossary
+
+Mobile access
+
+Navigation
+
+Other languages
+
+Searching
+
+Students
+
+Viewing media
+
+
+Contributing to Wikipedia
+
+(?)
+
+
+
+
+Advice for young editors
+
+Avoiding common mistakes
+
+Etiquette
+
+Simplified Manual of Style
+
+Simplified rule-set
+
+
+"Ignore all rules"
+
+"The rules are principles"
+
+Style-tips
+
+Tip of the day
+()
+Your first article
+article wizard
+
+
+Getting started
+(?)
+
+
+
+
+Why create an account?
+
+Introductions by topic
+
+Graphics tutorials
+
+
+Picture tutorial
+
+IRC tutorial
+(live chat)
+
+VisualEditor user guide
+
+
+Dos and don'ts
+(?)
+
+
+
+
+Accessibility
+
+Biographies
+
+Biographies (living)
+
+Categorization
+
+Consensus
+
+Discussions
+
+Disambiguation
+
+Images
+
+Leads
+
+Links
+
+Lists
+
+References
+
+Tables
+
+Titles (of articles)
+
+and
+How-to pages
+
+information pages
+(?)
+
+
+
+
+Appealing blocks
+
+Article deletion
+
+Categories
+
+Citations/references
+
+
+Referencing for beginners
+
+Citation Style 1
+
+Cite errors
+
+References and page numbers
+
+Convert
+
+Diff
+
+Editing
+
+
+Minor edit
+
+toolbar
+
+edit conflict
+
+Find sources
+
+Files
+
+Footnotes
+
+Image deletion
+
+Infoboxes
+()
+Linking
+link color
+
+Logging in
+
+Merging
+
+Page name
+
+
+Renaming pages
+
+Redirect
+
+Passwords
+
+
+Email confirmation
+
+Reverting
+
+
+Simple vandalism cleanup
+(
+Talk pages
+archiving
+)
+simple archiving
+
+User contributions
+
+WP search protocol
+
+
+Coding
+(?)
+
+
+
+
+Wiki markup
+
+Barcharts
+
+Calculations
+
+Characters
+
+Columns
+
+Hidden text
+
+HTML
+
+Lists
+
+Magic words
+
+Music symbols
+
+Sections
+
+Sounds
+
+Tables
+
+Templates
+
+Transclusion
+
+URL
+
+Visual files
+
+
+Directories
+(?)
+
+
+
+
+Abbreviations
+
+Contents
+(Encyclopedia proper)
+
+Departments
+
+Editor's index
+
+Essays
+
+FAQs
+
+Glossary
+
+Guidelines
+
+Manual of Style
+
+Policies
+
+Tasks
+
+Tips
+
+Tools
+
+
+
+
+Missing Manual
+
+
+
+Ask for help on your talk page
+
+(?)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+Wikipedia technical help
+
+
+
+Get personal technical help at , , , or .
+the Teahouse
+Help desk
+Village pump (technical)
+talk pages
+IRC
+
+
+General technical help
+
+
+
+
+
+Browser notes
+
+
+Bypass cache
+
+Keyboard shortcuts
+
+Editing
+
+
+CharInsert
+
+Edit conflict
+
+Edit toolbar
+
+Reverting
+
+How to create a page
+
+IRC
+
+
+Tutorial
+
+Mobile access
+
+Multilingual support
+
+Page history
+
+Page information
+
+Page name
+
+
+Help
+
+Printing
+
+Software notices
+
+
+Editnotice
+
+Special Characters
+
+
+Entering
+
+User access levels
+
+VisualEditor
+
+
+User guide
+
+-related
+Special page
+
+
+
+
+
+Special page help
+
+Edit filter
+
+Emailing users
+
+Logging in
+
+
+Reset passwords
+
+Logs
+
+Moving a page
+
+
+Fixing cut-and-paste moves
+
+Non-admin and admin-only page moves
+
+Notifications/Echo
+
+
+FAQ
+
+Page Curation
+
+Page import
+
+Pending changes
+
+Random pages
+
+Recent changes
+
+Related changes
+
+Searching
+
+
+Linksearch
+
+Tags
+
+User contributions
+
+Watchlist
+
+What links here
+
+
+Wikitext
+
+
+
+
+Wikitext
+
+
+Cheatsheet
+
+Columns
+
+Line-break handling
+
+Lists
+
+Magic words
+
+
+For beginners
+
+Conditional expressions
+
+Switch parser function
+
+Time function
+
+Redirects
+
+Sections and TOCs
+
+Tables
+
+
+Introduction
+
+Basics
+
+Advanced table formatting
+
+Collapsing
+
+Conditional tables
+
+Sorting
+
+Using colours
+
+and
+Links
+diffs
+
+
+
+
+Links
+
+
+Interlanguage
+
+Interwiki
+
+Permanent
+
+Diffs
+
+
+Simplest diff guide
+
+Simple diff and link guide
+
+Complete diff and link guide
+
+Colon trick
+
+Link color
+
+Pipe trick
+
+URLs
+
+files: images, videos and sounds
+Media
+
+
+
+
+
+Media help
+
+Files
+
+
+Creation and usage
+
+Moving files to Commons
+
+Images
+
+
+Introduction to images
+
+Picture tutorial
+
+Preparing images for upload
+
+Uploading images
+
+Options to hide an image
+
+Extended image syntax
+
+SVG help
+
+Gallery tag
+
+Graphics tutorials
+
+
+Basic bitmap image editing
+
+How to improve image quality
+
+Graphics Lab resources
+
+Sound file markup
+
+Visual file markup
+
+Other graphics
+
+
+
+
+Family trees
+
+Graphs and charts
+
+
+How to create
+
+Barcharts
+
+To scale charts
+
+Math formulas
+
+
+Math symbols
+
+Musical scores
+
+
+Musical symbols
+
+Timeline
+
+
+EasyTimeline syntax
+
+WikiHiero syntax
+
+and modules
+Templates
+
+Lua
+
+
+
+
+Templates
+
+Advanced template coding
+
+Template documentation
+
+Template index
+
+Template limits
+
+Template sandbox and test cases
+
+Citation templates
+
+Lua help
+
+Lua project
+
+
+Resources
+
+To do
+
+Substitution
+
+Purge
+
+
+Job queue
+
+Transclusion
+
+
+Labeled section
+
+Costs and benefits
+
+Guide to Scribbling
+
+
+Data structure
+
+
+
+
+Namespaces
+
+Main/Article
+
+Category
+
+Draft
+
+File
+
+
+File description page
+
+Help
+
+Portal
+
+Project/Wikipedia
+
+Talk
+
+
+Archiving
+
+
+Simple
+
+Template
+
+User
+
+
+User page design
+
+MediaWiki
+
+
+Bug reports and feature requests
+
+System message
+
+TimedMediaHandler extension
+
+Module
+
+Special
+
+and
+HTML
+CSS
+
+
+
+
+Cascading Style Sheets
+
+HTML in wikitext
+
+Catalogue of CSS classes
+
+Common.js and common.css
+
+User CSS for monospaced coding font
+
+Classes in microformats
+
+Markup validation
+
+Span tags
+
+Useful styles
+
+and tools
+Customisation
+
+
+
+
+
+Preferences
+
+Gadgets
+
+Skins
+
+Citation tools
+
+Cleaning up vandalism tools
+
+Customizing watchlists
+
+
+Hide pages
+
+IRC Scripts
+
+User scripts
+
+
+Guide
+
+Techniques
+
+User style
+
+Tools
+
+
+Alternative browsing
+
+Browser tools
+
+Editing tools
+
+Navigation shortcuts
+
+Optimum tool set
+
+Wikimedia Cloud Services
+
+Beta Features at MediaWiki
+
+Automated editing
+
+
+
+
+AfC helper script
+
+AutoWikiBrowser
+
+Bots
+
+
+Creating
+
+HotCat
+
+Huggle
+
+Navigation popups
+
+RedWarn
+
+Twinkle
+
+WPCleaner
+Inactive
+
+
+igloo
+
+STiki
+
+
+
+
+See also:
+
+Category:Wikipedia how-to
+Further navigation at:
+
+Category:Wikipedia information pages
+
+Help pages
+
+
+Administrators
+
+Accessibility
+
+Accounts
+
+Bots
+
+Referencing
+
+
+Citation metadata
+
+Templates
+
+User scripts
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+Wikipedia categorization
+
+Guidelines
+
+
+
+
+Categorization
+
+Categories, lists, and navigation templates
+
+Overcategorization
+
+Categorization of people
+
+Categorization of portals
+
+Categorization/Ethnicity, gender, religion and sexuality
+
+People by year
+
+Categorizing redirects
+
+Category names
+
+User categories
+
+Overcategorization/User categories
+
+Help pages
+
+
+
+
+Categories
+
+Category
+
+Classification
+
+Container category
+
+PetScan
+
+FAQ for readers
+
+FAQ for editors
+
+Template index/Category namespace
+
+Discussions
+
+
+
+
+Categories for discussion
+
+Categories for discussion/Speedy
+
+Categories for discussion/All current discussions
+
+Projectspace essays
+
+
+
+
+Categories are different from articles
+
+Categories versus lists
+
+Categorising fiction
+
+Do not write articles using categories
+
+Overcategorization/Intersection of location and occupation
+
+Wiki workflow
+
+WikiProject Plants/Description in year categories
+
+Userspace essays
+
+
+
+
+DexDor/Terminology categories
+
+DexDor/Categorization of award recipients
+
+Alan Liefting/On categorisation
+
+Coder Dan/Categories
+
+gracefool/What is a category?
+
+Kbdank71/Wikiproject notification
+
+
+
+
+
+Category:Wikipedia categorization
+
+Category:Contents
+
+WikiProject Categories
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Help:Category&oldid=1074663695
+
+:
+Categories
+
+
+Wikipedia information pages
+
+Wikipedia categorization
+
+Wikipedia how-to
+
+Wikipedia page help
+Hidden categories:
+
+
+Wikipedia semi-protected project pages
+
+Wikipedia move-protected project pages
+
+Help pages with short description
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Help page
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+View source
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+In other projects
+
+
+
+
+Wikimedia Commons
+
+
+MediaWiki
+
+
+Meta-Wiki
+
+
+Wikibooks
+
+
+Wikinews
+
+
+Wikiquote
+
+
+Wikisource
+
+
+Wikiversity
+
+
+Wiktionary
+
+
+Languages
+
+
+
+
+Alemannisch
+
+
+??????
+
+
+Bân-lâm-gú
+
+
+?????????
+
+
+??????????
+
+
+???????
+
+
+Boarisch
+
+
+Català
+
+
+?eština
+
+
+Cymraeg
+
+
+Dansk
+
+
+Deutsch
+
+
+Eesti
+
+
+????????
+
+
+Español
+
+
+Esperanto
+
+
+Euskara
+
+
+?????
+
+
+Français
+
+
+Galego
+
+
+???????
+
+
+Ilokano
+
+
+Bahasa Indonesia
+
+
+Íslenska
+
+
+Italiano
+
+
+Lëtzebuergesch
+
+
+?????
+
+
+Bahasa Melayu
+
+
+Nederlands
+
+
+???
+
+
+Norsk bokmål
+
+
+??????
+
+
+????
+
+
+?????????
+
+
+Polski
+
+
+Português
+
+
+Ripoarisch
+
+
+Român?
+
+
+???????
+
+
+Scots
+
+
+Shqip
+
+
+Simple English
+
+
+????
+
+
+Sloven?ina
+
+
+Slovenš?ina
+
+
+?????
+
+
+Svenska
+
+
+?????
+
+
+???????/tatarça
+
+
+??????
+
+
+Türkçe
+
+
+??????????
+
+
+????
+
+
+Yorùbá
+
+
+??
+
+
+Edit links
+
+
+This page was last edited on 1 March 2022, at 13:03.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

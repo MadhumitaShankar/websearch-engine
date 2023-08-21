@@ -1,0 +1,1526 @@
+
+
+
+
+Wikipedia:Shortcut - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia:Shortcut
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+Wikipedia project page covering abbreviated links
+
+For other uses, see .
+Wikipedia:Keyboard shortcuts
+
+"WP:SHORT" redirects here. For short citations, see . For short descriptions, see .
+Wikipedia:Citing sources § Short citations
+Wikipedia:Short description
+
+"WP:SC" redirects here. For the essay on explicit materials, see .
+Wikipedia:Sexual content
+
+
+
+
+
+
+
+This page documents an English Wikipedia .
+project content guideline
+
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with , and may apply. Any substantive edit to this page should reflect . When in doubt, discuss first on the .
+common sense
+occasional exceptions
+consensus
+talk page
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:SC
+
+
+WP:SHORT
+
+
+WP:THIS
+
+
+
+
+
+
+Wikipedia guidelines
+
+
+
+
+Guidelines list
+
+Policies list
+
+
+Behavioral
+
+
+
+
+
+
+
+
+
+Assume good faith
+
+Conflict of interest
+
+Courtesy vanishing
+
+Disruptive editing
+
+Don't bite the newcomers
+
+
+Don't edit to make a point
+
+Etiquette
+
+Don't game the system
+
+User pages
+
+Other behavioral guidelines
+
+WMF friendly space policy
+
+
+Discussions
+
+
+
+
+Talk page guidelines
+
+Signatures
+
+
+Content
+
+
+
+
+Biographies of Living Persons
+
+Citing sources
+
+External links
+
+Reliable sources
+
+
+medicine
+
+Fringe theories
+
+
+Non-free content
+
+Offensive material
+
+Don't copy long texts
+
+Don't create hoaxes
+
+Patent nonsense
+
+Other content guidelines
+
+
+Editing
+
+
+
+
+
+
+
+
+
+Article size
+
+Be bold
+
+Edit summary
+
+Understandability
+
+Other editing guidelines
+
+
+Organization
+
+
+
+
+Categories, lists, templates
+
+Categorization
+
+Disambiguation
+
+
+Style
+
+
+
+
+Manual of Style
+
+
+contents
+
+lists
+
+tables
+
+
+Deletion
+
+
+
+
+Deletion process
+
+Speedy keep
+
+Deletion guidelines for administrators
+
+
+Project content
+
+
+
+
+Project pages
+
+
+WikiProjects
+
+Templates
+
+User pages
+
+
+User boxes
+
+Shortcuts
+
+Subpages
+
+
+Other
+
+
+
+
+Naming conventions
+
+Notability
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+
+
+
+
+Linking and page manipulation
+
+
+
+
+Linking and diffs
+
+
+
+URLs
+
+Links
+
+Orphans
+
+Interlanguage links
+
+Interwiki linking
+
+Shortcuts
+
+External links
+
+
+External link icons
+
+Plainlinks
+
+Link color
+
+Colon trick
+
+Pipe trick
+
+Self links
+
+What links here
+
+Linksearch
+
+Manual of Style on linking
+
+Navigation templates
+
+Hatnotes
+
+Template index for links
+
+
+Diffs
+
+
+Simplest diff guide
+
+Simple diff and link guide
+
+Complete diff and link guide
+
+
+
+Categorization
+
+
+
+Category
+
+Categorization guideline
+
+Classification
+
+Container category
+
+FAQ for categorization
+
+FAQ for categories
+
+Categories, lists, and navigation templates
+
+Categorization of people
+
+
+By year
+
+By ethnicity, gender, religion and sexuality
+
+Redirect categories
+
+User categories
+
+Overcategorization
+
+
+User categories
+
+Template index for categories
+
+
+
+Moving and redirecting
+
+
+
+How to move a page for beginners
+
+Redirects
+
+Moving a page
+
+Requested moves
+
+How to fix cut-and-paste moves
+
+Moving files to Commons
+
+Userfication
+
+Non-admin and admin-only moves
+
+Template index for moving
+
+Template index for redirects
+
+
+
+Merging
+
+
+
+Merging
+
+Proposed article mergers
+
+Requests for history merge
+
+Merge and delete?
+
+Merge what?
+
+Delete or merge?
+
+Template index for merging
+
+WikiProject Merge
+
+
+
+Splitting
+
+
+
+Splitting
+
+Template index for splitting
+
+
+
+Importing and copying
+
+
+
+How to import articles
+
+Requests for page importation
+
+Import
+
+Export
+
+Copying within Wikipedia
+
+
+
+Protecting
+
+
+
+Protection
+
+Protection policy
+
+High-risk templates
+
+Requests for page protection
+
+Rough guide to semi-protection
+
+
+
+Additional
+
+
+
+How to create a page
+
+Article creation
+
+Editing
+
+Deletion process
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+A is a specialized type of that provides an abbreviated to an or one of its sections, usually from the or . These shortcuts' abbreviations in all-caps text are commonly used (linked or unlinked) on community pages and talk pages, but should not be used in articles themselves. If there are one or more shortcuts for a page or section, one or more will usually be chosen to be displayed in an information box on the right labelled or , as can be seen at the top of this page.
+shortcut
+redirect page
+wikilink
+administrative page
+
+Wikipedia namespace
+
+Help namespace
+Shortcut
+Shortcuts
+Shortcuts are created for the convenience of editors. It is possible to create a shortcut for any page at all.
+.
+The existence of a shortcut does not imply or prove that the linked page is a policy or guideline
+
+
+
+Contents
+
+
+
+
+
+1
+Quick reference
+
+
+2
+How to use a Wikipedia shortcut
+
+
+3
+Readability
+
+
+4
+Link boxes
+
+
+5
+Shortcut names
+
+
+6
+List of prefixes
+
+
+
+6.1
+Namespace aliases
+
+
+6.2
+Pseudo-namespaces
+
+
+7
+How to create a shortcut
+
+
+8
+Changing shortcuts
+
+
+9
+Limitations
+
+
+10
+See also
+
+Quick reference
+
+
+Lists of available shortcuts can be found at:
+
+/ =
+WP:WP
+WP:CUTS
+Wikipedia:Shortcut index
+=
+WP:WPR
+Wikipedia:Shortcut index/Project shortcuts
+=
+WT:WT
+Wikipedia:Shortcuts to talk pages
+=
+WP:PORTCUT
+Wikipedia:Shortcut index/Portal shortcuts
+On , shortcuts start with ; the list is at
+Meta
+WM:
+m:WM:WM
+can be used to find uncategorized or unlisted pages starting with a given prefix; for example, will find some category shortcuts
+Special:PrefixIndex
+Special:PrefixIndex/CAT:
+contains common shortcuts that are often used linked or unlinked in editor discussions or ; hover your mouse pointer over a shortcut to see a pop-up with its article's full name in it (see )
+Template:Useful links
+edit summaries
+§ See also
+
+How to use a Wikipedia shortcut
+
+
+A Wikipedia shortcut can be entered into the Wikipedia search box to quickly bring you to a project page. For example, you can type or into the search box and then press the enter key (or click the magnifying glass icon), to get to the page, instead of having to type in the complete phrase.
+WP:R
+H:R
+Wikipedia:Redirect
+Alternatively, you can use a shortcut in the in your browser's address bar. For example, you are currently viewing the page. The URL for this page is . You could then get from here to the page by replacing with in the address bar, followed by pressing the enter key. (If your browser has relative URL entry, simply prefix the shortcut with instead of having to edit the existing URL.)
+URL
+Wikipedia:Shortcut
+
+https://en.wikipedia.org/wiki/Wikipedia:Shortcut
+Wikipedia:Redirect
+Wikipedia:Shortcut
+WP:R
+./
+Shortcuts are presented in all capital letters (); however, the search box is . For example, in the search box, you can type , instead of . However, when using the URL method (or when making ) it is necessary to match the capitalization of the shortcut itself.
+ALL CAPS
+case-insensitive
+wp:r
+WP:R
+links
+
+Readability
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:SCJARGON
+Shortcuts are often used on talk pages in their abbreviated form, decreasing for the general reader. For example, some editors are familiar with the bulk of the , recognizing what they stand for on sight. Others, however, are faced with pages full of incomprehensible jargon, the meaning of which is not immediately clear. Shortcuts also are sometimes (ab)used to make a , best described by .
+readability
+Wikipedia namespace shortcuts
+WP:POINT
+WP:WOTTA
+To avoid these problems, a good practice when creating shortcuts is to choose common English words that are easily identifiable and memorable. Another good practice is to be mindful of the general reader and use meaningful terms when citing an obscure shortcut. For example, the gives readers an idea of the subject of the target page, while the bare abbreviation is unintelligible to those unfamiliar with the term.
+piped link
+[[WP:SHC|shortcut]]
+[[WP:SHC]]
+It should also be remembered that shortcuts are a convenience, not a substitute for titles. Shortcuts should not appear in , or any other place where a page title is expected.
+"See also" sections
+hatnotes
+
+Link boxes
+
+
+
+See also:
+Category:Wikipedia header templates
+
+
+
+
+
+Shortcut
+
+
+
+WP:LINKBOXES
+Small link boxes, listing the names of the page's shortcuts, appear at the top of many pages, especially those on policies and guidelines. A shortcut link box can be added to a page, by placing the template (for ) or (for Help pages) at the top of the page's text, while editing. For template redirects, is used instead.
+
+{{|WP:<x>}}
+shortcut
+project namespace
+
+{{|H:<x>}}
+shortcut
+
+{{}}
+Template shortcut
+The point of these template boxes is not to list every single redirect for any given page (that's what is for). Instead, they generally should list only the most common and easily remembered redirects.
+Special:WhatLinksHere
+pages with shortcuts pointing to them typically use or the template, such as on this page, instead of the shortcut template . Another frequently used template is: .
+Guideline
+
+{{|WP:<x>}}
+guideline
+{{}}
+subcat guideline
+
+{{}}
+shortcut
+
+{{|MOS:<x>}}
+MoS-guideline
+To learn more about the different shortcut box templates and their functions, see documentation at {{}}. Among other things, there are templates for making boxes flow to the left and now, anchors are automatically added, making it much simpler to link to a page section.
+shortcut
+
+Shortcut names
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:SCNAMES
+Shortcut names are almost always in uppercase.
+A shortcut is typically named using the following convention:
+
+
+PREFIX:SUFFIX
+In the above form, the prefix is typically one of the prefixes in the following section, and the suffix is an or of the redirect target. However quite a lot are simply .
+acronym
+abbreviation
+WP:BAD
+If the target is a , the following conventions are common (where 'Y' is an additional sequence of uppercase characters or numerals):
+sub-page
+
+
+PREFIX:SUFFIX/Y
+
+
+
+For example, is a shortcut to , which is a subpage of , which has a shortcut .
+P:HVNY/DYK
+Portal:Hudson Valley/Did you know
+Portal:Hudson Valley
+P:HVNY
+
+
+
+is a shortcut to , which is a subpage of , which has a shortcut .
+WP:ACC/P
+Wikipedia:Request an account/Procedures
+Wikipedia:Request an account
+WP:ACC
+
+
+PREFIX:SUFFIXY
+
+
+
+For example, is a shortcut to , which is a subpage of , which has the shortcut .
+WP:AFDLT
+Wikipedia:Articles for deletion/Log/Today
+Wikipedia:Articles for deletion
+WP:AFD
+Shortcuts that do not follow the above naming convention are discouraged, and are typically deleted.
+The directory of shortcuts contains several conflicts for prefixes of subpages, often caused by a shortcut being 're-targeted' (modified to point to a new target page) without the shortcuts to subpages also being re-targeted.
+
+
+
+For example, was originally used for , and several shortcuts for subpages were created ( & ). After several years, 'WP:CJ' was updated to point to , but the subpage shortcuts have not changed.
+WP:CJ
+Wikipedia:Community Justice
+WP:CJ/E
+WP:CJ/M/1
+Wikipedia:Centijimbos
+Before creating a shortcut, use to ensure that the same prefix is not being used for different purposes. e.g. has several existing uses. No additional confusion would be caused by creating a shortcut WP:CJQ, however creating a shortcut WP:CJ/Q would be adding to the existing mess. There is a long-standing feature request to resolve shortcut subpages automatically. (See .)
+Special:PrefixIndex
+WP:CJ
+T14980
+Prefixes that shouldn't be used for other purposes include:
+
+– naming conventions
+WP:NC
+– articles for deletion
+WP:AFD
+Other prefixes have become common for a set of pages include:
+
+– notability
+WP:N
+
+List of prefixes
+
+
+
+Namespace aliases
+
+
+The following are automatically translated by the Wikipedia servers.
+namespace aliases
+
+
+
+WP:
+Wikipedia:
+
+WT:
+Wikipedia talk:
+
+Project:
+Wikipedia:
+
+Project talk:
+Wikipedia talk:
+
+Image:
+File:
+
+Image talk:
+File talk:
+They are case-insensitive (so or or have the same meaning as ). For example, both and link directly to .
+wp:
+wP:
+Wp:
+WP:
+WP:TS
+wp:TS
+Wikipedia:TS
+One unique feature of the WP: alias is its utility in searching for vast number of project pages. This is because most project pages outside the Wikipedia namespace, will have a for the Wikipedia namespace prefix appended to their title and the same for most major shortcuts to them (e.g., Help:Watchlist, with the shortcut H:W, has redirects at and at . Thus, by extension, most project pages may be found by searching using the WP: alias alone, e.g. . For more, see .
+redirect
+Wikipedia:Watchlist
+WP:W
+WP:
+Name
+Help:WP search protocol
+
+Pseudo-namespaces
+
+
+When the shortcut does not use one of the namespace aliases listed above (WP or WT), it is a and is case-sensitive.
+cross-namespace redirect
+However, when a prefix is used by multiple shortcuts, and has broad community support, it is referred to as a to distinguish these shortcuts from other cross-namespace redirects. (Note that the term "" is also used to refer to namespaces without content that are provided by the MediaWiki software and extensions, such as Special:, Media:, Feedback:)
+pseudo-namespace
+pseudo-namespace
+The following prefixes may be used freely for the target listed.
+
+
+
+Prefix
+Target
+
+
+CAT:
+Category:
+
+
+H:
+Help:
+
+
+MOS:
+Wikipedia:Manual of Style
+
+
+P:
+Portal:
+Other prefixes do not enjoy the same level of community support. It is disputed whether they should be deemed to be pseudo-namespaces.
+The following prefixes are used for limited or specific uses only.
+
+
+
+
+T:
+Template:
+
+
+MP:
+Main Page
+The following prefixes do not enjoy broad community support.
+
+
+
+
+WikiProject:
+
+Wikiproject:
+Wikipedia:WikiProject
+
+
+MoS:
+
+Mos:
+Wikipedia:Manual of Style
+As of 2022, creation of "WikiProject:" and "Wikiproject:" pages is blocked for most users by due to repeated redirect creations against consensus; , , and can override this on a case-by-case basis if necessary. Note that some pages do exist or (that is, using a space, not a colon); however, as of March 2022 all of them redirect to mainspace articles rather than to projectspace pages. (For instance, redirects to , not to .)
+the title blacklist
+administrators
+template editors
+page movers
+starting with "WikiProject "
+with "Wikiproject "
+
+WikiProject Women in Red
+Women in Red
+Wikipedia:WikiProject Women in Red
+Portals have occasionally used spaces in shortcuts, e.g. "", or " portal". Most point to articles, but, as of March 2022, 144 .
+Portal
+X
+X
+redirects with such patterns
+point outside mainspace
+prefixPrefixIndex
+Technical note: The links in the tables above go to a page where the term
+is not used in the meaning as it has in this section. Rather, the code
+there means, as it does for , "the beginning string of characters in a title", whether that string ends before, during or after the colon character in a page name.
+the search parameter
+
+How to create a shortcut
+
+
+
+Note: The following is an example. The shortcut WP:TS already exists.
+Say you want to create the shortcut to an existing page, . Create a new page, , and in it place the following:
+WP:TS
+Wikipedia:Template standardisation
+Wikipedia:TS
+
+{{R from shortcut}}
+
+#REDIRECT [[Wikipedia:Template standardisation]]
+The resulting shortcut will be .
+WP:TS
+If you're creating a shortcut to a , you need to insert an additional colon (":") at the beginning of the link, as in the following.
+category
+
+{{R from shortcut}}
+
+#REDIRECT [[:Category:Redirects from shortcuts]]
+The template must always be included in this kind of redirect. It records that the redirect is a shortcut, and auto-categorizes it into .
+{{}}
+R from shortcut
+Category:Redirects from shortcuts
+
+
+(See for more information on categories of redirects.)
+Wikipedia:Template messages/Redirect pages
+Many shortcuts are ; others are or single but memorable words from a longer page title.
+acronyms or initialisms
+abbreviations
+
+Changing shortcuts
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:CHANGESC
+Technically that's easy. All it takes is to click on the shortcut wherever it is, then on the page it leads to (a shortcut is a redirect) click on the "redirected from" link near the top of the page (forcing in the URL when you go back to the shortcut page); edit the target ; then add if that template doesn't already appear.
+&redirect=no
+#REDIRECT [[Wikipedia:Whatever]]
+{{}}
+R from shortcut
+However, before changing a shortcut, consider its existing usage:
+
+If you wish to retarget a shortcut that's already in use, you should take into account how active its target page is. For example, if you just created a WikiProject, and want a specific shortcut for it, but the one you want is already in use by another project, it's generally recommended to post a message on that project's talk page asking the members if you may change the link, even if the project is tagged as .
+{{|inactive}}
+WikiProject status
+Above all, check the shortcut backlinks with "what links here"; changing a shortcut used elsewhere can be highly disruptive. If you do change a shortcut under these circumstances, you should be sure to change it in the pages that linked to it as well, so that they link to the old target. If they were used in any , it is not a good idea then to change the redirect because these discussions cannot be edited.
+closed deletion discussions
+If it has no backlink, folks might still use it directly when searching. If you're not 100% sure that the old target is unused, ask about it on the shortcut's talk page.
+For controversial cases, go to .
+Wikipedia:Requests for comment
+After changing a shortcut, there are other pages which may need to be updated:
+
+If the shortcut is already listed on or a similar list like , please update that entry showing the new target page.
+Wikipedia:List of shortcuts
+Wikipedia:Shortcuts to talk pages
+If the old target page mentions its shortcut, then that also should be updated, typically in or similar .
+{{}}
+Shortcut
+Wikipedia header templates
+
+Limitations
+
+
+Redirects (including shortcuts) to pages on other projects and won't work—this formerly supported feature was abused and hence it has been disabled. The software will display the redirect page instead of redirecting the user to the target.
+special pages
+Some redirects to other projects and special pages use the template {{}}; however, shortcuts that are a soft redirects will appear in the pool of pages that are selected by . Soft redirects are categorised into .
+soft redirect
+Special:Random
+Category:Wikipedia soft redirects
+
+See also
+
+
+
+
+Wikipedia:Redirect
+
+Wikipedia:Cross-namespace redirects
+
+Wikipedia:List of shortcuts
+(WP:WPR) — WikiProjects and Projects list of shortcuts
+Wikipedia:List of shortcuts/Project shortcuts
+(WP:WT) — all 'Wikipedia talk:' namespace (namespace 5) talk pages
+Wikipedia:Shortcuts to talk pages
+, on what NOT to do
+WP:WOTTA
+
+Wikipedia:WikiProject Shortcuts
+(m:WM:WM), shortcuts on Meta
+Meta:Meta:Shortcut
+, for creating global shortcuts to WMF project pages
+Meta:Special:URLShortener
+
+Category:Redirects from shortcuts
+
+Wikipedia:Database reports/Cross-namespace redirects
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Wikipedia:Shortcut&oldid=1075968679
+
+:
+Categories
+
+
+Wikipedia project content guidelines
+
+Wikipedia features
+
+Wikipedia how-to
+
+Wikipedia link help
+
+Wikipedia page help
+Hidden categories:
+
+
+Project pages with short description
+
+Wikipedia semi-protected project pages
+
+Wikipedia move-protected project pages
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Project page
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+View source
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+In other projects
+
+
+
+
+Wikimedia Commons
+
+
+Meta-Wiki
+
+
+Multilingual Wikisource
+
+
+Wikibooks
+
+
+Wikidata
+
+
+Wikinews
+
+
+Wikisource
+
+
+Wikivoyage
+
+
+Wiktionary
+
+
+Languages
+
+
+
+
+Afrikaans
+
+
+Alemannisch
+
+
+???????
+
+
+???????
+
+
+Asturianu
+
+
+Az?rbaycanca
+
+
+??????
+
+
+?????
+
+
+Bân-lâm-gú
+
+
+?????????
+
+
+??????????
+
+
+?????????? (???????????)
+
+
+???????
+
+
+?????????
+
+
+Català
+
+
+?eština
+
+
+Dansk
+
+
+Deutsch
+
+
+Dolnoserbski
+
+
+????????
+
+
+Español
+
+
+Esperanto
+
+
+?????
+
+
+Føroyskt
+
+
+Français
+
+
+????????
+
+
+??
+
+
+???
+
+
+??????
+
+
+Hornjoserbsce
+
+
+Hrvatski
+
+
+Bahasa Hulontalo
+
+
+Ilokano
+
+
+Bahasa Indonesia
+
+
+Íslenska
+
+
+Italiano
+
+
+?????
+
+
+Jawa
+
+
+???????
+
+
+????? / ?????
+
+
+???????
+
+
+????????
+
+
+Latina
+
+
+Magyar
+
+
+??????
+
+
+Malti
+
+
+?????????
+
+
+????????
+
+
+Bahasa Melayu
+
+
+Mirandés
+
+
+Nederlands
+
+
+??????
+
+
+???
+
+
+Norsk bokmål
+
+
+Norsk nynorsk
+
+
+?????
+
+
+O?zbekcha/???????
+
+
+????
+
+
+Polski
+
+
+Português
+
+
+Român?
+
+
+???????
+
+
+Scots
+
+
+?????
+
+
+Simple English
+
+
+????
+
+
+Sloven?ina
+
+
+Slovenš?ina
+
+
+?l?nski
+
+
+Soomaaliga
+
+
+?????? / srpski
+
+
+Srpskohrvatski / ??????????????
+
+
+Suomi
+
+
+Svenska
+
+
+?????
+
+
+??????
+
+
+???
+
+
+??????
+
+
+Türkçe
+
+
+??????????
+
+
+????
+
+
+Ti?ng Vi?t
+
+
+??
+
+
+??
+
+
+Edit links
+
+
+This page was last edited on 8 March 2022, at 16:59.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

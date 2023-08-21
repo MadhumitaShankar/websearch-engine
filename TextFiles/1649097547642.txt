@@ -1,0 +1,710 @@
+
+
+
+
+File:User-info.svg - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File:User-info.svg
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+File
+
+File history
+
+File usage
+
+Metadata
+
+
+
+Size of this PNG preview of this SVG file: .
+48 × 48 pixels
+Other resolutions: | | | | .
+240 × 240 pixels
+480 × 480 pixels
+768 × 768 pixels
+1,024 × 1,024 pixels
+2,048 × 2,048 pixels
+
+?
+Original file
+(SVG file, nominally 48 × 48 pixels, file size: 20 KB)
+
+
+
+
+
+
+
+
+See the and for more details. Please discuss any changes on the ; you may to ask an to make an edit if it is or supported by . You may also that this page be unprotected.
+This file is currently from editing.
+protected
+
+protection policy
+protection log
+talk page
+
+submit an edit request
+administrator
+uncontroversial
+consensus
+request
+
+
+?
+
+
+The source code of this is .
+SVG
+valid
+
+
+
+
+
+This is a local copy of , uploaded to ensure protection. See for more information about this file.
+an image on Commons
+the description page on Commons
+
+
+
+
+
+This image or media file is available on the as . While the license of this file may be compliant with the Wikimedia Commons, an editor has requested that the local copy be kept too. This file does not meet , and should not be tagged as a . If you desire to nominate it for , notify the tagging editor.
+The uploader or another editor requests that a local copy of this file be kept.
+
+Wikimedia Commons
+
+File:User-info.svg
+CSD F8
+Commons duplicate
+deletion
+
+
+
+
+Summary
+
+[
+edit
+]
+
+
+
+
+
+This image or media file may be available on the as . While the license of this file may be compliant with the Wikimedia Commons, an editor has requested that the local copy be kept too. This file does not meet , and should not be tagged as a . If you desire to nominate it for , notify the tagging editor.
+The uploader or another editor requests that a local copy of this file be kept.
+
+Wikimedia Commons
+
+File:User-info.svg
+CSD F8
+Commons duplicate
+deletion
+
+
+
+
+
+
+Description
+
+An icon from the . Locally uploaded to the English Wikipedia so it can be protected here, because it is high-risk due to its use in some interface messages such as and .
+
+GNOME-icon-theme
+
+MediaWiki:Sp-contributions-footer
+MediaWiki:Sp-contributions-footer-anon
+
+Source
+
+/
+GNOME SVN
+GNOME FTP
+
+Date
+
+2007
+
+Author
+
+
+GNOME icon artists
+
+Permission
+
+()
+Reusing this file
+
+COPYING
+
+
+
+
+
+
+This work is ; you can redistribute it and/or modify it under the terms of the as published by the ; either version 2 of the License, or any later version.
+free software
+GNU General Public License
+Free Software Foundation
+
+This work is distributed in the hope that it will be useful, but ; without even the implied warranty of or . See and for more details. You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+without any warranty
+merchantability
+fitness for a particular purpose
+version 2
+version 3 of the GNU General Public License
+https://www.gnu.org/licenses/gpl.html
+GPL
+GNU General Public License
+true
+true
+File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+
+
+Date/Time
+Thumbnail
+Dimensions
+User
+Comment
+
+current
+
+20:07, 24 October 2008
+
+
+
+48 × 48
+(20 KB)
+
+
+Ilmari Karonen
+
+( | )
+talk
+contribs
+reupload, previous version was lost due to software bug
+
+
+
+03:40, 21 August 2008
+
+
+
+48 × 48
+(20 KB)
+
+
+Davidgothberg
+
+( | )
+talk
+contribs
+{{information |Description={{en|An icon from the ''[http://svn.gnome.org/viewvc/gnome-icon-theme/ GNOME-icon-theme]''.}} |Source=[http://svn.gnome.org/viewvc/gnome-icon-theme/trunk/ GNOME SVN] / [http://ftp.gnome.org/pub/gnome/sources/gnome-icon-theme/ GN
+
+You cannot overwrite this file.
+File usage
+
+The following file is a duplicate of this file ():
+more details
+
+from Commons
+File:User-info.svg
+
+More than 100 pages use this file. The following list shows the first 100 pages that use this file only. A is available.
+full list
+
+
+User:A7x
+
+User:Acps110
+
+User:Allstarecho/icongallery
+
+User:Amin pedia
+
+User:Armbrust
+
+User:BullWikiWinkle
+
+User:Carolus Ludovicus~enwiki
+
+User:Chrishmt0423/tools
+
+User:Chrisportelli
+
+User:City la Zurcher
+
+User:DarTar
+
+User:Datumizer
+
+User:Davidgothberg/DO NOT DELETE or unprotect items protected by this page, not even if it is an image that has a backup copy on Commons
+
+User:Davidgothberg/Test30
+
+User:Davidgothberg/Test34
+
+User:Denis.arnaud
+
+User:DoriSmith/Sandbox
+
+User:Droll/ header
+
+User:Dromioofephesus
+
+User:Dromioofephesus/Lateral Puzzles
+
+User:Dromioofephesus/Usertalkheader
+
+User:Dromioofephesus/Userwikify
+
+User:Dromioofephesus/dromiouserinfobox
+
+User:Dromioofephesus/navbox
+
+User:Dromioofephesus/userboxsidebar
+
+User:Dvdrtrgn
+
+User:Emargie
+
+User:Erin sinclair
+
+User:Ezhuttukari
+
+User:Fifehorse
+
+User:GateKeeper
+
+User:Gramscis cousin
+
+User:Grandiose
+
+User:Holyroller07
+
+User:J04n
+
+User:Jaretac
+
+User:Jarry1250
+
+User:JimMillerJr
+
+User:Jonathanburger
+
+User:Juhachi/talkheader
+
+User:Jürgen Pierau
+
+User:Kallewirsch
+
+User:Kanesue
+
+User:Kaobear
+
+User:Kidkavon
+
+User:Kongr43gpen
+
+User:LaUr3nTiU
+
+User:LemonCrumpet
+
+User:Lord Matt
+
+User:Lord Matt/Thanet Star
+
+User:Lord Matt/UserBoxes
+
+User:Lord Matt/madness
+
+User:Lucideer
+
+User:Marshall Williams2
+
+User:Nzd
+
+User:Onorem/User
+
+User:Owain2002
+
+User:People-photo-bot
+
+User:Pigsonthewing/about
+
+User:PsyKater
+
+User:Qaz
+
+User:Ridge Runner
+
+User:Ringerfan23
+
+User:RyanCross/U
+
+User:SGBailey
+
+User:SGCommand
+
+User:Sadads
+
+User:Sbp
+
+User:Scottydude
+
+User:Scottydude/toolbox
+
+User:Scottydude/userpagefooter
+
+User:Seegoon
+
+User:Seth Whales/Sandbox 4
+
+User:Simon Peter Hughes
+
+User:Snacks
+
+User:Thane
+
+User:TimDuncan
+
+User:Traveler100
+
+User:Ukexpat
+
+User:Valjean
+
+User:Valjean/Leftcolumn
+
+User:Vipulcvyas
+
+User:Waldyrious
+
+User talk:88.11.76.168
+
+User talk:Dromioofephesus
+
+User talk:Juhachi
+
+User talk:One last pharaoh
+
+User talk:Rodejong
+
+Wikipedia:Administrators' noticeboard/Archive188
+
+Wikipedia:Village pump (technical)/Archive 46
+
+Wikipedia talk:Articles for deletion/Archive 51
+
+MediaWiki:Anontalkpagetext
+
+MediaWiki:Sp-contributions-footer
+
+MediaWiki:Sp-contributions-footer-anon
+
+MediaWiki talk:Sp-contributions-footer-anon
+
+Template:Fmbox
+
+Template:Fmbox/doc
+
+Template:Fmbox/sandbox
+
+Template:Sp-contributions-footer
+
+Template:Sp-contributions-footer/doc
+View to this file.
+more links
+Metadata
+
+This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+If the file has been modified from its original state, some details may not fully reflect the modified file.
+
+
+
+Width
+48
+
+Height
+48
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=File:User-info.svg&oldid=1035948704
+
+:
+Categories
+
+
+GPL files
+
+Wikipedia icons
+Hidden categories:
+
+
+Wikipedia fully-protected files
+
+Wikipedia images in SVG format
+
+Wikipedia files on Wikimedia Commons for which a local copy has been requested to be kept
+
+Wikipedia upload-protected files
+
+Wikipedia indefinitely move-protected pages
+
+All free media
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+File
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+Edit
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+Languages
+
+
+
+
+
+
+This page was last edited on 28 July 2021, at 15:57.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+
+
+

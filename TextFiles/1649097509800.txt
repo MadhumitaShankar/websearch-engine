@@ -1,0 +1,2761 @@
+
+
+
+
+Wikipedia:Protection policy - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia:Protection policy
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+Policy on page protection
+
+
+See also: and
+Wikipedia:Requests for page protection
+Wikipedia:Lists of protected pages
+
+"WP:PP" and "WP:PROTECT" redirect here. For other uses, see , , , , and .
+Wikipedia:Perennial proposals
+Wikipedia:WikiProject Parliamentary Procedure
+Wikipedia:Party and person
+Wikipedia:Child protection
+Wikipedia:WikiProject Protected areas
+
+
+
+
+
+
+
+This page documents an English Wikipedia .
+policy
+
+It describes a widely accepted standard that all editors should follow. Changes made to it should reflect .
+normally
+consensus
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:PP
+
+
+WP:PROTECT
+
+
+
+
+
+While Wikipedia strives to be as open as possible, sometimes it is necessary to limit editing of certain pages in order to prevent , , or other .
+This page in a nutshell:
+vandalism
+edit warring
+disruptive edits
+
+
+
+
+
+
+
+Are you in the right place?
+
+
+
+
+
+This page is for documenting and explaining the English Wikipedia on page protection.
+policy
+
+
+
+Are you trying to request protection of a page? .
+
+Request page protection
+Are you trying to request removal of a page's protection? .
+
+Request a change in page protection level
+Do you want to request an edit be made to a protected page? .
+
+Create an edit request
+Do you need to report persistent vandalism or spam to an ? .
+administrator
+
+File a vandalism report
+Do you need to report an inappropriate username or an account with a username that blatantly violates Wikipedia's ? .
+username policy
+
+File a username report
+Are you currently blocked from editing Wikipedia and wish to request an unblock? You can resolve this matter by .
+
+appealing your block
+Do you need to report an or violation to an administrator? .
+edit war
+three-revert rule
+
+File an edit war report
+Do you need to report or discuss a policy violation or behavioral issue (such as an evasion of a , abuse of tools, or other incidents) on Wikipedia that requires administrator intervention? .
+block
+
+File an incident report
+
+
+
+
+
+policies
+Enforcement
+
+
+
+
+Administrators
+
+Banning policy
+
+Blocking policy
+
+Protection policy
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+
+
+
+
+
+
+Fully-protected
+
+Goldlock
+
+
+
+
+
+Interface protected
+
+Redlock
+
+
+
+
+
+Template-protected
+
+Pinklock
+
+
+
+
+
+Semi-protected
+
+Silverlock
+
+
+
+
+
+Create protected
+
+Skybluelock
+
+
+
+
+
+Move protected
+
+Greenlock
+
+
+
+
+
+Upload protected
+
+Purplelock
+
+
+
+
+
+Pending changes protected
+
+Whitelock
+
+
+
+
+
+Extended confirmed protected
+
+Bluelock
+
+
+
+
+
+Protected by Office
+
+Blacklock
+
+
+
+
+
+Cascade protected
+
+Turquoiselock
+In some circumstances, pages may need to be from modification by certain groups of editors. Pages are protected when a specific damaging event has been identified that can not be prevented through other means such as a . Otherwise, Wikipedia is built on the principle that , and it therefore aims to have as many of its pages as possible open for public editing so that anyone can add material and correct errors. This policy states in detail the protection types and procedures for page protection and unprotection and when each protection should and should not be applied.
+protected
+block
+anyone can edit it
+Protection is a technical restriction applied only by , although any user may . Protection can be or expire after a specified time. The various levels of protection are detailed below, and they can be applied to the page edit, page move, page create, and file upload actions. Even when a page is protected from editing, the () of the page can still be viewed and copied by anyone.
+administrators
+request protection
+indefinite
+source code
+wikitext
+A protected page is marked at its top right by a padlock icon, usually added by the template.
+{{}}
+pp-protected
+
+
+
+Contents
+
+
+
+
+
+1
+Types of protection
+
+
+
+1.1
+Full protection
+
+
+
+1.1.1
+Content disputes
+
+
+1.1.2
+Vandalism
+
+
+1.1.3
+"History only" review
+
+
+1.1.4
+Protected generic file names
+
+
+1.1.5
+Permanent protection
+
+
+1.2
+Template protection
+
+
+1.3
+Semi-protection
+
+
+
+1.3.1
+Guidance for administrators
+
+
+1.4
+Creation protection (salting)
+
+
+1.5
+Move protection
+
+
+1.6
+Upload protection
+
+
+1.7
+Pending changes protection
+
+
+
+1.7.1
+When to apply pending changes protection
+
+
+1.8
+Extended confirmed protection
+
+
+1.9
+Office actions
+
+
+1.10
+Cascading protection
+
+
+2
+Former deleted protections
+
+
+
+2.1
+Superprotect
+
+
+2.2
+Cascading semi-protection
+
+
+2.3
+Pending changes protection level 2
+
+
+3
+Protection by namespace
+
+
+
+3.1
+Article talk pages
+
+
+3.2
+User talk pages
+
+
+
+3.2.1
+Blocked users
+
+
+3.3
+User pages
+
+
+
+3.3.1
+Deceased users
+
+
+3.4
+Protection of templates
+
+
+3.5
+Sandboxes
+
+
+4
+Available templates
+
+
+5
+See also
+
+
+6
+Notes
+
+Types of protection
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:PPLIST
+The following technical options are available to administrators for protecting different actions to pages:
+
+protects the page from being .
+Edit protection
+edited
+protects the page from being .
+Move protection
+moved or renamed
+prevents a page (normally a previously one) from being created (also known as "").
+Creation protection
+deleted
+salting
+prevents new versions of a file from being , but it does not prevent editing to the file's description page (unless edit protection is applied).
+Upload protection
+uploaded
+The following technical options are available to administrators for adding protection levels to the different actions to pages:
+
+means edits by unregistered and new editors are not visible to readers who are not logged-in until the edits are approved by a or an administrator.
+Pending changes protection
+(only available for edit protection)
+reviewer
+prevents the action by unregistered editors and editors with accounts that are not .
+Semi-protection
+confirmed
+, also known as , prevents the action by users without 30 days' tenure and 500 edits on the English Wikipedia. In most cases it should not be a protection level of first resort, and should be used where semi-protection has proven to be ineffective. Its use is logged at the .
+Extended confirmed protection
+30/500 protection
+Administrators' noticeboard
+prevents the action by everyone except and (who have this right as part of their toolset).
+Template protection
+template editors
+administrators
+prevents the action by everyone except .
+Full protection
+administrators
+Any type of protection (with the exception of ) may be requested at . Changes to a fully protected page should be proposed on the corresponding , then carried out by an administrator if they are uncontroversial or there is for them.
+cascading protection
+Wikipedia:Requests for page protection
+talk page
+consensus
+Except in the case of (see ), remedies, or pages in the MediaWiki namespace (see ), administrators may unprotect a page if the reason for its protection no longer applies, a reasonable period has elapsed, and there is no consensus that continued protection is necessary. Editors desiring the unprotection of a page should, in the first instance, ask the administrator who applied the protection unless the administrator is inactive or no longer an administrator; thereafter, requests may be made at . Note that such requests will normally be declined if the protecting administrator is active and was not consulted first. A log of protections and unprotections is available at .
+
+office actions
+below
+Arbitration Committee
+below
+Requests for unprotection
+Special:Log/protect
+
+
+
+Interaction of Wikipedia user groups and page protection levels
+
+
+
+or
+Unregistered
+Newly registered
+or
+Confirmed
+Auto-confirmed
+
+Extended confirmed
+
+Template editor
+
+Admin
+
+Interface admin
+Appropriate for
+
+No protection
+
+
+normal editing
+The vast majority of pages. (This is the default protection level.)
+
+
+
+
+Pending changes protection
+
+Edits by (and any subsequent edits by ) are hidden from readers who are not logged in, until reviewed by a or . Logged-in editors see all edits, whether accepted or not.
+
+all users can edit.
+
+unregistered or new editors
+anyone
+
+pending changes reviewer
+admin
+Infrequently edited pages with high levels of vandalism, violations, edit-warring, or other disruption from unregistered and new users
+BLP
+
+
+
+
+Semi-protection
+
+
+cannot edit
+
+
+normal editing
+Pages that are frequently edited by anonymous and registered users; some highly visible templates & modules
+
+
+
+
+Extended- confirmed prot.
+
+
+
+cannot edit
+
+
+normal editing
+*
+Specific topic areas authorized by ; pages where semi-protection has failed; where template protection would be too restrictive
+ArbCom
+high-risk templates
+
+
+
+
+
+Template prot.
+
+
+cannot edit
+
+
+normal editing
+or very frequently used templates & modules; also high-risk pages outside
+High-risk
+some
+template space
+
+
+
+
+Full protection
+
+
+cannot edit
+
+
+normal editing
+Articles with persistent disruption from extended confirmed accounts; critical templates & modules
+
+
+
+
+Interface protection
+
+
+cannot edit
+
+
+normal editing
+Scripts, stylesheets, and similar objects central to operation of the site
+
+In order to edit through extended confirmed protection, a template editor must also be extended confirmed, but in practice this is essentially always the case.
+
+*
+Other modes of protection:
+
+
+
+
+
+
+
+Create protection
+
+
+
+Move protection
+
+
+
+Upload protection
+
+
+
+Office protection
+
+
+
+Cascade protection
+
+
+
+
+
+
+view
+
+
+talk
+
+
+edit
+
+
+
+Full protection
+
+
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:FULL
+
+
+WP:GOLDLOCK
+A fully protected page cannot be edited or moved by anyone except . The protection may be for a specified time or may be indefinite.
+administrators
+Modifications to a fully protected page can be proposed on its (or at another appropriate forum) for discussion. Administrators can make changes to the protected article reflecting . Placing the template on the talk page will draw the attention of administrators for implementing uncontroversial changes.
+talk page
+consensus
+{{}}
+Edit fully-protected
+
+
+
+Content disputes
+
+
+
+See also:
+Wikipedia:Stable version
+
+"WP:PREFER" redirects here. For what title name should be preferred, see .
+Wikipedia:Disambiguation § Primary topic
+While content disputes and may be addressed with user issued by administrators, allowing normal page editing by other editors at the same time, the protection policy provides an alternative approach as administrators have the discretion to temporarily fully protect an article to end an ongoing edit war. This approach may better suit multi-party disputes and contentious content, as it makes talk page a requirement for implementation of .
+edit warring
+blocks
+uninvolved
+consensus
+requested edits
+
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:PREFER
+When protecting a page because of a content dispute, administrators have a duty to avoid protecting a version that contains policy-violating content, such as , , , or . Administrators are deemed to remain uninvolved when exercising discretion on whether to apply protection to the current version of an article, or to an older, , or pre-edit-war version.
+vandalism
+copyright violations
+defamation
+poor-quality coverage of living people
+stable
+Protected pages may not be edited except to make changes that are uncontroversial or for which there is clear consensus. Editors convinced that the protected version of an article contains policy-violating content, or that protection has rewarded edit warring or disruption by establishing a contentious revision, may identify a stable version the edit war and reversion to that version. Before making such a request, editors should consider how independent editors might view the suggestion and recognize that continuing an edit war is grounds for being blocked.
+prior to
+request
+Administrators who have made substantive content changes to an article are considered and must not use their advanced permissions to further their own positions. When involved in a dispute, it is almost always wisest to respect the editing policies that bind all editors and call for input from an uninvolved administrator, rather than to invite controversy by acting unilaterally.
+involved
+
+Vandalism
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:NO-PREEMPT
+
+
+WP:PREEMPTIVE
+Applying page protection as a preemptive measure is contrary to the open nature of Wikipedia and is generally not allowed if applied for these reasons. However, brief periods of an appropriate and reasonable protection level are allowed in situations where blatant vandalism or disruption is occurring by multiple users and at a level of frequency that requires its use in order to stop it. The duration of the protection should be set as short as possible, and the protection level should be set to the lowest restriction needed in order to stop the disruption while still allowing productive editors to make changes.
+
+
+"History only" review
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:PPDRV
+If a deleted page is going through , only administrators are normally capable of viewing the former content of the page. If they feel it would benefit the discussion to allow other users to view the page content, administrators may the page, blank it or replace the contents with template or a similar notice, and fully protect the page to prevent further editing. The previous contents of the page are then accessible to everyone via the .
+deletion review
+restore
+{{}}
+Temporarily undeleted
+page history
+
+Protected generic file names
+
+
+
+Generic file names such as , , and are fully protected to prevent new versions being uploaded. Furthermore, and are .
+File:Photo.jpg
+File:Map.jpg
+File:Sound.wav
+File:Map.jpg
+File:Sound.wav
+salted
+
+
+
+
+Permanent protection
+
+
+
+
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:PPINDEF
+
+
+WP:REDLOCK
+Administrators cannot change or remove the protection for some areas on Wikipedia, which are permanently protected by the software:
+MediaWiki
+
+Edits to the , which defines parts of the site interface, are restricted to administrators.
+MediaWiki namespace
+
+Edits to system-wide CSS and JavaScript pages such as are further restricted to .
+MediaWiki:common.js
+interface administrators
+Edits to personal CSS and JavaScript pages such as and are restricted to the associated user and interface administrators. Interface administrators may edit these pages, for example, to remove a user script that has been used in an inappropriate way. Administrators may delete (but not edit or restore) these pages.
+User:Example/monobook.css
+User:Example/cologneblue.js
+Edits to personal JSON pages such as are restricted to the associated user and administrators.
+User:Example/data.json
+Such protection is called Permanent, Interface, or Indefinite protection; and pages so protected can only be edited by those with .
+Interface Administrator rights
+In addition to hard-coded protection, the following are usually fully protected for an indefinite period of time (though not necessarily with Interface protection):
+
+Pages that are very visible, such as the
+Main Page
+Pages that should not be modified for copyright or legal reasons, such as the or the .
+general disclaimer
+local copy of the site copyright license
+Pages that are very frequently , such as or , to prevent or attacks. This includes images or templates used in other highly visible or frequently transcluded pages. See for more information.
+transcluded
+{{}}
+tl
+{{}}
+citation needed
+vandalism
+denial of service
+Wikipedia:High-risk templates
+
+
+
+Template protection
+
+
+
+Main page:
+Wikipedia:Template editor
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:TPROT
+
+
+WP:PINKLOCK
+A template-protected page can be edited only by administrators or users in the Template editors group. This protection level should be used almost exclusively on and . In cases where pages in other namespaces become transcluded to a very high degree, this protection level is also valid.
+high-risk templates
+modules
+This is a protection level that replaces on pages that are merely protected due to high transclusion rates, rather than content disputes. It should be used on templates whose risk factor would have otherwise warranted full protection. It should not be used on less risky templates on the grounds that the user right exists—the existence of the right should not result in more templates becoming uneditable for the general editing community. In borderline cases, or lower may be applied to high risk templates that the general editing community still needs to edit regularly.
+
+[1]
+full protection
+template editor
+extended confirmed protection
+Editors may request edits to a template-protected page by proposing them on its talk page, using the template if necessary to gain attention.
+{{}}
+Edit template-protected
+
+
+
+
+Semi-protection
+
+
+
+See also:
+Wikipedia:Rough guide to semi-protection
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:SEMI
+
+
+WP:SILVERLOCK
+Semi-protected pages cannot be edited by (), as well as accounts that are not (accounts that are at least four days old and have made at least ten edits to Wikipedia) or . Semi-protection is useful when there is a significant amount of disruption or from new or unregistered users, or to prevent of blocked or banned users from editing, especially when it occurs on who have had a recent high level of media interest. An alternative to semi-protection is , which is sometimes favored when an article is being vandalized regularly, but otherwise receives a low amount of editing.
+unregistered users
+IP addresses
+autoconfirmed
+confirmed
+vandalism
+sockpuppets
+biographies of living persons
+pending changes
+Such users can request edits to a semi-protected page by proposing them on its talk page, using the {{}} template if necessary to gain attention. If the page in question and its talk page are protected, please make your edit request at instead. New users may also request the confirmed user right at .
+Edit semi-protected
+both
+Wikipedia:Requests for page protection
+Wikipedia:Requests for permissions/Confirmed
+
+Guidance for administrators
+
+
+Administrators may apply semi-protection to pages that are subject to heavy and persistent or violations of (such as , ). Semi-protection should be used as a preemptive measure against vandalism that has not yet occurred or to privilege registered users over unregistered users in (valid) content disputes.
+indefinite
+vandalism
+content policy
+biographies of living persons
+neutral point of view
+not
+In addition, administrators may apply semi-protection on pages that are:
+temporary
+
+Subject to significant but temporary vandalism or disruption (for example, due to ) if individual users is not a feasible option.
+media attention
+blocking
+Subject to if parties involved are unregistered or new editors (i.e. in cases in which full protection would otherwise be applied). This does apply when autoconfirmed users are involved.
+edit warring
+all
+not
+Subject to or where unregistered editors are engaging in by using different computers, obtaining new addresses by using allocation, or other address-changing schemes.
+vandalism
+edit warring
+IP hopping
+dynamic IP
+Article discussion pages, if they have been subject to persistent disruption. Such protection should be used sparingly because it prevents unregistered and newly registered users from participating in discussions. A page and its talk page should not normally be protected at the same time. If a page and its talk page are both protected, the talk page should direct affected editors to to ensure that no editor is entirely prevented from contributing.
+Wikipedia:Request for edit
+Protection should be used sparingly on the talk pages of blocked users, including IP addresses. Instead the user should be re-blocked with talk page editing disallowed. When required, or when re-blocking without talk page editing allowed is unsuccessful, protection should be implemented for only a brief period not exceeding the duration of the block.
+may be semi-protected just like any other article. But since that article is subject to sudden spurts of vandalism during certain times of day, administrators should semi-protect it for brief periods in most instances. For the former guideline, see .
+Today's featured article
+Wikipedia:Main Page featured article protection
+
+
+
+
+
+
+Creation protection (salting)
+
+
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:SALT
+
+
+WP:SKYBLUELOCK
+Administrators can prevent the creation of pages. This level of protection is useful for pages that have been but repeatedly recreated. Such protection is case-sensitive. There are several levels of creation protection that can be applied to pages, identical to the levels for edit protection. A list of protected titles may be found at (see also ).
+deleted
+Special:ProtectedTitles
+historical lists
+Pre-emptive restrictions on new article titles are instituted through the system, which allows for more flexible protection with support for and .
+title blacklist
+substrings
+regular expressions
+Pages that have been creation-protected are sometimes referred to as "". Editors wishing to re-create a salted title with appropriate content should either contact an (preferably the protecting administrator), file a request at , or use the process. To make a convincing case for re-creation, it is helpful to show a of the intended article when filing a request.
+
+salted
+administrator
+Wikipedia:Requests for page protection#Current requests for reduction in protection level
+deletion review
+draft version
+Administrators should choose the appropriate level of create protection—autoconfirmed, extended-confirmed, or full. Due to the implementation of , non-confirmed editors cannot create pages in ; thus, semi-creation protection should be rare, used only for protection of pages outside of mainspace.
+
+[2]
+ACPERM
+mainspace
+While creation-protection is usually permanent, temporary creation protection may be applied if a page is repeatedly recreated by a single user (or of that user, if applicable).
+sockpuppets
+
+
+
+
+Move protection
+
+
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:MOVP
+
+
+WP:GREENLOCK
+Move-protected pages, or more technically, fully move-protected pages, cannot be moved to a new title except by an administrator. Move protection is commonly applied to:
+
+Pages subject to persistent page-move .
+vandalism
+Pages subject to a page-name dispute.
+Highly visible pages that have no reason to be moved, such as the and articles selected as "" on the main page.
+administrators' noticeboard
+Today's featured article
+Fully edit-protected pages are also implicitly move-protected.
+As with full edit protection, protection because of edit warring . When move protection is applied during a requested move discussion, the page should be protected at the location it was at when the move request was started.
+should not be considered an endorsement of the current name
+All are implicitly move-protected; only and administrators can rename files.
+files
+file movers
+
+
+
+
+Upload protection
+
+
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:UPLOAD-P
+
+
+WP:PURPLELOCK
+Upload-protected files, or more technically, fully upload-protected files, cannot be replaced with new versions except by an administrator. Upload protection does not protect file pages from editing. It may be applied by an administrator to:
+
+Files subject to persistent upload .
+vandalism
+Files subject to a dispute between editors.
+Files that should not be replaced, such as images used in the interface or transcluded to the main page.
+Files with common or generic names. (e.g., )
+File:Map.png
+As with full edit protection, administrators should avoid favoring one version over another, and protection should not be considered an endorsement of the current version. An exception to this rule is when they are protected due to upload vandalism.
+
+
+
+
+
+
+
+Pending changes protection
+
+
+
+Further information:
+Wikipedia:Pending changes
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:PCPP
+
+
+WP:WHITELOCK
+Pending changes protection is a tool used to suppress and certain other persistent problems while allowing all users to continue to submit edits. Pending changes protection can be used as an alternative to semi-protection to allow unregistered and new users to edit pages, while keeping the edits hidden from most readers until those changes are accepted by a .
+vandalism
+pending changes reviewer
+When a page under pending changes protection is edited by an (IP addresses) editor or a , the edit is not directly visible to the majority of Wikipedia readers, until it is reviewed and accepted by an editor with the . When a page under pending changes protection is edited by an , the edit will be immediately visible to Wikipedia readers, unless there are pending edits waiting to be reviewed.
+unregistered
+new user
+pending changes reviewer right
+autoconfirmed user
+Pending changes are visible in the page history, where they are marked as pending review. Readers that are (the vast majority of readers) are shown the latest version of the page; users see the latest version of the page, with all changes (reviewed or not) applied. When editors who are not reviewers make changes to an article with unreviewed pending changes, their edits are also marked as pending and are not visible to most readers.
+not logged in
+accepted
+logged-in
+A user who clicks "edit this page" is always, at that point, shown the latest version of the page for editing .
+regardless of whether the user is logged in or not
+
+If the editor is not logged in, their changes join any other changes to the article awaiting review – for the present they remain hidden from not-logged-in users. (This means that when the editor looks at the article after saving, the editor won't see the change made.)
+If the editor is logged in and a pending changes reviewer, and there are pending changes, the editor will be prompted to review the pending changes before editing – see .
+Wikipedia:Pending changes
+If the editor is logged in and not a pending changes reviewer, then...
+
+
+If there are no unreviewed pending edits waiting, this editor's edits will be visible to everyone immediately; but
+If there are unreviewed pending edits waiting, then this editor's edits will be visible only to other logged-in users (including themself) immediately, but not to readers not logged in.
+Reviewing of pending changes should be resolved within reasonable time limits.
+
+When to apply pending changes protection
+
+
+Pending changes may be used to protect articles against:
+
+Persistent vandalism
+Violations of the policy
+biographies of living persons
+
+Copyright violations
+Pending changes protection should not be used as a preemptive measure against violations that have not yet occurred. Like semi-protection, PC protection should be used in genuine content disputes, where there is a risk of placing a particular group of editors (unregistered users) at a disadvantage. Pending changes protection should not be used on articles with a very high edit rate, even if they meet the aforementioned criteria. Instead, semi-protection should be considered.
+never
+In addition, administrators may apply temporary pending changes protection on pages that are subject to significant but temporary vandalism or disruption (for example, due to media attention) when blocking individual users is not a feasible option. As with other forms of protection, the time frame of the protection should be proportional to the problem. Indefinite PC protection should be used only in cases of severe long-term disruption.
+Removal of pending changes protection can be requested of any administrator, or at .
+requests for unprotection
+The reviewing process is described in detail at .
+
+Wikipedia:Reviewing pending changes
+
+
+
+
+
+
+Extended confirmed protection
+
+
+
+See also:
+Wikipedia:Rough guide to extended confirmed protection
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:ECP
+
+
+WP:BLUELOCK
+Extended confirmed protection, also known as 30/500 protection, only allows edits by editors with the user access level, granted automatically to registered users with at least 30 days' tenure and 500 edits.
+extended confirmed
+Where semi-protection has proven to be ineffective, administrators may use extended confirmed protection to combat disruption (such as , abusive , , etc.) on any topic. Extended confirmed protection should not be used as a preemptive measure against disruption that has not yet occurred, nor should it be used to privilege extended confirmed users over unregistered/new users in valid content disputes on articles not covered by Arbitration Committee 30/500 rulings. Extended confirmed protection may be applied at the discretion of an administrator when creation-protecting a page. may be extended-confirmed protected at administrator discretion when template protection would be too restrictive and semi-protection would be ineffective to stop widespread disruption.
+vandalism
+sockpuppetry
+edit wars
+
+[2]
+High-risk templates
+
+[3]
+Until August 12, 2016, 30/500 protection applied only in topic areas determined by the , which authorized its use on articles reasonably construed as belonging to the ; as an arbitration enforcement tool by motion or remedy; or as a result of community consensus. In February 2019, the community authorized uninvolved administrators to place pages reasonably construed as belonging to the under extended confirmed protection as part of a general sanctions regime. In May 2020 the Arbitration Committee authorized extended confirmed protection to pages related to the history of Jews and during World War II (1933–1945).
+
+[4]
+Arbitration Committee
+Arab–Israeli conflict
+
+[5]
+
+[6]
+
+[7]
+India–Pakistan conflict
+
+[8]
+antisemitism in Poland
+
+[9]
+As of September 23, 2016, a bot posts a notification in a subsection of when this protection level is used. Any protection made as arbitration enforcement must be logged at . A full list of the 3678 pages under 30/500 protection can be found .
+AN
+
+[10]
+Wikipedia:Arbitration enforcement log
+
+here
+Users can request edits to an extended confirmed-protected page by proposing them on its talk page, using the template if necessary to gain attention.
+{{}}
+Edit extended-protected
+
+
+
+
+Office actions
+
+
+
+See also:
+Wikipedia:Office actions
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:WMF-PRO
+
+
+WP:BLACKLOCK
+As outlined in , pages may be protected by staff in response to issues such as copyright infringement or libel. . Administrators should edit or unprotect such pages without permission from Wikimedia Foundation staff.
+Meta-Wiki:Office actions#Use of advanced rights by Foundation staff
+Wikimedia Foundation
+Such actions override community consensus
+not
+
+[11]
+
+
+
+Cascading protection
+
+
+
+"WP:CASCADE" redirects here. You may also be looking for or .
+Help:Cascading Style Sheets
+Wikipedia:Cascade-protected items
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:CASCADE
+
+
+WP:TURQUOISELOCK
+Cascading protection fully protects a page, and extends that full protection to any page that is onto the protected page, whether directly or indirectly. This includes templates, images and other media that are hosted on the English Wikipedia. Files stored on Commons are protected by any other wiki's cascading protection and, if they are to be protected, must be either temporarily uploaded to the English Wikipedia or explicitly protected at Commons (whether manually or through cascading protection there). When operational, cascade-protects Commons files transcluded at , and . As the bot's response time varies, media should be transcluded on the main page (or its constituent templates) until after it has been protected. (This is particularly relevant to , for which upcoming images are not queued at .) Cascading protection:
+automatically
+transcluded
+not
+KrinkleBot
+Wikipedia:Main Page/Tomorrow
+Wikipedia:Main Page/Commons media protection
+Main Page
+not
+Template:In the news
+Wikipedia:Main Page/Tomorrow
+
+Should be used only to prevent when placed on particularly visible pages, such as the main page.
+vandalism
+Is available only for fully protected pages; it is disabled for lower levels of protection as it represents a workflow flaw. See as well as for more information.
+below
+this bug ticket
+Is not instantaneous; it may be several hours before it takes effect. See for more information.
+Phabricator:T20483
+Should generally not be applied directly to templates or , as it will not protect transclusions inside tags or transclusions that depend on template parameters, but protect the . , for alternatives.
+modules
+<includeonly>
+will
+documentation subpage
+
+
+See below
+§ Protection of templates
+The list of cascading-protected pages can be found at . Requests to add or remove cascading protection on a page should be made at as an .
+Wikipedia:Cascade-protected items
+Wikipedia talk:Cascade-protected items
+edit request
+
+Former deleted protections
+
+
+
+Superprotect
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:SUPERPROTECT
+
+See also:
+Meta-Wiki:Superprotect
+Superprotect was a level of protection, allowing editing only by . It was and used the same day to override community consensus regarding the use of the Media Viewer on the 's primary site JavaScript, . It was never used on the English Wikipedia. On November 5, 2015, the WMF decided to superprotect from all Wikimedia wikis.
+Wikimedia Foundation employees who are in the Staff global group
+implemented on August 10, 2014
+German Wikipedia
+common.js
+remove
+
+Cascading semi-protection
+
+
+Cascading semi-protection was formerly possible, but it was disabled in 2007 after that non-administrators could fully protect any page by transcluding it onto the page to which cascading semi-protection had been applied by an administrator.
+users noticed
+
+Pending changes protection level 2
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:ORANGELOCK
+Originally, two levels of pending changes protection existed, where level2 required edits by all users who are not to be reviewed. Following a community discussion, level2 was retired from the English Wikipedia in January 2017. It was suggested then that "Pending changes level1" be referred to in the future as simply "Pending changes".
+
+pending changes reviewers
+
+
+
+[12]
+
+Protection by namespace
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:PROTNS
+
+Article talk pages
+
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:ATPROT
+Modifications to a protected page can be proposed on its (or at another appropriate forum) for discussion. Administrators can make changes to the protected article reflecting . Placing the template on the talk page will draw the attention of administrators for implementing uncontroversial changes.
+
+talk page
+consensus
+{{}}
+Edit protected
+Talk pages are not usually protected, and are semi-protected only for a limited duration in the most severe cases of vandalism.
+
+User talk pages
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:UTPROT
+User talk pages are rarely protected. However, protection may be applied if there is severe vandalism or abuse. Users whose talk pages are protected may wish to have an unprotected user talk subpage linked conspicuously from their main talk page to allow good-faith comments from users that the protection restricts editing from.
+A user's request to have their own talk page protected is not a sufficient rationale by itself to protect the page, although requests may be considered if a reason is provided.
+
+Blocked users
+
+
+Blocked users' user talk pages should not ordinarily be protected, as this interferes with the user's ability to contest their block through the normal process. It also prevents others from being able to use the talk page to communicate with the blocked editor.
+In extreme cases of abuse by the blocked user, such as abuse of the {{}} template, re-blocking the user with talk page access removed should be preferred over applying protection to the page. If the user has been blocked and with the ability to edit their user talk page disabled, they should be informed of this in a block notice, subsequent notice, or message, and it should include information and instructions for appealing their block off-wiki, such as through the or, as a last recourse, .
+unblock
+UTRS tool interface
+the Arbitration Committee
+When required, protection should be implemented for only a brief period, not exceeding the duration of the block.
+Confirmed socks of registered users should be dealt with in accordance with ; their pages are not normally protected.
+Wikipedia:Sockpuppetry
+
+User pages
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:UPROT
+
+
+WP:UPPROT
+Base user pages (for example, the page User:Example, and not User:Example/subpage or User talk:Example) are automatically protected from creation or editing by unconfirmed accounts and anonymous IP users. An exception to this includes an unconfirmed registered account attempting to create or edit their own user page. IP editors and unconfirmed accounts are also unable to create or edit user pages that do not belong to a currently-registered account. This protection is enforced by . Users may opt-out of this protection by placing anywhere on their own user page.
+an edit filter
+
+[13]
+{{}}
+unlocked userpage
+and subpages within their own user space may be protected upon a request from the user, as long as a need exists. Pages within the user space should not be automatically or pre-emptively protected without good reason or cause. Requests for protection specifically at uncommon levels (such as template protection) may be granted if the user has expressed a genuine and realistic need.
+User pages
+
+[14]
+
+[15]
+When a filter is insufficient to stop user page vandalism, a user may choose to create a ".css" subpage (ex. User:Example/Userpage.css), copy all the contents of their user page onto the subpage, transclude the subpage by putting on their user page, and then ask an administrator to fully protect their user page. Because user space pages that end in ".css", ".js", and ".json" are editable only by the user to which that user space belongs (and interface administrators), this will protect your user page from further vandalism.
+{{User:Example/Userpage.css}}
+
+Deceased users
+
+
+
+See also:
+Wikipedia:Deceased Wikipedians/Guidelines
+In the event of the confirmed death of a user, the user's user page (but not the user talk page) should be fully protected.
+
+Protection of templates
+
+
+
+
+
+
+
+Shortcut
+
+
+
+WP:PTPROT
+
+See also: and
+Wikipedia:High-risk templates
+Wikipedia:Template documentation
+Highly visible templates – those used on a large number of pages or frequently substituted – are often edit protected based on the degree of visibility, type of use, content, and other considerations.
+Protected templates should normally have the {{}} template. It loads the unprotected page, so that non-admins and IP-users can edit the documentation, categories and interwiki links. It also automatically adds {{}} to protected templates, which displays a small padlock in the top right corner and categorizes the template as protected. Only manually add to protected templates that don't use (mostly the flag templates).
+documentation
+/doc
+pp-template
+{{pp-template}}
+{{documentation}}
+Cascading protection should generally not be applied directly to templates, as it will not protect transclusions inside tags or transclusions that depend on template parameters, but protect the template's . Instead, consider any of the following:
+<includeonly>
+will
+documentation subpage
+
+If the set of subtemplates is static (even if large), protect them using normal protection mechanisms.
+If the set of subtemplates is unbounded, use to protect all subtemplates using a particular naming format (as is done for and subtemplates of ).
+MediaWiki:Titleblacklist
+editnotice templates
+Template:TFA title
+Note: All (except those in userspace) are already protected via . They can be edited by admins, and only.
+editnotice templates
+MediaWiki:Titleblacklist
+template editors
+page movers
+
+Sandboxes
+
+
+
+See also:
+Wikipedia:About the sandbox
+Sandboxes should not ordinarily be protected since their purpose is to let new users test and experiment with . Most sandboxes are automatically cleaned every 12 hours, although they are frequently overwritten by other testing users. The is cleaned every hour. Those who use sandboxes for malicious purposes, or to violate policies such as , , or , should instead be warned and/or blocked.
+wiki syntax
+Wikipedia:Sandbox
+no personal attacks
+civility
+copyrights
+
+Available templates
+
+
+The following templates may be added at the very top of a page to indicate that it is protected:
+
+
+
+
+
+
+
+
+Protection templates
+
+
+
+
+
+
+
+
+
+Edit
+
+Move
+
+
+Pending changes
+
+Upload
+
+Generic
+{{}} {{}}
+pp
+pp-protected
+{{}}
+{{pp}}
+pp-move
+{{}}
+{{pp}}
+pp-pc
+{{}}
+{{pp}}
+pp-upload
+
+
+BLP
+{{}}
+pp-blp
+–
+–
+–
+
+Dispute
+{{}}
+pp-dispute
+{{}}
+pp-move-dispute
+–
+–
+
+
+Extended confirmed protection
+{{}}
+pp-extended
+{{}}
+pp-extended
+–
+–
+
+Image
+Main Page
+{{}}
+pp-main-page
+–
+–
+–
+
+
+Office
+{{}} {{}} {{}}
+pp-office
+pp-reset
+pp-office-dmca
+
+{{pp-office}}
+{{pp-reset}}
+{{pp-office-dmca}}
+
+{{pp-office}}
+{{pp-reset}}
+{{pp-office-dmca}}
+–
+
+Sockpuppetry
+{{}}
+pp-sock
+–
+–
+–
+
+High-visibility
+{{}}
+pp-template
+–
+–
+–
+
+Blocked user's talk
+{{}}
+pp-usertalk
+–
+–
+–
+
+Vandalism
+{{}}
+pp-vandalism
+{{}}
+pp-move-vandalism
+–
+–
+
+Talk page
+{{}} {{}}
+permanently protected
+temporarily protected
+–
+–
+–
+
+Long-term
+{{}}
+pp-semi-indef
+{{}}
+pp-move-indef
+–
+–
+
+
+
+Module:Protection banner
+On redirect pages, use the {{}} template, which automatically categorizes by protection level, below the redirect line. A protection template may also be added below the redirect line, but it will serve only to categorize the page, as it will not be visible on the page, and it will have to be manually removed when protection is removed.
+Redirect category shell
+
+See also
+
+
+
+
+MediaWiki:Protectedpagetext
+
+Special:ProtectedPages
+
+Special:ProtectedTitles
+
+Wikipedia:Edit lock
+
+Wikipedia:List of indefinitely protected pages
+
+Wikipedia:Requests for page protection
+
+Wikipedia:Rough guide to semi-protection
+, an essay
+Wikipedia:Make protection requests sparingly
+
+Meta-Wiki:Protected pages considered harmful
+
+Meta-Wiki:The Wrong Version
+
+Wikipedia:Protection policy/Padlocks
+
+Notes
+
+
+
+
+
+
+
+
+^
+Created October 2013 as a result of
+Wikipedia:Requests for comment/Template editor user right?
+
+^
+
+
+
+a
+
+
+
+b
+
+Wikipedia:Requests for comment/Extended confirmed protection policy 2
+
+
+
+^
+discussion at the village pump.
+Should we use ECP on templates?
+
+
+
+^
+
+Wikipedia:Requests for comment/Extended confirmed protection policy
+
+
+
+^
+(Note: This sanction was originally authorised in ).
+Wikipedia:Arbitration/Requests/Case/Palestine-Israel articles 4#ARBPIA General Sanctions
+Wikipedia:Arbitration/Requests/Case/Palestine-Israel articles 3
+
+
+
+^
+
+Arbitration motions regarding extended confirmed protection
+
+
+
+^
+
+Wikipedia:Village pump (proposals)/Archive 129#New usergroup with autopromotion to implement arbitration "30-500" bans as a page protection
+
+
+
+^
+
+AN discussion authorizing India-Pakistan general prohibition
+
+
+
+^
+
+Antisemitism in Poland: Motion (May 2020)
+
+
+
+^
+
+Wikipedia talk:Protection Policy discussion to remove manual posting requirement
+
+
+
+^
+Unlike with , admins can still edit or unprotect these pages, however, they should not do so without permission.
+WP:SUPERPROTECT
+technically
+
+
+
+^
+
+VPR RfC to remove PC2
+
+
+
+^
+Please refer to and for community discussion related to a preventative measure for user pages.
+Wikipedia:Requests for comment/Protect user pages by default
+its talk page
+
+
+
+^
+Per discussion at , June 2013
+Wikipedia talk:Protection policy/Archive 15#Own userspace pages protection policy
+
+
+
+^
+Per discussion at , September 2019
+Wikipedia:Administrators' noticeboard/Archive314#Protecting an editor's user page or user space per their request
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+Administrators' guide
+
+Articles
+
+
+
+
+Advice for new administrators
+
+Blocking
+
+Cleaning backlogs
+
+Dealing with disputes
+
+Dealing with spam
+
+Deleting
+
+Edit filters
+
+Fixing cut-and-paste moves
+
+Granting and revoking user rights
+
+Protecting
+
+Reading list
+
+Rollback
+
+Tools, scripts and gadgets
+
+Viewing deleted pages and contributions
+
+Policies
+
+
+
+(WP:ADMIN)
+Administrator policy
+(WP:BAN)
+Banning policy
+(WP:BLOCK)
+Blocking policy
+(WP:DEL)
+Deletion policy
+(WP:PROTECT)
+Protection policy
+(WP:REVDEL)
+Revision deletion policy
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+Wikipedia key
+policies and guidelines
+(?)
+
+
+
+
+
+
+Five pillars
+
+
+
+Ignore all rules
+
+Content
+(?)
+
+
+
+
+
+
+
+
+
+P
+
+
+
+
+Verifiability
+
+No original research
+
+Neutral point of view
+
+What Wikipedia is not
+
+Biographies of living persons
+()
+Copyright
+Copyright violations
+
+Image use
+
+Article titles
+
+
+
+
+
+G
+
+
+
+
+Notability
+
+Autobiography
+
+Citing sources
+
+Reliable sources
+
+Reliable sources (medicine)
+
+Do not include copies of lengthy primary sources
+
+Plagiarism
+
+Don't create hoaxes
+
+Fringe theories
+
+Patent nonsense
+
+External links
+
+
+Conduct
+(?)
+
+
+
+
+
+
+
+
+
+P
+
+
+
+
+Civility
+
+Consensus
+
+Harassment
+
+Vandalism
+
+Ignore all rules
+
+No personal attacks
+
+Ownership of content
+
+Edit warring
+
+Dispute resolution
+
+Sockpuppetry
+
+No legal threats
+
+Child protection
+
+Paid-contribution disclosure
+
+
+
+
+
+G
+
+
+
+
+Assume good faith
+
+Conflict of interest
+
+Disruptive editing
+
+Do not disrupt Wikipedia to illustrate a point
+
+Etiquette
+
+Gaming the system
+
+Please do not bite the newcomers
+
+Courtesy vanishing
+
+Responding to threats of harm
+
+Talk page guidelines
+
+
+Signatures
+
+
+Deletion
+(?)
+
+
+
+
+
+
+
+
+
+P
+
+
+
+
+Deletion policy
+
+Proposed deletion
+
+
+Biographies
+
+Criteria for speedy deletion
+
+Attack page
+
+Oversight
+
+Revision deletion
+
+
+Enforcement
+(?)
+
+
+
+
+
+
+
+
+
+P
+
+
+
+
+Administrators
+
+Banning
+
+Blocking
+
+Page protection
+
+
+Editing
+(?)
+
+
+
+
+
+
+
+
+
+P
+
+
+
+
+Editing policy
+
+
+
+
+
+G
+
+
+
+
+
+
+
+
+
+Article size
+
+Be bold
+
+Disambiguation
+
+Hatnotes
+
+Broad-concept article
+
+Understandability
+
+Style
+
+
+
+
+Manual of Style
+
+
+Contents
+
+Accessibility
+
+Dates and numbers
+
+Images
+
+Layout
+
+Lead section
+
+Linking
+
+Lists
+
+Classification
+
+
+
+
+Categories, lists, and navigation templates
+
+Categorization
+
+Template namespace
+
+
+
+Project content
+(?)
+
+
+
+
+
+
+
+
+
+G
+
+
+
+
+Project namespace
+
+
+WikiProjects
+
+User pages
+
+
+User boxes
+
+Shortcuts
+
+Subpages
+
+
+
+WMF
+(?)
+
+
+
+
+
+
+
+
+
+P
+
+
+
+
+Terms of Use
+
+List of policies
+
+Friendly space policy
+
+Licensing and copyright
+
+Privacy policy
+
+
+
+
+
+
+
+List of all policies and guidelines
+
+:
+
+
+P
+
+List of policies
+:
+
+
+G
+
+List of guidelines
+
+
+Summaries of values and principles
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Wikipedia:Protection_policy&oldid=1080784514
+
+:
+Categories
+
+
+Wikipedia policies
+
+Wikipedia enforcement policies
+
+Wikipedia Administrators' guide
+
+Wikipedia vandalism
+
+Wikipedia page protection
+Hidden categories:
+
+
+Project pages with short description
+
+Wikipedia move-protected project pages
+
+Wikipedia semi-protected project pages
+
+Pages with missing files
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Project page
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+View source
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+In other projects
+
+
+
+
+Wikimedia Commons
+
+
+Multilingual Wikisource
+
+
+Wikibooks
+
+
+Wikidata
+
+
+Wikinews
+
+
+Wikiquote
+
+
+Wikisource
+
+
+Wikiversity
+
+
+Wikivoyage
+
+
+Wiktionary
+
+
+Languages
+
+
+
+
+Afrikaans
+
+
+Ænglisc
+
+
+???????
+
+
+Aragonés
+
+
+???????
+
+
+Az?rbaycanca
+
+
+??????
+
+
+?????
+
+
+?????????? (???????????)
+
+
+?????????
+
+
+Bosanski
+
+
+Català
+
+
+Cebuano
+
+
+?eština
+
+
+Cymraeg
+
+
+Dansk
+
+
+Deutsch
+
+
+??????????
+
+
+Eesti
+
+
+????????
+
+
+Español
+
+
+Esperanto
+
+
+?????
+
+
+Føroyskt
+
+
+Français
+
+
+Galego
+
+
+???
+
+
+???????
+
+
+??????
+
+
+Hrvatski
+
+
+Ilokano
+
+
+Bahasa Indonesia
+
+
+Íslenska
+
+
+Italiano
+
+
+?????
+
+
+Jawa
+
+
+???????
+
+
+????? / ?????
+
+
+Kurdî
+
+
+Latina
+
+
+Lëtzebuergesch
+
+
+Lietuvi?
+
+
+Magyar
+
+
+??????????
+
+
+Malti
+
+
+?????
+
+
+?????????
+
+
+????
+
+
+Bahasa Melayu
+
+
+??????
+
+
+??????????
+
+
+Nederlands
+
+
+??????
+
+
+???
+
+
+Norsk bokmål
+
+
+?????
+
+
+O?zbekcha/???????
+
+
+?????????
+
+
+Polski
+
+
+Português
+
+
+Român?
+
+
+???????
+
+
+???? ????
+
+
+Sängö
+
+
+Sardu
+
+
+?????
+
+
+Simple English
+
+
+????
+
+
+Sloven?ina
+
+
+Slovenš?ina
+
+
+Soomaaliga
+
+
+?????
+
+
+?????? / srpski
+
+
+Sunda
+
+
+Suomi
+
+
+Svenska
+
+
+?????
+
+
+??????
+
+
+???
+
+
+Türkçe
+
+
+??????
+
+
+??????????
+
+
+????
+
+
+Vèneto
+
+
+Ti?ng Vi?t
+
+
+??????
+
+
+??
+
+
+??
+
+
+Edit links
+
+
+This page was last edited on 3 April 2022, at 12:36.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

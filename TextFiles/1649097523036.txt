@@ -1,0 +1,987 @@
+
+
+
+
+Wikipedia:WikiProject Council - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia:WikiProject Council
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+
+
+
+
+
+an area for focused collaboration among Wikipedians. New participants are welcome; please feel free to participate!
+This is a ,
+WikiProject
+
+
+
+
+Guide to WikiProjects
+
+Directory of WikiProjects
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:COUNCIL
+
+
+WP:COUN
+Project to coordinate WikiProjects
+
+
+
+
+
+
+
+
+
+
+
+
+
+WikiProject Council
+
+
+
+
+FAQs
+Overview
+
+
++
+talk
+Council page
+
+Coordination
+
+
+
+
+Guidelines
+
+( - )
+WikiProjects
+Task forces
+
+Assessment FAQ
+
+Technical notes
+
+Directories
+
+
+
+
+WikiProjects
+
+Proposals
+
+Signpost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+The is a group of Wikipedians that encourage and assist with the development of WikiProjects. The council acts as a central point for inter-WikiProject discussion and collaboration. New to WikiProjects? See for the answers to the most common inquiries. The outlines generally accepted protocols and conventions.
+WikiProject Council
+FAQs about WikiProjects
+WikiProject guideline page
+
+
+
+
+What do we do?
+
+
+
+Document best practices for WikiProject structure and operation; see the and .
+WikiProject Guide
+Task Force Guide
+Provide a for discussing issues of interest to a wide range of WikiProjects.
+central forum
+Assist in the formation of new WikiProjects and revitalization of dormant WikiProjects. We manage the page and available for building and maintaining WikiProjects. If you need help getting started, just ask at the !
+WikiProject proposals
+catalog tools
+talk page
+Maintain a to help interested editors find communities with similar interests.
+directory of WikiProjects
+
+
+How can you help?
+
+
+There's no formal list of participants here, so there's no need to sign up. To help out, just monitor the and join ongoing discussions! You can also help to update the manual by checking to see if section listings are up-to-date.
+talk page
+WikiProject Directory
+
+Resources
+
+
+
+WikiProject lists
+
+(manually maintained)
+WikiProject Directory
+(maintained by 's bot)
+Alphabetical WikiProject list
+Bamyers99
+(maintained by . Last updated July 2019)
+Automated WikiProject Directory
+Reports bot
+by number of page watchers (updated weekly)
+List of WikiProjects
+
+
+More on WikiProjects
+
+Much of the core WikiProject toolkit depends on the . They maintain several pages on supporting .
+Wikipedia:Version 1.0 Editorial Team
+the assessment system
+WikiProjects' work
+A in by answers various WikiProject frequently asked questions. also has a . To contribute, go to .
+2013 article
+
+The Signpost
+Mabeenot
+The Signpost
+WikiProject report
+Newsroom
+The Signpost
+related to WikiProjects are listed .
+RfCs
+here
+
+
+WikiProject Council pages
+
+
+See also:
+WikiProject Council subpages
+
+
+Technical notes
+
+
+Banner standardisation
+
+Work via WikiProjects
+
+
+How to use the bot
+
+Proposals for new WikiProjects
+
+
+Other
+
+
+Orphaned articles by WikiProject
+
+Shortcuts to WikiProjects
+
+Requests for comment
+
+
+
+
+
+Templates
+
+
+Category:Council templates
+
+List of WikiProject banner templates
+
+List of templates for WikiProject-related page headings
+
+Wikipedia:WikiProject Council/Userbox
+
+
+Defunct, inactive and semi-active projects
+
+
+Defunct WikiProjects
+
+Inactive WikiProjects
+
+Semi-active WikiProjects
+
+Historical pages
+
+(2009)
+Assessment working group
+(2008)
+Proposal for WikiProject banner standardisation
+(2007)
+Proposal for WikiProject reform
+(2006)
+Proposal for selecting Exemplar WikiProjects
+(2005)
+Proposal regarding inappropriate WikiProjects
+(2005)
+Meta WikiProject group
+(2001)
+Proposal for WikiProjects
+
+Statistics
+
+
+
+Wikipedia 1.0 assessment
+
+
+
+
+
+
+
+All rated articles by quality and importance
+
+
+Quality
+
+Importance
+
+
+
+Top
+
+
+High
+
+
+Mid
+
+
+Low
+
+
+???
+
+Total
+
+
+
+
+
+
+FA
+1,446
+2,265
+2,212
+1,606
+171
+
+7,700
+
+
+
+
+
+
+FL
+165
+610
+682
+632
+107
+
+2,196
+
+
+
+
+
+
+A
+312
+631
+745
+509
+94
+
+2,291
+
+
+
+
+
+GA
+2,872
+6,522
+13,124
+16,248
+1,668
+
+40,434
+
+
+
+B
+14,926
+28,805
+46,461
+49,662
+17,359
+
+157,213
+
+
+
+C
+14,882
+46,548
+113,844
+221,150
+71,742
+
+468,166
+
+
+
+Start
+18,739
+89,079
+385,325
+1,314,351
+380,719
+
+2,188,213
+
+
+
+Stub
+4,375
+32,146
+278,093
+2,567,372
+833,039
+
+3,715,025
+
+
+
+List
+4,435
+15,427
+46,770
+160,112
+74,150
+
+300,894
+
+
+Assessed
+62,152
+222,033
+887,256
+4,331,642
+1,379,049
+
+6,882,132
+
+
+Unassessed
+118
+467
+1,491
+15,178
+395,876
+
+413,130
+
+
+Total
+
+62,270
+
+222,500
+
+888,747
+
+4,346,820
+
+1,774,925
+
+7,295,262
+
+About this table
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+
+
+WikiProject Council
+
+
+
+
+WikiProject guides
+
+
+
+
+WikiProject Council
+
+
+Talk
+
+Guidelines/Intro
+
+
+WikiProjects
+
+Task forces
+
+Technical notes
+
+Assessment FAQ
+
+Work via WikiProjects
+
+
+
+
+Directories and summaries
+
+
+
+
+Directory
+
+Proposals
+
+Signpost
+
+Shortcuts
+
+Popular pages
+
+Database reports
+
+
+Watchers
+
+
+
+
+Culture and the arts
+
+
+
+
+Arts
+
+
+Music
+
+Performing
+
+Plastic
+
+Visual
+
+Broadcasting
+
+Crafts and hobbies
+
+Entertainment
+
+
+Games and toys
+
+Food and drink
+
+Internet culture
+
+Language and literature
+
+
+Biography
+
+Linguistics
+
+Media
+
+Philosophy and religion
+
+Sports
+
+
+
+
+Geographical
+
+
+
+
+Bodies of water
+
+Cities
+
+Countries
+
+
+Africa
+
+Americas
+
+Asia
+
+Europe
+
+Oceania
+
+Landforms
+
+Maps
+
+Parks, conservation areas and historical sites
+
+
+
+
+History and society
+
+
+
+
+History and society
+
+Business and economics
+
+Education
+
+Military and warfare
+
+Politics and government
+
+Transportation
+
+
+
+
+Science, technology and engineering
+
+
+
+
+
+Science
+
+Biology
+
+Chemistry
+
+Economics
+
+Geosciences
+
+Information science
+
+Mathematics
+
+Medicine
+
+Meteorology
+
+Physics
+
+Space
+
+Technology
+
+Time
+
+
+
+
+Wikipedia assistance and tasks
+
+
+
+
+
+Contents systems
+
+Maintenance
+
+Files
+
+Article improvement and grading
+
+Classroom projects
+
+WikiProjects
+
+
+
+
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Council&oldid=1080647538
+
+:
+Categories
+
+
+Active WikiProjects
+
+WikiProject Council
+
+Wikipedian organizations
+Hidden categories:
+
+
+Project pages with short description
+
+Wikipedia semi-protected project pages
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Project page
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+View source
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+In other projects
+
+
+
+
+Wikimedia Commons
+
+
+Languages
+
+
+
+
+???????
+
+
+?????
+
+
+???????
+
+
+Español
+
+
+Italiano
+
+
+???????
+
+
+Kurdî
+
+
+Bahasa Melayu
+
+
+Nederlands
+
+
+??????
+
+
+?????????
+
+
+Português
+
+
+???????
+
+
+Slovenš?ina
+
+
+Türkçe
+
+
+??????????
+
+
+??
+
+
+Edit links
+
+
+This page was last edited on 2 April 2022, at 14:57.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

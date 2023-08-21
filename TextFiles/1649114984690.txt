@@ -1,0 +1,2373 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Competitive Programming - A Complete Guide - GeeksforGeeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+Must Do Questions
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Bitwise Algorithms
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+Software Designs
+
+
+
+Software Design Patterns
+
+System Design Tutorial
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Number System
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-12)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+Class 12 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+Physics Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+CS Exams/PSUs
+
+
+
+ISRO
+
+
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Solved Papers
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+UGC NET
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+JOB-A-THON
+
+Events
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Saved Videos
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+SDE Sheet
+
+Puzzles
+
+GFG School
+
+Projects
+
+
+
+
+
+
+Related Articles
+
+
+
+
+?
+
+
+
+
+
+
+Related Articles
+
+
+
+
+Competitive Programming – A Complete Guide
+
+What is Competitive Programming and How to Prepare for It?
+
+5 Best Languages for Competitive Programming
+
+5 Best Books for Competitive Programming
+
+What Are The Best Resources For Competitive Programming?
+
+Resume Writing For Internship
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …
+
+Must Do Coding Questions Company-wise
+
+Practice for cracking any coding interview
+
+How to begin with Competitive Programming?
+
+Top 10 Algorithms and Data Structures for Competitive Programming
+
+N Queen Problem | Backtracking-3
+
+Printing all solutions in N-Queen Problem
+
+Warnsdorff’s algorithm for Knight’s tour problem
+
+The Knight’s tour problem | Backtracking-1
+
+Rat in a Maze | Backtracking-2
+
+Count number of ways to reach destination in a Maze
+
+Count all possible paths from top left to bottom right of a mXn matrix
+
+Print all possible paths from top left to bottom right of a mXn matrix
+
+Unique paths in a Grid with Obstacles
+
+Unique paths covering every non-obstacle block exactly once in a grid
+
+Depth First Search or DFS for a Graph
+
+Breadth First Search or BFS for a Graph
+
+Level Order Binary Tree Traversal
+
+Tree Traversals (Inorder, Preorder and Postorder)
+
+Arrow operator -> in C/C++ with Examples
+
+Fast I/O for Competitive Programming
+
+
+
+
+
+Table of Contents
+
+
+
+Competitive Programming – A Complete Guide
+
+What is Competitive Programming and How to Prepare for It?
+
+5 Best Languages for Competitive Programming
+
+5 Best Books for Competitive Programming
+
+What Are The Best Resources For Competitive Programming?
+
+Resume Writing For Internship
+
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, …
+
+Must Do Coding Questions Company-wise
+
+Practice for cracking any coding interview
+
+How to begin with Competitive Programming?
+
+Top 10 Algorithms and Data Structures for Competitive Programming
+
+N Queen Problem | Backtracking-3
+
+Printing all solutions in N-Queen Problem
+
+Warnsdorff’s algorithm for Knight’s tour problem
+
+The Knight’s tour problem | Backtracking-1
+
+Rat in a Maze | Backtracking-2
+
+Count number of ways to reach destination in a Maze
+
+Count all possible paths from top left to bottom right of a mXn matrix
+
+Print all possible paths from top left to bottom right of a mXn matrix
+
+Unique paths in a Grid with Obstacles
+
+Unique paths covering every non-obstacle block exactly once in a grid
+
+Depth First Search or DFS for a Graph
+
+Breadth First Search or BFS for a Graph
+
+Level Order Binary Tree Traversal
+
+Tree Traversals (Inorder, Preorder and Postorder)
+
+Arrow operator -> in C/C++ with Examples
+
+Fast I/O for Competitive Programming
+
+
+
+
+
+
+Improve Article
+
+
+
+Save Article
+
+
+
+Like Article
+
+
+
+Competitive Programming – A Complete Guide
+
+
+
+
+Difficulty Level :
+
+Easy
+
+Last Updated :
+01 Apr, 2022
+
+Competitive Programming is a mental sport which enables you to code a given problem under provided constraints. The purpose of this article is to guide every individual possessing a desire to excel in this sport. This article provides a detailed syllabus for Competitive Programming designed by industry experts to boost the preparation of the readers.
+
+
+
+
+Topic:
+
+
+
+
+Introduction
+
+Basics, Greedy and Bit Manipulation
+
+Number Theory and Combinatorics
+
+Searching, Sorting, and Basic Data Structures
+
+Tree and Graphs
+
+
+
+Recursion and Dynamic Programming
+
+String Algorithms
+
+Geometry and Game Theory
+
+Advance Data Structures
+
+Introduction
+
+
+
+
+
+What is Competitive Programming and How to Prepare for It?
+
+Fast I/O:
+
+CPP
+,
+
+Java
+,
+
+Python
+
+Useful libraries:
+
+CPP
+,
+
+Java
+,
+
+Python
+
+Input/Output Files:
+
+Set 1
+,
+
+Set 2
+
+Tips and Tricks:
+
+Set 1
+,
+
+Set 2
+
+Input Methods:
+
+CPP
+,
+
+Java
+,
+
+Python
+
+Template:
+
+CPP
+
+
+Language:
+
+CPP
+,
+
+Java
+,
+
+Python
+
+Time Complexity:
+
+Analysis
+
+
+Setting up Competitive Programming Environment:
+
+Sublime: CPP
+,
+
+Visual Studio: CPP and Python
+
+Basics, Greedy and Bit Manipulation
+
+
+(Related Problems: )
+
+Reverse an array
+
+
+Problem 1
+,
+
+Problem 2
+
+
+Sum of Digits
+(Related)
+
+Program to Check if a Given String is Palindrome in C
+,
+
+Python
+
+
+Problem
+(Related )
+
+Sum of array elements
+
+
+Problem
+(Related )
+
+Maximum and Minimum element of array
+
+
+Problem
+(Related Problems:)
+
+Counting frequencies of array elements
+
+
+
+Problem 1
+,
+
+Problem 2
+
+Float and Precision:
+
+CPP
+,
+
+Java
+,
+
+Python
+(Related Problems: )
+
+Prefix sum
+,
+
+2D Prefix Sum
+
+
+Difference Array | Range update query in O(1)
+:
+
+Problem 1
+,
+
+Problem 2
+(Related )
+
+Coordinate Compression
+:
+
+Problem
+(Related )
+
+Kadane Algorithm
+:
+
+Problem
+: (Related)
+
+Activity Selection Problem
+
+
+Problem
+: (Related )
+
+Job Sequencing Problem
+
+Problem
+(Related)
+
+Sliding Window
+:
+
+
+Problem
+
+Logical Operators:
+
+CPP Set 1
+,
+
+Set 2
+,
+
+Java
+,
+
+Python
+(Related Problems: )
+Bit Manipulation:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+
+
+Bitset CPP
+
+Number Theory and Combinatorics
+
+
+(Related)
+
+Prime Number
+
+
+
+Problem
+(Related)
+
+Sieve of Eratosthenes
+
+
+
+Problem
+(Related)
+
+Segmented Sieve
+
+
+Problem
+(Related)
+
+Find all divisors of a natural number
+
+
+Problem
+(Related)
+
+Least prime factor of numbers upto N
+
+
+Problem
+(Related)
+
+All prime factors of a number
+
+
+
+Problem
+
+
+Prime Factorization using Sieve O(log n) for multiple queries
+(Related)
+
+Sum of all factors of a number
+
+
+
+Problem
+(Related)
+
+Gcd of Two numbers
+,
+
+Lcm of two numbers
+
+
+
+Problem
+
+
+Linear Diophantine Equations
+
+
+Euclidean algorithms (Basic and Extended)
+(Related)
+
+Euler’s Totient Function
+
+
+
+Problem
+
+
+Euler’s Totient function for all numbers smaller than or equal to n
+
+
+Inclusion Exclusion Principle
+
+
+Pigeon Hole Principle
+
+
+Modular Operations
+(Related)
+
+Modular Inverse
+:
+
+
+Problem 1
+,
+
+Problem 2
+
+Chinese Remainder Theorem:
+
+Set 1
+,
+
+Set 2
+
+
+Power(x, y) in O( logN )
+(Related)
+
+Power(x, y) % mod
+:
+
+
+Problem 1
+,
+
+Problem 2
+(Related)
+
+Matrix Exponentiation
+:
+
+
+Problem
+
+Permutation and Combination:
+
+Set 1
+,
+
+Set 2
+,
+
+Quiz 1
+,
+
+Quiz 2
+
+nCr:
+
+Set 1
+,
+
+Set 2
+(Related)
+nCr % mod:
+
+Set1
+,
+
+Set 2
+:
+
+
+Problem
+(Related)
+
+nCr % mod for multiple queries
+:
+
+
+Problem
+and Related
+
+Catalan numbers
+:
+
+
+Applications
+
+
+Problem
+
+
+Gaussian Elimination
+
+Searching, Sorting and Basic Data Structures
+
+
+(Related Problems :)
+
+Linear Search
+
+
+
+Problem 1
+,
+
+Problem 2
+(Related Problems :)
+
+Binary Search
+,
+
+Unbounded Binary Search
+
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+(Related Problems :)
+Inbuilt sorting O(logN):
+
+CPP
+,
+
+Java
+,
+
+Python
+
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+,
+
+Problem 4
+(Related Problems :)
+
+Merge Sort
+
+
+
+Problem 1
+,
+
+Problem 2
+(Related Problems :)
+
+Quick Sort
+
+
+
+Problem
+Implementation in(Related Problems :)
+Stack:
+
+
+CPP
+,
+
+Java
+,
+
+Python
+
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+Implementation in(Related Problems :)
+Queue:
+
+
+CPP
+,
+
+Java
+,
+
+Python
+
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+Implementation in (Related Problems :)
+Deque:
+
+CPP
+,
+
+Java
+,
+
+Python
+
+
+
+Problem
+Implementation in(Related Problems :)
+Priority Queue:
+
+
+CPP
+,
+
+Java
+,
+
+Python
+
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+
+Tree and Graphs
+
+
+(Related Problems :)
+
+Tree BFS
+,
+
+Tree DFS
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+, (Related Problems :)
+
+Graph BFS
+,
+
+Graph BFS 2
+
+Graph DFS
+
+
+Problem 1
+,
+
+Problem 2
+(Related Problems :)
+
+Dijkstra’s Shortest Path Algorithm
+
+
+
+Problem
+1
+,
+
+Problem 2
+(Related)
+
+Bellman – Ford Algorithm
+
+
+
+Problem
+(Related )
+
+Floyd Warshall Algorithm
+
+
+Problem
+
+
+0-1 BFS
+,
+
+Dial’s Algorithm
+(Related Problems :)
+Detect cycle:
+
+Directed
+,
+
+Undirected
+
+
+
+Problem 1
+,
+
+Problem 2
+(Related)
+Disjoint set(union-find):
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+
+
+
+Problem
+(Related )
+
+Topological Sorting
+,
+
+Kahn’s Algorithm
+
+
+Problem
+(Related )
+Minimum Spanning Tree:
+
+Prim’s Algorithm
+,
+
+Kruskal Algorithm
+
+
+Problem
+(Related Problems :)
+
+Bipartite or not
+,
+
+M-Coloring
+
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+(Related Problems :)
+Strongly Connected Components:
+
+Tarjan
+,
+
+Kosaraju
+
+
+
+Problem 1
+,
+
+Problem 2
+(Related)
+Euler Path:
+
+Undirected
+,
+
+Directed
+
+
+
+Problem
+(Related Problems :)
+Flow Algorithms:
+
+Set 1
+,
+
+Set 2
+,
+
+Dinic’s Algorithm
+
+
+
+Problem 1
+,
+
+Problem 2
+
+
+Diameter of Tree
+
+
+Centroid Decomposition
+
+
+Lowest Common Ancestor
+
+Recursion and Dynamic Programming
+
+
+Related Problems :)
+
+Recursion
+:
+
+Quiz 1
+,
+
+Quiz 2
+,
+
+Quiz 3
+,
+
+Quiz 4
+,
+
+Quiz 5
+,
+
+Quiz 6
+,
+
+Quiz 7
+
+(
+
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+Related Problems :
+
+Backtracking
+: (
+
+
+Problem 1
+,
+
+Problem 2
+)
+
+Dp Introduction:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+,
+
+Set 4
+,
+
+Set 5
+
+
+Most useful Dynamic Programming questions
+
+Additional DP Problems :
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+,
+
+Problem 4
+
+Dp on Trees:
+
+Set 1
+,
+
+Set 2
+
+Dp on Bit Masking:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+
+
+Digit Dp
+
+String Algorithms
+
+
+
+Suffix Tree:
+
+Set 1
+,
+
+Set 2
+
+
+Z Algorithm
+(Related)
+
+KMP Algorithm
+,
+
+Rabin-Karp Algorithm
+
+
+
+Problem
+
+Manacher’s Algorithm:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+,
+
+Set 4
+
+Suffix Automation:
+
+Set 1
+,
+
+Set 2
+
+Geometry and Game Theory
+
+
+
+
+Closest Pair of Points
+Related)
+
+How to check if two given line segments intersect?
+
+(
+
+
+Problem
+
+
+How to check if a given point lies inside or outside a polygon?
+Related )
+Convex Hull:
+
+Set 1
+,
+
+Set 2
+
+(
+
+Problem
+
+
+Given n line segments, find if any two segments intersect
+
+
+Check whether a given point lies inside a triangle or not
+Related)
+
+How to check if given four points form a square
+: (
+
+
+Problem
+
+Combinatorial Game Theory:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+,
+
+Set 4
+
+Minimax Algorithm in Game Theory:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+,
+
+Set 4
+,
+
+Set 5
+
+
+Variation in Nim Game
+
+
+Find the winner in nim-game
+
+
+Optimal Strategy for a Game
+
+Advance Data Structures
+
+
+Related Problems)
+Trie:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+, (
+:
+
+Problem 1
+,
+
+Problem 2
+,
+
+Problem 3
+,
+
+Problem 4
+,
+
+Problem 5
+Related
+Fenwick Tree:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+,
+
+Set 4
+, (
+
+
+Problem
+)
+Related
+Segment Tree:
+
+Set 1
+,
+
+Set 2
+,
+
+Set 3
+
+(
+
+
+Problem
+)
+
+Sparse Table:
+
+Set 1
+,
+
+Set 2
+
+Sqrt Decomposition:
+
+Set 1
+,
+
+Set 2
+
+Heavy Light Decomposition:
+
+Set 1
+,
+
+Set 2
+
+
+Meet in the Middle
+
+
+MO’s Algorithm
+,
+
+Problem
+
+
+Policy based Data Structure
+You may also check to Learn Data Structures and Algorithms, well designed courses taught by Industry Experts.
+Geeksforgeeks Online Courses
+
+
+GeeksforGeeks Courses
+
+
+DSA Self Paced
+Master Data Structures and Algorithms with trusted by over 50,000 students! Prepare for the interviews of leading IT giants like Microsoft, Amazon, Adobe, etc. Built with years of experience by top industry experts and gives you a complete package of video lectures, practise problems, quizzes, discussion forums and contests. Learn and master DSA at your own pace and convenience. Join Today!
+
+DSA Self-Paced Course
+
+Live Courses
+Explore best-in-industry interactive LIVE & Self-Paced Courses with individual attention by leading experts to upskill yourself and get into your dream company. Get real-time GFG Live Courses to encourage out-of-the-box thinking, clarity in concepts and innovative ideas. Ask your doubts to the instructor just like an offline classroom program. Check out valuable Live Courses by GeeksforGeeks-!, , , and more!
+DSA Live for Working Professionals
+System Design Live
+Competitive Programming Live
+Language Foundation Courses[ / / ]
+C++
+JAVA
+Python
+Master any programming language from scratch and understand all its core fundamental concepts for a strong programming foundation with help of GeeksforGeeks Language Foundation Courses – | | . These courses are for complete beginners who want to get started with programming and build their foundations. Start your coding journey today!.
+
+Java Foundation
+
+Python Foundation
+
+C++ Foundation
+
+
+
+
+
+
+My Personal Notes
+
+arrow_drop_up
+
+
+
+
+Save
+
+
+
+
+
+Like
+
+
+
+
+
+Next
+
+
+What is Competitive Programming and How to Prepare for It?
+
+
+
+
+Recommended Articles
+
+Page :
+
+
+
+
+
+
+
+
+Tips and Tricks for Competitive Programmers | Set 2 (Language to be used for Competitive Programming)
+20, Mar 16
+
+
+
+Top 10 Algorithms and Data Structures for Competitive Programming
+16, Dec 15
+
+
+
+How to become a master in competitive programming?
+17, Feb 16
+
+
+
+Competitive Programming: Conquering a given problem
+28, Mar 16
+
+
+
+
+
+Fast I/O for Competitive Programming
+31, Mar 16
+
+
+
+A Better Way To Approach Competitive Programming
+06, Apr 16
+
+
+
+Some important shortcuts in Competitive Programming
+26, Apr 16
+
+
+
+Fast I/O in Java in Competitive Programming
+13, May 16
+
+
+
+
+
+Graph implementation using STL for competitive programming | Set 1 (DFS of Unweighted and Undirected)
+19, Jan 17
+
+
+
+Writing C/C++ code efficiently in Competitive programming
+07, Feb 17
+
+
+
+Input/Output from external file in C/C++, Java and Python for Competitive Programming | Set 2
+19, May 17
+
+
+
+Knowing the complexity in competitive programming
+24, May 18
+
+
+
+
+
+C++: Methods of code shortening in competitive programming
+04, Sep 18
+
+
+
+Python in Competitive Programming
+10, Sep 18
+
+
+
+How can competitive programming help you get a job?
+02, Oct 18
+
+
+
+Interactive Problems in Competitive Programming | Set 2
+09, Sep 19
+
+
+
+
+
+What is Competitive Programming and How to Prepare for It?
+07, Oct 19
+
+
+
+What Are The Best Resources For Competitive Programming?
+05, Nov 19
+
+
+
+Best Way To Start With Competitive Programming - GeeksforGeeks CP Live Course
+13, Nov 19
+
+
+
+Writing code faster during Competitive Programming in C++
+04, May 20
+
+
+
+
+
+Logarithm tricks for Competitive Programming
+16, May 20
+
+
+
+Competitive Programming vs Software Development - Where Should I Invest My Time?
+02, Aug 20
+
+
+
+How to setup Competitive Programming in Visual Studio Code for C++
+28, Jul 20
+
+
+
+5 Best Languages for Competitive Programming
+21, Aug 20
+
+
+
+
+
+Article Contributed By :
+
+
+
+
+
+
+GeeksforGeeks
+
+Vote for difficulty
+Current difficulty :
+Easy
+
+
+Easy
+Normal
+Medium
+Hard
+Expert
+
+
+
+Improved By :
+
+
+varshagumber28
+
+Article Tags :
+
+
+Competitive Programming
+
+
+
+Report Issue
+
+
+
+Writing code in comment? Please use , generate link and share the link here.
+ide.geeksforgeeks.org
+
+
+Load Comments
+
+
+
+
+Comments
+
+Old Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+
+Competitive Programming Live Classes for Students
+
+View Details
+
+
+
+
+
+
+
+
+Geeks Summer Carnival 2022
+
+View Details
+
+
+
+
+
+
+
+
+Data Structures & Algorithms- Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+Most popular in Competitive Programming
+
+
+
+
+Modulo 10^9+7 (1000000007)
+
+Bits manipulation (Important tactics)
+
+Prefix Sum Array - Implementation and Applications in Competitive Programming
+
+Formatted output in Java
+
+Algorithm Library | C++ Magicians STL Algorithm
+
+
+
+
+
+
+
+More related articles in Competitive Programming
+
+
+
+
+Use of FLAG in programming
+
+Understanding The Coin Change Problem With Dynamic Programming
+
+Breadth First Traversal ( BFS ) on a 2D array
+
+Setting up Sublime Text for C++ Competitive Programming Environment
+
+Fast I/O in Java in Competitive Programming
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+In Media
+
+Contact Us
+
+Privacy Policy
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+SDE Cheat Sheet
+
+Machine learning
+
+CS Subjects
+
+Video Tutorials
+
+
+News
+
+Top News
+
+Technology
+
+Work & Career
+
+Business
+
+Finance
+
+Lifestyle
+
+Languages
+
+Python
+
+Java
+
+CPP
+
+Golang
+
+C#
+
+SQL
+
+Web Development
+
+Web Tutorials
+
+Django Tutorial
+
+HTML
+
+CSS
+
+JavaScript
+
+Bootstrap
+
+Contribute
+
+Write an Article
+
+Improve an Article
+
+Pick Topics to Write
+
+Write Interview Experience
+
+Internships
+
+Video Internship
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+Start Your Coding Journey Now!
+
+Login
+Register
+
+
+
+

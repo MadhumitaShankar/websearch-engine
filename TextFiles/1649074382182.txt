@@ -1,0 +1,877 @@
+
+
+
+
+
+Inside Responsibility: What’s next on our misinfo efforts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+News & Events
+
+Creator & Artist Stories
+
+Culture & Trends
+
+Inside YouTube
+
+
+
+Submit Search
+
+
+Search Input
+
+
+
+
+
+
+
+
+
+
+
+Inside Responsibility: What’s next on our misinfo efforts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy link
+
+
+
+
+
+
+
+
+Copy link
+
+
+
+Submit Search
+
+
+Search Input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inside YouTube
+Inside Responsibility: What’s next on our misinfo efforts
+
+By Neal Mohan
+Chief Product Officer, YouTube
+Feb.17.2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy link
+
+
+
+
+
+
+
+
+Copy link
+
+
+
+
+
+We're launching a new series that takes you behind the scenes into how we’re tackling some of the largest challenges facing YouTube.
+
+
+
+
+
+
+Billions of people from around the world come to YouTube for every reason imaginable. Whether you’re looking to watch a hard-to-find concert, or planning to learn a new skill, YouTube connects viewers with an incredible array of diverse content and voices. But none of this would be possible without our commitment to protect our community — this core tenet drives all of our systems and underpins every aspect of our products.
+
+
+
+
+
+
+
+
+
+
+
+
+A few times a year, I’ll bring you behind the scenes into how we’re tackling some of the largest challenges facing YouTube and the tradeoffs behind each action we’re considering. In future installments, we might explore topics like our policy development work, shed more light on the thinking behind a thorny issue or generally outline key responsibility milestones. But for this first edition, I want to dig into our ongoing work addressing potentially harmful misinformation on YouTube. Over the past five years, we’ve invested heavily in a framework we call the . Using a combination of machine learning and people, we remove violative content quickly, raise up authoritative sources, and reduce the spread of problematic content (I discussed in-depth in a ). These tools working together have been pivotal in keeping views of bad content low, while preserving free expression on our platform. And yet, as misinformation narratives emerge faster and spread more widely than ever, our approach needs to evolve to keep pace. Here are the next three challenges our teams are looking to tackle.
+
+
+4Rs of Responsibility
+why
+blog post here
+
+
+
+
+
+
+
+
+Catching new misinformation before it goes viral
+For a number of years, the misinformation landscape online was dominated by a few main narratives – think 9/11 truthers, moon landing conspiracy theorists, and flat earthers. These long-standing conspiracy theories built up an archive of content. As a result, we were able to train our machine learning systems to reduce recommendations of those videos and other similar ones based on patterns in that type of content. But increasingly, a completely new narrative can quickly crop up and gain views. Or, narratives can slide from one topic to another—for example, some general wellness content can lead to vaccine hesitancy. Each narrative can also look and propagate differently, and at times, even be hyperlocal.
+We faced these challenges early on in the COVID-19 pandemic, such as when a conspiracy theory that 5G towers caused the spread of coronavirus led to people burning down cell towers in the UK. Due to the clear risk of real-world harm, we responded by updating our guidelines and making this type of content violative. In this case we could move quickly because we already had policies in place for COVID-19 misinformation based on local and global health authority guidance.
+
+
+
+
+
+
+We’re looking to leverage an even more targeted mix of classifiers, keywords in additional languages, and information from regional analysts to identify narratives our main classifier doesn’t catch.
+
+
+
+
+But not every fast-moving narrative in the future will have expert guidance that can inform our policies. And the fresher the misinfo, the fewer examples we have to train our systems. To address this, we’re continuously training our system on new data. We’re looking to leverage an even more targeted mix of classifiers, keywords in additional languages, and information from regional analysts to identify narratives our main classifier doesn’t catch. Over time, this will make us faster and more accurate at catching these viral misinfo narratives.
+In addition to reducing the spread of some content, our systems connect viewers to authoritative videos in search results and in recommendations. But certain topics lack a body of trusted content—what we call data voids. For example, consider a fast-breaking news event like a natural disaster, where in the immediate aftermath we might see unverified content speculating about causes and casualties. It can take trusted sources time to create new video content, and when misinformation spreads quickly, there isn’t always enough authoritative content we can point to in the short term.
+For major news events, like a natural disaster, we surface developing news panels to point viewers to text articles for major news events. For niche topics that media outlets might not cover, we provide viewers with fact check boxes. But fact checking also takes time, and not every emerging topic will be covered. In these cases, we’ve been exploring additional types of labels to add to a video or atop search results, like a disclaimer warning viewers there’s a lack of high quality information. We also have to weigh whether surfacing a label could unintentionally put a spotlight on a topic that might not otherwise gain traction. Our teams are actively discussing these considerations as we look for the right approach.
+
+
+
+
+
+
+
+
+The cross-platform problem: addressing shares of misinformation
+Another challenge is the spread of borderline videos outside of YouTube – these are videos that don’t quite cross the line of our policies for removal but that we don’t necessarily want to recommend to people. We’ve overhauled our recommendation systems to lower consumption of borderline content that comes from our recommendations significantly below 1%. But even if aren’t recommending a certain borderline video, it may still get views through other websites that link to or embed a YouTube video.
+we
+One possible way to address this is to disable the share button or break the link on videos that we’re already limiting in recommendations. That effectively means you couldn’t embed or link to a borderline video on another site. But we grapple with whether preventing shares may go too far in restricting a viewer’s freedoms. Our systems reduce borderline content in recommendations, but sharing a link is an active choice a person can make, distinct from a more passive action like watching a recommended video.
+
+
+
+
+
+
+We need to be careful to balance limiting the spread of potentially harmful misinformation, while allowing space for discussion of and education about sensitive and controversial topics.
+
+
+
+
+Context is also top of mind — borderline videos embedded in a research study or news report might require exceptions or different treatment altogether. We need to be careful to balance limiting the spread of potentially harmful misinformation, while allowing space for discussion of and education about sensitive and controversial topics.
+Another approach could be to surface an interstitial that appears before a viewer can watch a borderline embedded or linked video, letting them know the content may contain misinformation. Interstitials are like a speed bump – the extra step makes the viewer pause before they watch or share content. In fact, we already use interstitials for age-restricted content and violent or graphic videos, and consider them an important tool for giving viewers a choice in what they’re about to watch.
+We’ll continue to carefully explore different options to make sure we limit the spread of harmful misinformation across the internet.
+
+
+
+
+
+
+
+
+Ramping up our misinformation efforts work around the world
+Our work to curb misinformation has yielded real results, but complexities remain as we work to bring it to the 100+ countries and dozens of languages in which we operate.
+Cultures have different attitudes towards what makes a source trustworthy. In some countries, public broadcasters like the BBC in the U.K. are widely seen as delivering authoritative news. Meanwhile in others, state broadcasters can veer closer to propaganda. Countries also show a range of content within their news and information ecosystem, from outlets that demand strict fact-checking standards to those with little oversight or verification. And political environments, historical contexts, and breaking news events can lead to hyperlocal misinformation narratives that don’t appear anywhere else in the world. For example, during the Zika outbreak in Brazil, some blamed the disease on international conspiracies. Or recently in Japan, false rumors spread online that an earthquake was caused by human intervention.
+Faced with this regional diversity, our teams run into many of the same problems we see with emerging misinformation, from shifting narratives to lack of authoritative sources. Early on in the pandemic, we saw that not all countries had the latest research available from their health authorities, and those local authorities sometimes had differing guidance.
+
+
+
+
+
+
+Beyond growing our teams with even more people who understand the regional nuances entwined with misinformation, we're exploring further investments in partnerships with experts and non-governmental organizations around the world.
+
+
+
+
+What’s considered borderline can also vary significantly. We’re always accounting for how our content evaluators’ guidelines could be interpreted differently across languages and cultures. It takes time to work with local teams and experts to inform the cultural context that impacts whether a video is classified as borderline.
+Beyond growing our teams with even more people who understand the regional nuances entwined with misinformation, we're exploring further investments in partnerships with experts and non-governmental organizations around the world. Also, similar to our approach with new viral topics, we’re working on ways to update models more often in order to catch hyperlocal misinformation, with capability to support local languages.
+
+
+
+
+
+
+
+
+Building on our transparency
+At YouTube, we’ll continue to build on our work to reduce harmful misinformation across all our products and policies while allowing a diverse range of voices to thrive. We recognize that we may not have all the answers, but we think it’s important to share the questions and issues we’re thinking through. There has never been a more urgent time to advance our work for the safety and wellbeing of our community, and I look forward to keeping you all informed along the way.
+
+
+
+
+Related Topics
+
+
+Policy
+
+
+
+
+
+
+
+Explore the latest company news, creator and artist profiles, culture and trends analyses, and behind-the-scenes insights on the YouTube Official Blog.
+
+
+
+
+Our Channels
+
+
+Open
+Open Accordion
+
+
+Close
+close Accordion
+
+
+
+
+YouTube
+
+YouTube Creators
+
+Creator Insider
+
+TeamYouTube [Help]
+
+Susan Wojcicki
+
+
+
+Twitter
+
+
+Open
+Open Accordion
+
+
+Close
+close Accordion
+
+
+
+
+YouTube
+
+YouTube Creators
+
+TeamYouTube
+
+YouTube Gaming
+
+YouTube TV
+
+YouTube Music
+
+YouTubeInsider
+
+
+Connect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About YouTube
+
+
+Open
+Open Accordion
+
+
+Close
+close Accordion
+
+
+
+
+About
+
+Press
+
+Jobs
+
+How YouTube Works
+
+YouTube Culture & Trends
+
+Community Forum
+
+
+
+YouTube Products
+
+
+Open
+Open Accordion
+
+
+Close
+close Accordion
+
+
+
+
+YouTube Go
+
+YouTube Kids
+
+YouTube Music
+
+YouTube Originals
+
+YouTube Premium
+
+YouTube Studio
+
+YouTube TV
+
+
+
+For Business
+
+
+Open
+Open Accordion
+
+
+Close
+close Accordion
+
+
+
+
+Advertising
+
+Developers
+
+
+
+For Creators
+
+
+Open
+Open Accordion
+
+
+Close
+close Accordion
+
+
+
+
+Artists
+
+Creators
+
+Creator Academy
+
+Creating for Kids
+
+Creators Research
+
+Creators Services Directory
+
+YouTube NextUp
+
+YouTube Space
+
+YouTube VR
+
+
+
+Our Commitments
+
+
+Open
+Open Accordion
+
+
+Close
+close Accordion
+
+
+
+
+Creators for Change
+
+CSAI Match
+
+Social Impact
+
+
+
+
+Logo
+YouTube Logo
+
+
+
+
+Policy & Safety
+
+Copyright
+
+Brand Guidelines
+
+Privacy
+
+Terms
+
+
+
+
+Question Mark
+Question Mark Icon
+
+Help
+
+
+
+English
+Deutsch
+Portuguese (Brazil)
+Español (Latinoamérica)
+
+Picker
+Picker
+
+
+
+
+
+

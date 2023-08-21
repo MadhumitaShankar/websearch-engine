@@ -1,0 +1,1573 @@
+
+
+
+
+Wikipedia:What is an article? - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia:What is an article?
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from )
+Wikipedia:Mainspace
+
+
+Jump to navigation
+Jump to search
+
+
+
+Wikipedia information page
+
+
+
+
+
+
+
+This is an .
+information page
+
+It is not one of , but rather intends to describe some aspect(s) of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of and .
+Wikipedia's policies or guidelines
+consensus
+vetting
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:ARTICLE
+
+
+WP:WIAA
+
+For the guideline on definite and indefinite articles in article titles, see .
+Wikipedia:Naming conventions (definite or indefinite article at beginning of name)
+
+See also:
+Wikipedia:FAQ
+
+
+Wikipedia data structure
+
+
+
+
+Namespaces
+
+
+Subject namespaces
+
+Talk namespaces
+
+0
+
+(Main/Article)
+Talk
+1
+
+2
+
+User
+User talk
+3
+
+4
+
+Wikipedia
+Wikipedia talk
+5
+
+6
+
+File
+File talk
+7
+
+8
+
+MediaWiki
+MediaWiki talk
+9
+
+10
+
+Template
+Template talk
+11
+
+12
+
+Help
+Help talk
+13
+
+14
+
+Category
+Category talk
+15
+
+100
+
+Portal
+Portal talk
+101
+
+118
+
+Draft
+Draft talk
+119
+
+710
+
+TimedText
+TimedText talk
+711
+
+828
+
+Module
+Module talk
+829
+
+
+Deprecated
+
+2300
+
+Gadget
+Gadget talk
+2301
+
+2302
+
+Gadget definition
+Gadget definition talk
+2303
+
+
+
+Virtual namespaces
+
+-1
+
+Special
+
+-2
+
+Media
+A or is a page on this site that has information on it. A encyclopedia article:
+Wikipedia article
+entry
+encyclopedic
+well-written
+
+identifies a topic,
+notable
+that topic comprehensively,
+summarizes
+is written in an ,
+encyclopedic style of language
+has been well ,
+copyedited
+contains to , and
+references
+reliable sources
+contains to and by other articles or about .
+wikilinks
+is linked to
+article sections
+related topics
+Most articles consist of paragraphs and images (perhaps with other types of audiovisual media). However, articles may also be formatted as or tables (not to be confused with , which are purely navigation aids). These lists or tables are also considered articles for Wikipedia's purposes and are included in the , the one without a title prefix followed by a colon ().
+stand-alone lists
+disambiguation pages
+Main/Article namespace
+:
+The following items are counted as articles (see also ):
+not
+Wikipedia:Administration § Data structure and development
+
+,
+disambiguation pages
+, including ,
+templates
+navboxes (aka navigation boxes)
+,
+user pages
+,
+drafts
+,
+portals
+,
+talk pages (aka discussion pages)
+for media such as images,
+file pages
+,
+category pages
+, and
+help pages
+(along with everything else in the namespace).
+Wikipedia policies and guidelines pages
+
+Wikipedia:
+
+
+
+Contents
+
+
+
+
+
+1
+Article titles
+
+
+2
+Article scope
+
+
+3
+Quality of articles
+
+
+4
+Namespace
+
+
+5
+Lists of articles and statistics
+
+
+6
+See also
+
+
+7
+External links
+
+Article titles
+
+
+
+
+
+
+
+Wikipedia:Processes
+
+
+Article creation
+
+Introductory
+
+
+
+
+Getting started with Wikipedia
+
+Article wizard
+
+Your first article
+
+Suggested articles
+
+
+
+
+Most-wanted articles
+
+Requested articles
+
+Images needing articles
+
+Concepts and guidelines
+
+
+
+
+Standard layout
+
+Lead section
+
+Sections
+
+Stub articles
+
+Categorization
+
+Development processes
+
+
+
+
+Article development
+
+Moving a page
+
+Merging articles
+
+Featured article criteria
+
+The perfect article
+
+Meta tools and groups
+
+
+
+
+WikiProject: Articles for creation
+
+
+Special:NewPages
+
+
+New pages patrol
+
+
+New articles by topic
+()
+
+Recent additions
+DYK
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+See to learn how we title articles.
+Wikipedia:Article titles
+
+Article scope
+
+
+Each article has a scope, which is what the article covers. The article should contain a readable summary of everything within the scope, given due weight, based on what say.
+reliable sources
+
+Quality of articles
+
+
+
+Main page:
+Wikipedia:Content assessment
+Articles range greatly in quality, from as high as to as low as . Some articles are quite lengthy and rich in while others are shorter (possibly ) or of lesser quality.
+featured articles
+candidates for speedy deletion
+content
+stubs
+
+Namespace
+
+
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:NS0
+
+
+WP:MAINSPACE
+
+
+WP:ARTICLESPACE
+
+Main page:
+Wikipedia:Administration § Data structure and development
+"Articles" belong to the of Wikipedia pages (also called "" or simply "").
+main namespace
+article namespace
+mainspace
+The , , or is the of Wikipedia that contains the encyclopedia proper—that is, where "live" Wikipedia articles reside, as opposed to pages.
+main namespace
+article namespace
+mainspace
+namespace
+Sandbox
+The main namespace is the default namespace and does not use a prefix in article page names. This is distinct from other namespaces, where page names are always prefixed by an indicator of the particular namespace in which the page resides. For example, all are prefixed by , their by by and various types of internal administrative pages by (such as this page). Thus, any page created such a prefix will automatically be placed in the article namespace.
+user pages
+""
+User:
+talk pages
+
+"User talk:"
+templates
+
+"Template:"
+
+"Wikipedia:"
+without
+The main namespace does not include any pages in any of the specified that are used for particular purposes, such as:
+namespaces
+
+the namespaces for discussing what the content of articles in mainspace should be (for example, )
+talk
+Talk:Mathematics
+the namespace, for material about meta subjects related to Wikipedia and is where , , , and process pages reside, as well as other "meta" topics about editing Wikipedia (examples, and );
+Wikipedia
+policies and guidelines
+essays
+information
+WP:VERIFY
+Wikipedia:Statistics
+the namespace, for discussing what the content of pages in Wikipedia space should be, and interpretations of them (for example, and );
+Wikipedia talk
+Wikipedia talk:VERIFY
+Wikipedia talk:Statistics
+the namespace, whose pages are created by the software on demand (see );
+special
+Help:Special page
+the namespace for pages that are used by individual Wikipedia writers (example, ).
+user
+User:Example
+the namespace which is used for describing and attributing images (example, )
+file
+File:Great Horned Owl.USFWS.jpg
+the namespace, which is used to define shortcuts and other text strings used around Wikipedia (example )
+MediaWiki
+MediaWiki:Wikimedia-copyrightwarning
+But not all pages in the article namespace are considered by all to be articles. Pages in mainspace that are not usually considered articles-proper are:
+
+the (a )
+Main Page
+WP:Portal
+thousands of , which are used to resolve naming conflicts;
+disambiguation pages
+many millions of pages, including , which are used to re-route one page to another page;
+redirect
+soft redirects
+Every page in the main namespace can have a companion , and these belong to the "Talk" namespace, i.e., the page names start with the prefix "Talk:", followed by the name of the page in the main namespace. For example, "" is the talk page for Wikipedia's .
+talk page
+Talk:Wikipedia
+article on itself
+
+Lists of articles and statistics
+
+
+has a list of all pages in the article namespace and for statistics on Wikipedia and its growth.
+Special:AllPages
+Wikipedia:Statistics
+The automatic definition used by the software at is: . .
+Special:Statistics
+any page that is in the article namespace, is not a and contains at least one wiki link
+redirect page
+The statistics software currently has no method of detecting disambiguation pages, however; nor does it disregard (but in any case, many articles tagged as stubs are quite substantial) or stub lists (lists templates with little or no content)
+stubs
+
+See also
+
+
+
+
+Wikipedia:Administration
+
+Wikipedia:Who writes Wikipedia?
+
+Wikipedia:Contributing to Wikipedia
+
+Wikipedia:Subpages
+
+Wikipedia:Featured article criteria
+(from English Wikipedia's newsletter, )
+What as an Article
+counts
+
+The Signpost
+
+External links
+
+
+
+(current article count)
+Special:Statistics
+
+More detailed (but less current) statistics
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+Wikipedia technical help
+
+
+
+Get personal technical help at , , , or .
+the Teahouse
+Help desk
+Village pump (technical)
+talk pages
+IRC
+
+
+General technical help
+
+
+
+
+
+Browser notes
+
+
+Bypass cache
+
+Keyboard shortcuts
+
+Editing
+
+
+CharInsert
+
+Edit conflict
+
+Edit toolbar
+
+Reverting
+
+How to create a page
+
+IRC
+
+
+Tutorial
+
+Mobile access
+
+Multilingual support
+
+Page history
+
+Page information
+
+Page name
+
+
+Help
+
+Printing
+
+Software notices
+
+
+Editnotice
+
+Special Characters
+
+
+Entering
+
+User access levels
+
+VisualEditor
+
+
+User guide
+
+-related
+Special page
+
+
+
+
+
+Special page help
+
+Edit filter
+
+Emailing users
+
+Logging in
+
+
+Reset passwords
+
+Logs
+
+Moving a page
+
+
+Fixing cut-and-paste moves
+
+Non-admin and admin-only page moves
+
+Notifications/Echo
+
+
+FAQ
+
+Page Curation
+
+Page import
+
+Pending changes
+
+Random pages
+
+Recent changes
+
+Related changes
+
+Searching
+
+
+Linksearch
+
+Tags
+
+User contributions
+
+Watchlist
+
+What links here
+
+
+Wikitext
+
+
+
+
+Wikitext
+
+
+Cheatsheet
+
+Columns
+
+Line-break handling
+
+Lists
+
+Magic words
+
+
+For beginners
+
+Conditional expressions
+
+Switch parser function
+
+Time function
+
+Redirects
+
+Sections and TOCs
+
+Tables
+
+
+Introduction
+
+Basics
+
+Advanced table formatting
+
+Collapsing
+
+Conditional tables
+
+Sorting
+
+Using colours
+
+and
+Links
+diffs
+
+
+
+
+Links
+
+
+Interlanguage
+
+Interwiki
+
+Permanent
+
+Diffs
+
+
+Simplest diff guide
+
+Simple diff and link guide
+
+Complete diff and link guide
+
+Colon trick
+
+Link color
+
+Pipe trick
+
+URLs
+
+files: images, videos and sounds
+Media
+
+
+
+
+
+Media help
+
+Files
+
+
+Creation and usage
+
+Moving files to Commons
+
+Images
+
+
+Introduction to images
+
+Picture tutorial
+
+Preparing images for upload
+
+Uploading images
+
+Options to hide an image
+
+Extended image syntax
+
+SVG help
+
+Gallery tag
+
+Graphics tutorials
+
+
+Basic bitmap image editing
+
+How to improve image quality
+
+Graphics Lab resources
+
+Sound file markup
+
+Visual file markup
+
+Other graphics
+
+
+
+
+Family trees
+
+Graphs and charts
+
+
+How to create
+
+Barcharts
+
+To scale charts
+
+Math formulas
+
+
+Math symbols
+
+Musical scores
+
+
+Musical symbols
+
+Timeline
+
+
+EasyTimeline syntax
+
+WikiHiero syntax
+
+and modules
+Templates
+
+Lua
+
+
+
+
+Templates
+
+Advanced template coding
+
+Template documentation
+
+Template index
+
+Template limits
+
+Template sandbox and test cases
+
+Citation templates
+
+Lua help
+
+Lua project
+
+
+Resources
+
+To do
+
+Substitution
+
+Purge
+
+
+Job queue
+
+Transclusion
+
+
+Labeled section
+
+Costs and benefits
+
+Guide to Scribbling
+
+
+Data structure
+
+
+
+
+Namespaces
+
+Main/Article
+
+Category
+
+Draft
+
+File
+
+
+File description page
+
+Help
+
+Portal
+
+Project/Wikipedia
+
+Talk
+
+
+Archiving
+
+
+Simple
+
+Template
+
+User
+
+
+User page design
+
+MediaWiki
+
+
+Bug reports and feature requests
+
+System message
+
+TimedMediaHandler extension
+
+Module
+
+Special
+
+and
+HTML
+CSS
+
+
+
+
+Cascading Style Sheets
+
+HTML in wikitext
+
+Catalogue of CSS classes
+
+Common.js and common.css
+
+User CSS for monospaced coding font
+
+Classes in microformats
+
+Markup validation
+
+Span tags
+
+Useful styles
+
+and tools
+Customisation
+
+
+
+
+
+Preferences
+
+Gadgets
+
+Skins
+
+Citation tools
+
+Cleaning up vandalism tools
+
+Customizing watchlists
+
+
+Hide pages
+
+IRC Scripts
+
+User scripts
+
+
+Guide
+
+Techniques
+
+User style
+
+Tools
+
+
+Alternative browsing
+
+Browser tools
+
+Editing tools
+
+Navigation shortcuts
+
+Optimum tool set
+
+Wikimedia Cloud Services
+
+Beta Features at MediaWiki
+
+Automated editing
+
+
+
+
+AfC helper script
+
+AutoWikiBrowser
+
+Bots
+
+
+Creating
+
+HotCat
+
+Huggle
+
+Navigation popups
+
+RedWarn
+
+Twinkle
+
+WPCleaner
+Inactive
+
+
+igloo
+
+STiki
+
+
+
+
+See also:
+
+Category:Wikipedia how-to
+Further navigation at:
+
+Category:Wikipedia information pages
+
+Help pages
+
+
+Administrators
+
+Accessibility
+
+Accounts
+
+Bots
+
+Referencing
+
+
+Citation metadata
+
+Templates
+
+User scripts
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Wikipedia:What_is_an_article%3F&oldid=1074655943#Namespace
+
+:
+Categories
+
+
+Wikipedia information pages
+
+Wikipedia FAQs
+
+Articles
+Hidden categories:
+
+
+Wikipedia semi-protected project pages
+
+Wikipedia move-protected project pages
+
+Project pages with short description
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Project page
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+View source
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+In other projects
+
+
+
+
+Wikimedia Commons
+
+
+Wikiversity
+
+
+Wikivoyage
+
+
+Languages
+
+
+
+
+Afrikaans
+
+
+Alemannisch
+
+
+???????
+
+
+???????
+
+
+Asturianu
+
+
+??????
+
+
+?????
+
+
+Banjar
+
+
+Bân-lâm-gú
+
+
+Basa Banyumasan
+
+
+??????????
+
+
+???????
+
+
+?????????
+
+
+Bosanski
+
+
+Català
+
+
+???????
+
+
+?eština
+
+
+Cymraeg
+
+
+Dansk
+
+
+Deutsch
+
+
+Eesti
+
+
+????????
+
+
+Español
+
+
+Esperanto
+
+
+Euskara
+
+
+?????
+
+
+Føroyskt
+
+
+Galego
+
+
+???
+
+
+??????
+
+
+Hornjoserbsce
+
+
+Hrvatski
+
+
+Ilokano
+
+
+Bahasa Indonesia
+
+
+Interlingua
+
+
+Italiano
+
+
+?????
+
+
+Jawa
+
+
+Kapampangan
+
+
+???????
+
+
+????????
+
+
+Magyar
+
+
+??????????
+
+
+??????
+
+
+?????
+
+
+????
+
+
+Bahasa Melayu
+
+
+Minangkabau
+
+
+Mirandés
+
+
+Nederlands
+
+
+???
+
+
+???????
+
+
+Norsk bokmål
+
+
+O?zbekcha/???????
+
+
+??????
+
+
+Português
+
+
+Ripoarisch
+
+
+Român?
+
+
+???????
+
+
+Shqip
+
+
+?????
+
+
+Simple English
+
+
+????
+
+
+Sloven?ina
+
+
+Slovenš?ina
+
+
+?????
+
+
+?????? / srpski
+
+
+Sunda
+
+
+Svenska
+
+
+Tagalog
+
+
+Tarandíne
+
+
+???????/tatarça
+
+
+???
+
+
+??????
+
+
+Türkçe
+
+
+??????????
+
+
+????
+
+
+Ti?ng Vi?t
+
+
+??
+
+
+Zazaki
+
+
+??
+
+
+Edit links
+
+
+This page was last edited on 1 March 2022, at 12:02.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

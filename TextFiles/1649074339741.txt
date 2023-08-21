@@ -1,0 +1,866 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apple TV 4K - Technical Specifications - Apple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Global Nav Open Menu
+
+Global Nav Close Menu
+
+
+
+
+
+
+
+Apple
+
+
+
+Shopping Bag
+
+
+
++
+
+
+
+
+
+
+
+
+Search apple.com
+
+Cancel
+
+
+
+Apple
+
+
+Store
+
+
+Mac
+
+
+iPad
+
+
+iPhone
+
+
+Watch
+
+
+AirPods
+
+
+TV & Home
+
+
+Only on Apple
+
+
+Accessories
+
+
+Support
+
+
+
+
+
+Shopping Bag
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apple TV 4K
+
+
+Local Nav Open Menu
+
+Local Nav Close Menu
+
+
+
+Overview
+
+Tech Specs
+
+
+
+
+
+Buy
+Apple TV 4K
+
+
+
+
+
+Apple TV 4K - Technical Specifications
+
+
+
+Size and Weight
+
+
+
+
+
+
+
+
+
+3.9 inches (98 mm)
+3.9 inches (98 mm)
+1.4 inches (35 mm)
+
+1.4 inches (35 mm)
+Height:
+3.9 inches (98 mm)
+Width:
+3.9 inches (98 mm)
+Depth:
+
+15 ounces
+Weight:
+425 grams
+(425 g)
+
+1
+
+
+
+
+
+
+
+
+1.4 inches (35 mm)
+5.4 inches (136 mm)
+
+5.4 inches (136 mm)
+Height:
+1.4 inches (35 mm)
+Width:
+0.36 inch (9.25 mm)
+Depth:
+
+
+2.2 ounces
+Weight:
+63 grams
+(63 g)
+
+1
+
+
+
+Capacity
+
+
+
+32GB
+
+2
+
+
+64GB
+
+2
+
+
+Siri Remote
+
+
+Bluetooth 5.0 wireless technology
+IR transmitter
+Lightning connector for charging
+Rechargeable battery providing months of battery life on a single charge (with typical daily usage)
+Charging via USB to computer system or power adapter (sold separately)
+Control your TV or receiver via IR or CEC.
+
+3
+
+
+
+
+
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+Microphone for Siri
+1
+Touch-enabled clickpad
+2
+Back
+3
+Play/Pause
+4
+Mute
+5
+
+Power
+6
+Siri
+7
+TV/Home
+8
+Volume
+9
+
+
+Ports and Interfaces
+
+
+
+
+
+
+
+
+
+Built-in power supply
+HDMI
+Gigabit Ethernet
+HDMI 2.1
+
+4
+802.11ax Wi?Fi 6 with MIMO; simultaneous dual band (2.4GHz and 5GHz)
+Thread
+
+5
+Gigabit Ethernet
+Bluetooth 5.0 wireless technology
+IR receiver
+Built-in power supply
+
+
+Processor
+
+
+
+
+
+
+A12 Bionic chip with 64-bit architecture
+
+
+System Requirements
+
+Purchases, rentals, and Home Sharing require an Apple ID that you use for the App Store and other Apple services.
+Requires 802.11 wireless, Ethernet network, or broadband internet access
+Requires 4K and HDR TV for 4K and HDR streaming
+Requires acceptance of the software license terms at
+apple.com/legal/sla
+Requires HDMI cable (sold separately)
+
+
+Video Formats
+
+H.264/HEVC SDR video up to 2160p, 60 fps, Main/Main 10 profile
+HEVC Dolby Vision (Profile 5)/HDR10 (Main 10 profile)/HLG up to 2160p, 60 fps
+H.264 Baseline Profile level 3.0 or lower with AAC-LC audio up to 160 Kbps per channel, 48kHz, stereo audio in .m4v, .mp4, and .mov file formats
+MPEG-4 video up to 2.5 Mbps, 640 by 480 pixels, 30 fps, Simple profile with AAC-LC audio up to 160 Kbps, 48kHz, stereo audio in .m4v, .mp4, and .mov file formats
+
+
+Audio Formats
+
+HE-AAC (V1), AAC (up to 320 Kbps), protected AAC (from iTunes Store), MP3 (up to 320 Kbps), MP3 VBR, Apple Lossless, FLAC, AIFF, and WAV; AC-3 (Dolby Digital 5.1), E-AC-3 (Dolby Digital Plus 7.1 surround sound), and Dolby Atmos
+
+
+Photo Formats
+
+HEIF, JPEG, GIF, TIFF
+
+
+Compatibility
+
+Compatible with HD and UHD TVs with HDMI
+
+4
+Compatible with Bluetooth keyboards
+
+6
+
+
+Accessibility
+
+Accessibility features help people with disabilities get the most out of their Apple TV. With built-in support for vision, hearing, mobility, and learning, you can easily find and enjoy your favorite entertainment.
+
+
+Learn more
+
+
+Features include:
+
+VoiceOver
+Zoom
+Increase Contrast
+Reduce Motion
+Closed Caption and SDH Support
+Audio Descriptions
+Siri and Dictation
+Type to Siri
+Switch Control
+
+
+In the Box
+
+
+Apple TV 4K
+Siri Remote
+Power cord
+Lightning to USB cable
+Documentation
+
+
+
+
+
+Apple TV and the Environment
+
+
+
+
+
+Apple TV 4K with Siri Remote is designed with the following features to reduce its environmental impact:
+
+7
+
+
+See the Apple TV 4K Product Environmental Report
+
+
+
+
+
+Apple TV 4K with Siri Remote is designed with the following features to reduce its environmental impact:
+
+7
+
+
+See the Apple TV 4K Product Environmental Report
+
+
+Made with better materials
+
+100% recycled aluminum in the Siri Remote enclosure
+100% recycled tin in the solder of the main logic board
+35% or more recycled plastic in multiple components
+
+Energy efficient
+
+ENERGY STAR® certified
+
+8
+
+Smarter chemistry
+
+9
+
+Mercury-, BFR-, PVC-, and beryllium-free
+
+Green manufacturing
+
+Apple’s Zero Waste Program helps suppliers eliminate waste sent to landfill
+All final assembly supplier sites are transitioning to 100% renewable energy for Apple production
+
+Responsible packaging
+
+100% of virgin wood fiber comes from responsibly managed forests
+Recyclable, majority-fiber packaging
+
+
+Apple and the Environment
+We’re committed to making our products without taking from the earth, and to become carbon neutral across our entire business, including products, by 2030.
+
+
+See Apple’s commitment
+
+
+Apple Trade In
+Trade in your eligible device for credit toward your next purchase, or get an Apple Gift Card you can use anytime. If your device isn’t eligible for credit, we’ll recycle it for free.
+
+10
+
+
+Learn more
+
+
+
+Apple Footer
+
+
+Weight varies by configuration and manufacturing process.
+1GB = 1 billion bytes; actual formatted capacity less.
+Powering on and off, switching input to Apple TV, controlling volume, and mute.
+Support for up to 4K 60-fps HDR video output and Audio Return Channel (ARC or eARC) only. Requires HDCP when playing protected content and compatible TV or Receiver
+Not compatible with non-HomeKit Thread devices.
+Compatible with Magic Keyboard and Apple Wireless Keyboard (2011). Visit to find out which model you have.
+support.apple.com/en-us/HT201806
+Data accurate as of product launch.
+ENERGY STAR and the ENERGY STAR mark are registered trademarks owned by the U.S. Environmental Protection Agency.
+Apple defines its restrictions on harmful substances, including definitions for what Apple considers to be “free of”, in the . Every Apple product is free of PVC and phthalates with the exception of AC power cords in India, Thailand (for two-prong AC power cords), and South Korea, where we continue to seek government approval for our PVC and phthalates replacement.
+Apple Regulated Substances Specification
+Trade-in values vary based on the condition, year, and configuration of your trade-in device, and may also vary between online and in-store trade-in. You must be at least 18 years old. Apple or its trade-in partners reserve the right to refuse or limit any trade-in transaction for any reason. In-store trade-in requires presentation of a valid, government-issued photo ID (local law may require saving this information). Additional terms from Apple or Apple’s trade-in partners may apply.
+
+Services are not available in all countries or regions and are subject to change.
+
+
+?
+Apple
+
+
+
+
+
+
+TV & Home
+
+
+
+Apple TV 4K
+
+
+Tech Specs
+
+
+
+
+
+
+Shop and Learn
+
+Open Menu
+
+Close Menu
+
+
+Store
+
+Mac
+
+iPad
+
+iPhone
+
+Watch
+
+AirPods
+
+TV & Home
+
+iPod touch
+
+AirTag
+
+Accessories
+
+Gift Cards
+
+
+
+
+Services
+
+Open Menu
+
+Close Menu
+
+
+Apple Music
+
+Apple TV+
+
+Apple Fitness+
+
+Apple News+
+
+Apple Arcade
+
+iCloud
+
+Apple One
+
+Apple Card
+
+Apple Books
+
+Apple Podcasts
+
+App Store
+
+
+
+Account
+
+Open Menu
+
+Close Menu
+
+
+Manage Your Apple ID
+
+Apple Store Account
+
+iCloud.com
+
+
+
+
+Apple Store
+
+Open Menu
+
+Close Menu
+
+
+Find a Store
+
+Genius Bar
+
+Today at Apple
+
+Apple Camp
+
+Apple Store App
+
+Refurbished and Clearance
+
+Financing
+
+Apple Trade In
+
+Order Status
+
+Shopping Help
+
+
+
+
+For Business
+
+Open Menu
+
+Close Menu
+
+
+Apple and Business
+
+Shop for Business
+
+
+
+For Education
+
+Open Menu
+
+Close Menu
+
+
+Apple and Education
+
+Shop for K-12
+
+Shop for College
+
+
+
+For Healthcare
+
+Open Menu
+
+Close Menu
+
+
+Apple in Healthcare
+
+Health on Apple Watch
+
+Health Records on iPhone
+
+
+
+For Government
+
+Open Menu
+
+Close Menu
+
+
+Shop for Government
+
+Shop for Veterans and Military
+
+
+
+
+Apple Values
+
+Open Menu
+
+Close Menu
+
+
+Accessibility
+
+Education
+
+Environment
+
+Inclusion and Diversity
+
+Privacy
+
+Racial Equity and Justice
+
+Supplier Responsibility
+
+
+
+About Apple
+
+Open Menu
+
+Close Menu
+
+
+Newsroom
+
+Apple Leadership
+
+Career Opportunities
+
+Investors
+
+Ethics & Compliance
+
+Events
+
+Contact Apple
+
+More ways to shop: or near you.
+Find an Apple Store
+other retailer
+Or call 1-800-MY-APPLE.
+
+United States
+
+Copyright © 2022 Apple Inc. All rights reserved.
+
+Privacy Policy
+Terms of Use
+Sales and Refunds
+Legal
+Site Map
+
+
+
+
+
+

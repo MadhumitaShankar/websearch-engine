@@ -1,0 +1,733 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BBC Taster - Soundscape Explorer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+Accessibility links
+
+
+Skip to content
+
+Accessibility Help
+
+
+
+BBC Account
+
+
+Notifications
+
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+Menu
+
+
+Search BBC
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+Close menu
+
+
+
+
+
+
+
+
+
+BBC Taster
+
+
+
+Try
+
+7 months left
+
+Rate
+
+33 ratings
+
+Share
+
+0 shares
+
+
+
+
+
+
+
+
+
+1 star
+
+
+
+2 stars
+
+
+
+3 stars
+
+
+
+4 stars
+
+
+
+5 stars
+How did you rate this?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+
+
+
+
+
+Maybe later
+
+
+
+Liked it? Share it! We want to make things that you love
+
+Tweet
+
+
+Share
+
+
+
+on Facebook
+
+
+
+
+
+
+Your device is not currently supported by Soundscape Explorer
+We’re experimenting with new technology and the browser you are using is unable to run this pilot. Try visiting this page in a different browser or check out some of the other ideas on Taster below.
+
+
+
+Soundscape Explorer trailer
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soundscape Explorer
+
+
+Try it
+7 months left
+Put on your headphones and be transported into a virtual sound world with Soundscape Explorer. Listen to our curated mixes, or create and share a scene of your own. Import your mix from the sound effects mixer, position the sounds in space, and listen from every direction.
+0 shares
+
+
+
+
+33 ratings
+
+
+
+
+
+
+
+
+
+
+The Inside Story
+Earlier this year, BBC R&D teamed up with the Soundscapes for Wellbeing project and BBC Archive to investigate how listening to natural soundscapes can improve our mental health and connection with nature. In this pilot, we wanted to explore whether binaural audio and augmented reality technology can improve how we interact with soundscapes, and what design challenges there might be.
+
+Our sound designers worked with wintry poems read by Mary Anne Hobbs (Radio 6 Music) and Nick Bright (Radio 1Xtra). We also made a few soundscapes reminiscent of warmer climes including a tropical beach soundscape produced by Sian Eleri (Radio 1).
+The app works best on your computer or Android device. You may experience audio glitches on iOS, particularly in the more complex scenes.
+
+How it was made
+We started off exploring augmented reality (AR) — visualising sounds as 3D objects drawn over a camera view of the listener’s real world surroundings. To prototype quickly, we used existing open-source software, including Google’s Resonance library for dynamic spatial audio rendering, and the AFrame library for describing scenes of 3D objects and working with AR devices. However, we met some stumbling blocks along the way, where the audio rendering performance was reduced by the processing power required to update the AR graphics. In the end, we opted to use a static 360-degree photo as a background, and only use the device’s 3-DOF orientation sensors instead of the camera. You can read more about our prototypes and findings from a co-design workshops on , and we hope we’ll be able to fully explore the 6-DOF AR option in the future.
+the R&D blog
+For the sound design, we used the “mixer mode” tool to collect and listen to the sound effects. It includes access to a database of over 33,000 sound effects, and we could create simple soundscapes as demonstrated by Radio 1 Relax’s Sian Eleri as part of . The mixes were then imported into our Soundscape Explorer app, where they are spatialised by a binaural renderer. Binaural audio gives the illusion of listening to a real space by processing each sound source based on its distance and direction relative to the listener’s ears. By rotating the view or grabbing and repositioning the sounds, we can tune the mix to be just right. And you can do it too: the mixer tool makes it easy for anyone to create a soundscape, and you can share it to the app to explore it in 3D space. We found that it works really well even with just five to ten sounds, so just give it a go; we can’t wait to hear what you make.
+BBC Archive's sound effects
+Soundscapes for Wellbeing
+
+
+Find out more
+Using the sound effects mixer and positioning sound sources in a virtual space is much like the work of professional sound designers — using slightly different tools, such as our , and often working with composers and their own recordings, of course.
+EAR production suite
+If you’re into binaural sound, we have some examples in this .
+collection of binaural audio on the BBC
+If you’re inspired to take your mixes further, why not check out some of the recordings from our recent Sounds Amazing event, including a talk on the , and an into the detail of his work.
+soundscapes of BBC drama Vigil
+insight from producer Benbrick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More new ideas for you on Taster
+
+
+
+
+
+
+
+
+Seeking New Gods
+Experience Gruff Rhys's Seeking New Gods in 360° audio
+
+Augmented Reality
+4/5
+
+
+
+
+
+
+Philip 21
+Explore the complexities and pitfalls of modern day dating in this interactive experience
+
+Augmented Reality
+3.5/5
+
+
+
+
+
+
+Dance Passion: NOISE
+This interactive dance film explores the real-life experiences of people who don't conform to stereotypes
+
+Augmented Reality
+4/5
+
+
+
+
+
+
+Top rated
+
+
+Shared
+
+
+Tried
+
+
+
+
+
+1
+
+Dance Passion: Out Late
+
+
+
+
+
+
+5 stars
+
+
+
+
+2
+
+Dance Passion: Beneath Still Waters
+
+
+
+
+
+
+5 stars
+
+
+
+
+3
+
+Dance Passion: Laying The Ground
+
+
+
+
+
+
+4 stars
+
+
+
+
+
+1
+
+Pick A Part
+0 shares
+
+
+
+
+
+2
+
+Philip 21
+0 shares
+
+
+
+
+
+3
+
+Spectrum Sounds
+0 shares
+
+
+
+
+
+
+1
+
+Dance Passion: NOISE
+48 tries
+
+
+
+
+
+2
+
+Dance Passion: Out Late
+39 tries
+
+
+
+
+
+3
+
+Dance Passion: Beneath Still Waters
+38 tries
+
+
+
+
+
+You are entering an experimental area
+Some ideas could break!
+
+
+Find out more
+
+
+
+
+
+
+
+Explore the BBC
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+
+
+
+
+Terms of Use
+
+About the BBC
+
+Privacy Policy
+
+Cookies
+
+Accessibility Help
+
+Parental Guidance
+
+Contact the BBC
+
+Get Personalised Newsletters
+
+Advertise with us
+
+AdChoices / Do Not Sell My Info
+The BBC is not responsible for the content of external sites.
+Copyright © 2022 BBC.
+
+Read about our approach to external linking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soundscape Explorer
+
+
+
+
+Info
+
+
+
+Inside Story
+
+
+
+More
+
+
+
+

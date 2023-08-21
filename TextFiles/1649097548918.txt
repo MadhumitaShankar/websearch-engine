@@ -1,0 +1,1666 @@
+
+
+
+
+Hyperlink - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hyperlink
+
+From Wikipedia, the free encyclopedia
+
+(Redirected from )
+Wikilink
+
+
+Jump to navigation
+Jump to search
+
+
+Method of referencing visual computer data
+
+For help creating links on Wikipedia, see .
+Help:Contents/Links
+
+
+
+
+An example of a hyperlink as commonly seen in a web browser, with a mouse pointer hovering above it
+
+
+
+
+
+
+Several documents being connected by hyperlinks
+
+
+In , a , or simply a , is a reference to that the can follow by or . A hyperlink points to a whole document or to a specific element within a document. is text with hyperlinks. The text that is linked from is called . A software system that is used for viewing and creating hypertext is a , and to create a hyperlink is (or simply ). A user following hyperlinks is said to or the hypertext.
+computing
+hyperlink
+link
+data
+user
+clicking
+tapping
+
+[1]
+Hypertext
+anchor text
+hypertext system
+to hyperlink
+to link
+navigate
+browse
+The document containing a hyperlink is known as its source document. For example, in an online reference work such as , or , many words and terms in the text are hyperlinked to definitions of those terms. Hyperlinks are often used to implement reference such as tables of contents, , , , , and .
+Wikipedia
+Google
+mechanisms
+footnotes
+bibliographies
+indexes
+letters
+glossaries
+In some hypertext, hyperlinks can be bidirectional: they can be followed in two directions, so both ends act as and as targets. More complex arrangements exist, such as many-to-many links.
+anchors
+The effect of following a hyperlink may vary with the hypertext system and may sometimes depend on the link itself; for instance, on the most hyperlinks cause the target document to replace the document being displayed, but some are marked to cause the target document to open in a new window (or, perhaps, in a new ). Another possibility is , for which the link target is a document that replaces the link anchor within the source document. Not only persons browsing the document follow hyperlinks. These hyperlinks may also be followed automatically by programs. A program that traverses the hypertext, following each hyperlink and gathering all the retrieved documents is known as a Web or .
+World Wide Web
+tab
+
+[2]
+transclusion
+fragment
+spider
+crawler
+
+
+
+Contents
+
+
+
+
+
+1
+Links
+
+
+
+1.1
+Inline links
+
+
+1.2
+Anchor links
+
+
+1.3
+Fat links
+
+
+2
+Uses in various technologies
+
+
+
+2.1
+HTML
+
+
+2.2
+remove XLink: hyperlinks
+
+
+2.3
+Wikis
+
+
+2.4
+Virtual worlds
+
+
+2.5
+Permalinks
+
+
+3
+How hyperlinks work in HTML
+
+
+
+3.1
+Link behavior in web browsers
+
+
+4
+History
+
+
+5
+Legal issues
+
+
+6
+See also
+
+
+7
+References
+
+
+8
+Further reading
+
+Links
+
+[
+edit
+]
+
+Inline links
+
+[
+edit
+]
+An displays remote content without the need for embedding the content. The remote content may be accessed with or without the user following the link.
+inline link
+An inline link may display a modified version of the content; for instance, instead of an image, a , , section, or section may be shown. The full content is then usually available on demand, as is the case with software – e.g., with an . This allows for smaller file sizes and quicker response to changes when the full linked content is not needed, as is the case when rearranging a .
+thumbnail
+low resolution
+preview
+cropped
+magnified
+print publishing
+external link
+page layout
+
+Anchor links
+
+
+[
+edit
+]
+An anchor hyperlink (anchor link) is a link bound to a portion of a document, which is often called a . The fragment is generally a portion of text or a heading, though not necessarily. For instance, it may also be a in an image ( in HTML), a designated, often irregular part of an image.
+
+[3]
+fragment
+hot area
+image map
+Fragments are marked with (in any of various ways), which is why a link to a fragment is called an anchor link (that is, a link to an anchor). For example, in XML, the element provides anchoring capability (as long as the DTD or schema defines it), and in , is a typical example of implementing it. In apps, anchors can be inserted where desired and may be called . In , the hash character (#) precedes the name of the anchor for the fragment.
+anchors
+<anchor id="name" />"
+wiki markup
+{{anchor|name}}
+word processor
+bookmarks
+URLs
+One way to define a hot area in an image is by a list of coordinates that indicate its boundaries. For example, a may have each country hyperlinked to further information about that country. A separate invisible hot area interface allows for swapping or labels within the linked hot areas without repetitive embedding of links in the various skin elements.
+political map of Africa
+skins
+Hyperlink is embedded into a word or a phrase and makes this text clickable.
+Text hyperlink.
+Hyperlink is embedded into an image and makes this image clickable.
+Image hyperlink.
+Hyperlink is embedded into a text or an image and takes visitors to another part of a web page.
+Bookmark hyperlink.
+Hyperlink is embedded into e-mail address and allows visitors to send an e-mail message to this e-mail address.
+E-mail hyperlink.
+
+[4]
+
+Fat links
+
+[
+edit
+]
+A (also known as a "one-to-many" link, an "extended link" or a "multi-tailed link") is a hyperlink which leads to multiple endpoints; the link is a .
+fat link
+
+[5]
+
+[6]
+multivalued function
+
+Uses in various technologies
+
+[
+edit
+]
+
+HTML
+
+[
+edit
+]
+
+Main article:
+HTML element § Anchor
+saw the possibility of using hyperlinks to link any information to any other information over the . Hyperlinks were therefore integral to the creation of the . Web pages are written in the hypertext mark-up language .
+Tim Berners-Lee
+Internet
+World Wide Web
+HTML
+This is what a hyperlink to the home page of the could look like in HTML code:
+W3C organization
+
+W3C organization website
+
+<
+a
+href
+=
+"https://www.w3.org/"
+>
+</
+a
+>
+This HTML code consists of several :
+tags
+
+The hyperlink starts with an anchor opening tag , and includes a hyperlink reference to the for the page. (Note that the URL is enclosed in quotes.)
+<a
+href="https://www.w3.org/"
+
+URL
+The is followed by , marking the end of the anchor opening tag.
+URL
+>
+The words that follow identify what is being linked; this is the only part of the code that is ordinarily visible on the screen when the page is rendered, but when the cursor hovers over the link, many browsers display the target URL somewhere on the screen, such as in the lower left-hand corner.
+Typically these words are underlined and colored (for example, blue for a link that has not yet been visited and purple for a link already visited).
+The anchor closing tag () terminates the hyperlink code.
+</a>
+The tag can also consist of various attributes such as the "rel" attribute which specifies the relationship between the current document and linked document.
+<a>
+is a , formed from as vertices and hyperlinks, as directed edges.
+Webgraph
+graph
+web pages
+
+remove XLink: hyperlinks
+
+[
+edit
+]
+
+Main article:
+XLink
+The called describes hyperlinks that offer a far greater degree of functionality than those offered in HTML. These can be , remove linking from, within, and between XML documents. It can also describe , which are unidirectional and therefore offer no more functionality than hyperlinks in HTML.
+W3C
+Recommendation
+
+XLink
+extended links
+multidirectional
+simple links
+
+Wikis
+
+[
+edit
+]
+
+
+
+
+
+
+The has an entry for .
+Wikipedia Glossary
+
+
+wikilink
+While may use HTML-type hyperlinks, the use of , a set of specifically for wikis, provides a simplified syntax for linking pages within wiki environments – in other words, for creating .
+wikis
+wiki markup
+lightweight markup languages
+wikilinks
+
+
+
+
+How internal links work when one wants to create a link that displays words different from the linked page's title.
+
+
+MediaWiki
+The syntax and appearance of wikilinks may vary. 's original , the used for this purpose. CamelCase was also used in the early version of and is still used in some wikis, such as , , and . A common markup syntax is the use of double square brackets around the term to be wikilinked. For example, the input "[[zebras]]" is converted by wiki software using this markup syntax to a link to a article. Hyperlinks used in wikis are commonly classified as follows:
+Ward Cunningham
+wiki software
+WikiWikiWeb
+CamelCase
+Wikipedia
+TiddlyWiki
+Trac
+PmWiki
+zebras
+
+or lead to pages within the same wiki website.
+Internal wikilinks
+intrawiki links
+are simplified markup hyperlinks that lead to pages of other wikis that are associated with the first.
+Interwiki links
+lead to other webpages (those not covered in the above two cases, wiki or not wiki).
+External links
+Wikilinks are visibly distinct from other text, and if an internal wikilink leads to a page that does not yet exist, it usually has a different specific visual appearance. For example, in Wikipedia wikilinks are displayed in blue, except those that link to pages that don't yet exist, which are instead shown in . Another possibility for linking is to display a highlighted clickable question mark after the wikilinked term.
+red
+
+[7]
+
+Virtual worlds
+
+[
+edit
+]
+
+Main article:
+Hyperlinks in virtual worlds
+Hyperlinks are being implemented in various 3D networks, including those that use the and platforms.
+virtual world
+OpenSimulator
+
+[8]
+Open Cobalt
+
+[9]
+
+Permalinks
+
+[
+edit
+]
+
+Main article:
+Digital preservation
+Permalinks are URLs that are intended to remain unchanged for many years into the future, yielding hyperlink that are less susceptible to link rot. Permalinks are often rendered simply, that is, as friendly URLs, so as to be easy for people to type and remember. Permalinks are used in order to and readers to the same , blog post or any online digital media.
+point
+redirect
+Web page
+
+[10]
+The scientific literature is a place where link persistence is crucial to the public knowledge. A 2013 study in analyzed 15,000 links in abstracts from Thomson Reuters’ citation index, founding that the median lifespan of Web pages was 9.3 years, and just 62% were archived. The median lifespan of a Web page constitutes high-degree variable, but its usually is of some months.
+BMC Bioinformatics
+Web of Science
+
+[11]
+order of magnitude
+
+[12]
+
+How hyperlinks work in HTML
+
+[
+edit
+]
+A link from one domain to another is said to be from its source anchor and to its target.
+outbound
+
+inbound
+The most common destination anchor is a used in the . This can refer to a document, e.g. a , or other resource, or to a position in a webpage. The latter is achieved by means of an with a "name" or "id" attribute at that position of the HTML document. The URL of the position is the URL of the webpage with a – "#" – appended.
+URL
+World Wide Web
+webpage
+HTML element
+fragment identifier
+id attribute
+When linking to PDF documents from an HTML page the "" can be replaced with syntax that references a page number or another element of the PDF, for example, "#".
+id attribute
+page=386
+
+Link behavior in web browsers
+
+[
+edit
+]
+A usually displays a hyperlink in some distinguishing way, e.g. in a different , or , or with certain symbols following to visualize link target or document types. This is also called . The behavior and style of links can be specified using the (CSS) language.
+
+web browser
+color
+font
+style
+link decoration
+Cascading Style Sheets
+In a graphical user interface, the appearance of a may change into a motif to indicate a link. In most graphical web browsers, links are displayed in underlined blue text when they have not been visited, but underlined purple text when they have. When the activates the link (e.g., by clicking on it with the mouse) the browser displays the link's target. If the target is not an HTML file, depending on the and on the browser and its , another program may be activated to open the file.
+mouse
+cursor
+hand
+user
+file type
+plugins
+The HTML code contains some or all of the five main characteristics of a link:
+
+("href" pointing to a URL)
+link destination
+
+
+link label
+
+link title
+
+link target
+or
+link class
+link id
+It uses the with the attribute "href" (HREF is an abbreviation for "Hypertext REFerence") and optionally also the attributes "title", "target", and "" or "id":
+HTML element "a"
+
+[13]
+class
+
+
+<a href="" title="" target="" class=""></a>
+URL
+link title
+link target
+link class
+link label
+To embed a link into a web page, blogpost, or comment, it may take this form:
+
+
+<a href="https://example.com/">Example</a>
+In a typical web browser, this would display as the underlined word "Example" in blue, which when clicked would take the user to the example.com website. This contributes to a clean, easy to read text or document.
+By default, browsers will usually display hyperlinks as such:
+
+An unvisited link is usually blue and underlined
+A visited link is usually purple and underlined
+An active link is usually red and underlined
+When the cursor hovers over a link, depending on the browser and graphical user interface, some informative text about the link can be shown, popping up, not in a regular , but in a special , which disappears when the cursor is moved away (sometimes it disappears anyway after a few seconds, and reappears when the cursor is moved away and back). , , , and many other web browsers all show the URL. In addition, the URL is commonly shown in the .
+window
+hover box
+Mozilla Firefox
+IE
+Opera
+status bar
+Normally, a link opens in the current or window, but sites that use frames and multiple windows for navigation can add a special "target" attribute to specify where the link loads. If no window exists with that name, a new window is created with the ID, which can be used to refer to the window later in the browsing session.
+frame
+Creation of new windows is probably the most common use of the "target" attribute. To prevent accidental reuse of a window, the special window names "_blank" and "_new" are usually available, and always cause a new window to be created. It is especially common to see this type of link when one large website links to an external page. The intention in that case is to ensure that the person browsing is aware that there is no endorsement of the site being linked to by the site that was linked from. However, the attribute is sometimes overused and can sometimes cause many windows to be created even while browsing a single site.
+Another special page name is "_top", which causes any frames in the current window to be cleared away so that browsing can continue in the full window.
+
+History
+
+[
+edit
+]
+
+
+
+
+Douglas Engelbart and his team at , 1969
+
+
+SRI
+The term "link" was coined in 1965 (or possibly 1964) by at the start of . Nelson had been inspired by "", a popular 1945 essay by . In the essay, Bush described a microfilm-based machine (the ) in which one could link any two pages of information into a "trail" of related information, and then scroll back and forth among pages in a trail as if they were on a single microfilm reel.
+Ted Nelson
+Project Xanadu
+As We May Think
+Vannevar Bush
+Memex
+In a series of books and articles published from 1964 through 1980, Nelson transposed Bush's concept of automated cross-referencing into the computer context, made it applicable to specific text strings rather than whole pages, generalized it from a local desk-sized machine to a theoretical proprietary worldwide computer network, and advocated the creation of such a network. Though Nelson's Xanadu Corporation was eventually funded by in the 1980s, it never created this proprietary public-access network. Meanwhile, working independently, a team led by (with as chief ) was the first to implement the hyperlink concept for scrolling within a single document (1966), and soon after for connecting between paragraphs within separate documents (1968), with . working with graduate student Dan Ostroff designed and implemented the highlighted link in the in 1983. HyperTIES was used to produce the world's first electronic journal, the July 1988 Communications of ACM, which was cited as the source for the link concept in 's Spring 1989 manifesto for the Web. In 1988, and Greg Kearsley used HyperTIES to publish "Hypertext Hands-On!", the world's first electronic book.
+Autodesk
+Douglas Engelbart
+Jeff Rulifson
+programmer
+NLS
+Ben Shneiderman
+HyperTIES system
+Tim Berners-Lee
+Ben Shneiderman
+[]
+
+
+citation needed
+A database program was released in 1987 for the Apple Macintosh that allowed hyperlinking between various pages within a document, as well as to other documents — even separate applications — on the same computer; it was probably the first use of the word "hyperlink". In 1990, , which was introduced with , had widespread use of hyperlinks to link different pages in a single together; in addition, it had a visually different kind of hyperlink that caused a popup help message to appear when clicked, usually to give definitions of terms introduced on the help page. The first widely used open protocol that included hyperlinks from any Internet site to any other Internet site was the from 1991. It was soon eclipsed by HTML after the 1993 release of the (which could handle Gopher links as well as HTML links). HTML's advantage was the ability to mix graphics, text, and hyperlinks, unlike Gopher, which just had menu-structured text and hyperlinks.
+HyperCard
+
+[14]
+
+[15]
+Windows Help
+Microsoft Windows 3.0
+help file
+Gopher protocol
+Mosaic browser
+
+Legal issues
+
+[
+edit
+]
+
+Main article:
+Copyright aspects of hyperlinking and framing
+While hyperlinking among webpages is an intrinsic feature of the , some websites object to being linked by other websites; some have claimed that linking to them is not allowed without permission.
+web
+Contentious in particular are , which do not point to a site's or other entry point designated by the site owner, but to content elsewhere, allowing the user to bypass the site's own designated flow, and , which incorporate the content in question into the pages of the linking site, making it seem part of the linking site's own content unless an explicit attribution is added.
+deep links
+home page
+inline links
+
+[16]
+In certain , it is or has been held that hyperlinks are not merely or , but are devices for copying web pages. In the Netherlands, was initially convicted in this way of copyright infringement by linking, although this ruling was overturned in 2003. The courts that advocate this view see the mere of a hyperlink that connects to illegal material to be an illegal act in itself, regardless of whether referencing illegal material is illegal. In 2004, was acquitted of 'hyperlinks that corrupt traditional values' in .
+jurisdictions
+references
+citations
+Karin Spaink
+publication
+Josephine Ho
+Taiwan
+
+[17]
+In 2000, sued , claiming that Prodigy infringed its patent () on web hyperlinks. After , a found for Prodigy, ruling that 's patent did not cover web hyperlinks.
+British Telecom
+Prodigy
+
+U.S. Patent 4,873,662
+litigation
+court
+British Telecom
+
+[18]
+In , there is a distinction between the mere act of linking to someone else's website, and linking to content that is illegal (e.g., gambling illegal in the US) or (e.g., illegal MP3 copies). Several courts have found that merely linking to someone else's website, even if by bypassing commercial advertising, is not copyright or trademark infringement, regardless of how much someone else might object. Linking to illegal or infringing content can be sufficiently problematic to give rise to legal liability. Compare for a summary of the current status of US copyright law as to hyperlinking, see the discussion regarding .
+United States
+
+jurisprudence
+infringing
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+the and cases
+Arriba Soft
+Perfect 10
+Somewhat controversially, has tried to enforce applied for by its owner, Ronald Neville Langford, around the world relating to search techniques using hyperlinked images to other or web pages.
+Vuestar Technologies
+patents
+
+[27]
+websites
+
+[28]
+
+See also
+
+[
+edit
+]
+
+
+Backlink
+
+Internal link
+Link awareness
+
+Link building
+
+Link rot
+
+Object hyperlinking
+
+PageRank
+
+URI fragment
+
+Xenu's Link Sleuth
+
+Nofollow
+
+References
+
+[
+edit
+]
+
+
+
+
+
+
+
+^
+
+
+. .
+"HTML Links"
+w3schools.com
+. Retrieved
+2019-05-21
+
+
+
+
+^
+
+
+. .
+"Tabbed browsing"
+computerhope.com
+. Retrieved 2021
+July 26,
+
+: CS1 maint: url-status ()
+{{}}
+cite web
+link
+
+
+
+^
+
+
+Brusilovski, Peter; Kommers, Piet; Streitz, Norbert (1996-05-15). . Springer Science & Business Media. . from the original on 2018-02-07.
+
+Multimedia, Hypermedia, and Virtual Reality: Models, Systems, and Application: First International Conference, MHVR'94, Moscow, Russia September (14–16), 1996. Selected Papers
+ISBN
+
+9783540612827
+Archived
+
+
+
+
+^
+
+
+Mozilla Developer Network. . .
+"The Anchor element - HTML: HyperText Markup Language"
+developer.mozilla.org
+. Retrieved
+2021-10-13
+
+: CS1 maint: url-status ()
+{{}}
+cite web
+link
+
+
+
+^
+
+
+. .
+"XML Linking Language (XLink) Version 1.0"
+w3.org
+. Retrieved 2021
+July 26,
+
+: CS1 maint: url-status ()
+{{}}
+cite web
+link
+
+
+
+^
+
+
+. Archived from on July 4, 2013.
+"HTML, Web Browsers, and Other Paraphernalia"
+the original
+
+
+
+
+^
+Wikipedia: the missing manual By John Broughton, 2008, , 2018-02-07 at the
+
+ISBN
+0-596-51516-2
+p. 75
+Archived
+Wayback Machine
+
+
+
+^
+
+
+. Opensimulator.org. 2012-03-04.
+"Hypergrid – OpenSim"
+. Retrieved
+2012-10-25
+
+
+
+
+^
+
+
+. Wiki.duke.edu. 2009-04-21. from the original on 2012-12-21.
+"Creating, Saving, and Loading Spaces – Cobalt – DukeWiki"
+Archived
+. Retrieved
+2012-10-25
+
+
+
+
+^
+
+
+. .
+"Definition of Permanent Link (Permalink)"
+techopedia.com
+. Retrieved 2018
+Oct 31,
+
+
+
+
+^
+
+
+W. Kille, Leighton (2015-10-09). . . from the original on September 19, 2014.
+"The growing problem of Internet 'link rot' and best practices for media and online publishers"
+journalistsresource.org
+Archived
+. Retrieved 2018
+Oct 30,
+
+
+
+
+^
+
+
+. November 8, 2011. from the original on September 8, 2016.
+"The Average Lifespan of a Webpage"
+Archived
+. Retrieved 2018
+Oct 31,
+
+
+
+
+^
+
+
+. . W3.org. from the original on 2012-10-25.
+Tim Berners-Lee
+"Making a Server ("HREF" is for "hypertext reference")"
+Archived
+. Retrieved
+2012-10-25
+
+
+
+
+^
+
+
+(Atkinson, Bill?) (1987). "3". (1 ed.). Apple Computer Inc. p. 49.
+
+Hypercard User's Guide
+(PDF)
+
+
+
+
+^
+
+
+Lasar, Matthew (May 25, 2019). . .
+"30-plus years of HyperCard, the missing link to the Web"
+ArsTechnica
+. Retrieved 2021
+July 26,
+
+: CS1 maint: url-status ()
+{{}}
+cite web
+link
+
+
+
+^
+See . The Ninth Circuit decision in this case is the first important decision of a US court on linking. In it, the Ninth Circuit held the deep linking by Arriba Soft to images on Kelly's website to be legal under the fair use doctrine.
+case
+Arriba Soft
+
+
+
+^
+
+
+. Sex.ncu.edu.tw. Archived from on February 8, 2012.
+"The prosecution of Taiwan sexuality researcher and activist Josephine Ho"
+(PDF)
+the original
+(PDF)
+. Retrieved
+2012-10-25
+
+
+
+
+^
+News.com, . August 23, 2002.
+CNET
+Hyperlink patent case fails to click
+
+
+
+^
+The . Retrieved June 11, 2012.
+Cybertelecom:: Legal to Link?
+Internet Archive
+
+
+
+^
+Ford Motor Company v. 2600 Enterprises, 177 F.Supp.2d 661 (EDMi December 20, 2001)
+
+
+
+^
+American Civil Liberties Union v. Miller, 977 F.Supp. 1228 (ND Ga. 1997)
+
+
+
+^
+Ticketmaster Corp. v. Tickets.Com, Inc., No. 99-07654 (CD Calif. March 27, 2000)
+
+
+
+^
+2008-12-20 at the , 75 FSupp2d 1290 (D Utah 1999)
+Intellectual Reserve v. Utah Lighthouse Ministry, Inc.
+Archived
+Wayback Machine
+
+
+
+^
+Universal City Studios Inc v Reimerdes, 111 FSupp2d 294 (DCNY 2000)
+
+
+
+^
+2008-12-17 at the , District Court for the Northern District of Illinois, Decision of July 28, 2004, 03 C 3231
+Comcast of Illinois X LLC v. Hightech Elec. Inc.
+Archived
+Wayback Machine
+
+
+
+^
+2008-12-17 at the , Decision of February 21, 2006, Case No. CV 04-9484 AHM (CD Cal. 2/21/06), CRI 2006, 76–88 No liability for thumbnail links to infringing content
+Perfect 10 v. Google
+Archived
+Wayback Machine
+
+
+
+^
+2008-12-23 at the
+TelecomTV – TelecomTV One – News
+Archived
+Wayback Machine
+
+
+
+^
+, Silvie Barak, , 21 February 2009
+All your Interwibble is belong to us
+The Inquirer
+
+Further reading
+
+[
+edit
+]
+
+
+
+Weinreich, Harald; Hartmut Obendorf; Winfried Lamersdorf (2001). . p. 19. . :. . .
+The look of the link – concepts for the user interface of extended hyperlinks
+CiteSeerX
+
+10.1.1.17.4220
+doi
+10.1145/504216.504225
+ISBN
+
+9781581134209
+S2CID
+14289046
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+Widgets
+
+Command input
+
+
+
+
+Adjustment handle
+
+Button
+
+Context menu
+
+Drop-down list
+
+Hamburger button
+
+Menu
+
+Pie menu
+
+Data input-output
+
+
+
+
+Checkbox
+
+Color picker
+
+Combo box
+
+Cycle button
+
+Date picker
+
+Grid view
+
+Toggle switch
+
+List box
+
+List builder
+
+Radio button
+
+Scrollbar
+
+Search box
+
+Slider
+
+Spinner
+
+Text box
+
+Informational
+
+
+
+
+Balloon help
+
+Head-up display in computing
+
+HUD in video games
+
+Icon
+
+Infobar
+
+Label
+
+Loading screen
+
+Progress indicator
+
+
+Progress bar
+
+Splash screen
+
+Throbber
+
+Sidebar
+
+Status bar
+
+Toast
+
+Tooltip
+
+Containers
+
+
+
+
+Accordion
+
+Tree view
+
+Client-side decoration
+
+Disclosure widget
+
+Frame / Fieldset
+
+Menu bar
+
+Panel
+
+Popover
+
+Ribbon
+
+Tab
+
+Toolbar
+
+Window
+
+
+Window decoration
+
+Workspace
+
+Navigational
+
+
+
+
+Address bar
+
+Breadcrumb navigation
+
+Hyperlink
+
+Navigation bar
+
+Virtual desktop
+
+
+Special
+windows
+
+
+
+
+Alert dialog box
+
+Dialog box
+
+File dialog
+
+Inspector window
+
+Modal window
+
+Palette window
+
+Related concepts
+
+
+
+
+File viewer
+
+List of graphical user interface elements
+
+Layout manager
+
+Look and feel
+
+Mouseover
+
+Widget toolkit
+
+WIMP
+
+Zoomable user interface
+
+
+
+
+
+
+
+Authority control: National libraries
+
+
+
+
+
+
+
+Germany
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Hyperlink&oldid=1080701641#Wikis
+
+:
+Categories
+
+
+Graphical control elements
+
+Hypertext
+Hidden categories:
+
+
+CS1 maint: url-status
+
+Webarchive template wayback links
+
+Articles with short description
+
+Short description is different from Wikidata
+
+All articles with unsourced statements
+
+Articles with unsourced statements from February 2019
+
+Articles with GND identifiers
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Article
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+Edit
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Cite this page
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+In other projects
+
+
+
+
+Wikiversity
+
+
+Languages
+
+
+
+
+Afrikaans
+
+
+???????
+
+
+?????
+
+
+???????
+
+
+?????????
+
+
+Boarisch
+
+
+Bosanski
+
+
+Brezhoneg
+
+
+Català
+
+
+?eština
+
+
+Dansk
+
+
+Deutsch
+
+
+Eesti
+
+
+????????
+
+
+Español
+
+
+Esperanto
+
+
+Euskara
+
+
+?????
+
+
+Français
+
+
+Gaeilge
+
+
+Galego
+
+
+???
+
+
+???????
+
+
+??????
+
+
+Hrvatski
+
+
+Bahasa Indonesia
+
+
+Italiano
+
+
+?????
+
+
+Jawa
+
+
+Kaszëbsczi
+
+
+???????
+
+
+Kiswahili
+
+
+????????
+
+
+Latina
+
+
+Latviešu
+
+
+Lëtzebuergesch
+
+
+Magyar
+
+
+??????????
+
+
+??????
+
+
+?????
+
+
+Bahasa Melayu
+
+
+Nederlands
+
+
+Nedersaksies
+
+
+???
+
+
+Norsk bokmål
+
+
+Norsk nynorsk
+
+
+???? ?????
+
+
+O?zbekcha/???????
+
+
+Plattdüütsch
+
+
+Polski
+
+
+Português
+
+
+Român?
+
+
+??????????
+
+
+???????
+
+
+Sardu
+
+
+Shqip
+
+
+Sicilianu
+
+
+Simple English
+
+
+Sloven?ina
+
+
+Slovenš?ina
+
+
+?????
+
+
+?????? / srpski
+
+
+Srpskohrvatski / ??????????????
+
+
+Suomi
+
+
+Svenska
+
+
+?????
+
+
+???????/tatarça
+
+
+??????
+
+
+???
+
+
+Türkçe
+
+
+??????????
+
+
+????
+
+
+Ti?ng Vi?t
+
+
+Walon
+
+
+Wolof
+
+
+??
+
+
+??
+
+
+??
+
+
+Edit links
+
+
+This page was last edited on 2 April 2022, at 22:04.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+
+
+

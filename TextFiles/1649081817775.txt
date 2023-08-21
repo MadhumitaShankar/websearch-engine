@@ -1,0 +1,553 @@
+
+
+
+Troubleshooting problems on connected TVs and games consoles | iPlayer help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+Accessibility links
+
+
+Skip to content
+
+Accessibility Help
+
+
+
+BBC Account
+
+
+Notifications
+
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+Menu
+
+
+Search BBC
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+Close menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+iPlayer help home
+
+Playback issues
+
+Why does BBC iPlayer think I'm outside the UK?
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Troubleshooting problems on connected TVs and games consoles
+
+
+
+
+Having problems with BBC iPlayer on your TV, Blu-ray player, set-top box, console, or streamer? Try these steps to see if they help:
+
+This could mean just leaving it switched off at the mains for a few minutes, but check with your manual or service provider in case there’s an alternative recommended method for your device.
+Restart your device
+
+
+This might refresh your internet connection and get the BBC iPlayer app up and running again for you.
+Disconnect the device from the internet then reconnect
+
+
+Sometimes bugs may have been fixed in an update. If you need assistance with updating the firmware, contact your service provider or manufacturer.
+Update your device's firmware (this is usually found in the device ‘settings/system information’ and may be called 'software' or 'system')
+
+
+If your device lets you add and remove apps, try removing the BBC iPlayer app and re-adding it. If you're not sure about how to do that, you should contact your manufacturer.
+Uninstall and reinstall the app
+
+Having problems playing programmes (streaming)?
+
+In addition to the steps above:
+
+These will be competing for bandwidth which could impact on steady playback and cause buffering.
+Try switching off other devices using the internet at the same time
+
+
+If you're using WiFi and your device is some distance from the router, the quality of your connection can be compromised. Connecting using a cable can make a real difference and eliminates possible WiFi interference.
+Try connecting your device to your router directly with an Ethernet cable
+
+
+Streaming programmes in High Definition or Best Quality will require more bandwidth and might cause buffering if your internet connection isn't strong enough. To change to Standard Definition video quality, go to , then , then .
+Try changing the video quality to Standard Definition
+
+Settings
+Settings & Help
+Video Quality
+
+
+Still need help?
+If you’re still having trouble and you haven't been able to resolve the problem, please contact us and let us know what you've tried. Please provide as much information as possible:
+
+What version of BBC iPlayer is installed on your device? Check our for advice on how to find this information.
+
+Where can I find system information for my connected TV or games console?
+What kind of device is it? (Smart TV, games console, streamer, set-top box, etc.) Include the model number and the version of software if possible.
+Is an error message displayed? What exactly does it say? What is the error number? (e.g. 02100)
+When did the problem happen or start?
+Does the problem affect one or more programmes? Which programmes are affected? If it’s just one programme, check our just in case it’s known already.
+
+known issues page
+Does it affect live or on-demand programmes?
+Are you using the ?
+
+BETA version
+Detail the steps to reproduce the problem or fault.
+
+
+
+
+
+
+
+
+
+
+
+Related FAQs
+
+
+
+How can I check if BBC iPlayer is available on a particular TV?
+
+Where can I find system information for my connected TV or games console?
+
+
+
+
+
+
+
+
+
+
+Need more help?
+
+
+
+
+Contact us
+
+
+
+
+Browse our help categories
+
+
+
+
+
+
+
+Getting Started
+
+
+
+
+
+About BBC iPlayer and our policies
+
+
+
+Accessibility
+
+
+
+Getting started with BBC iPlayer
+
+
+
+Need more help?
+
+
+
+Parental controls
+
+
+
+Signing in
+
+
+
+Supported devices
+
+
+
+
+
+Watching iPlayer
+
+
+
+
+
+Downloading
+
+
+
+Features
+
+
+
+Programme availability
+
+
+
+Recent changes to iPlayer
+
+
+
+Watching outside the UK
+
+
+
+
+
+Resolving Issues
+
+
+
+
+
+Mobile and tablet issues
+
+
+
+Playback issues
+
+
+
+Smart TV and games console issues
+
+
+
+Computer issues
+
+
+
+
+
+iPlayer Kids app
+
+
+
+
+
+About the app
+
+
+
+
+
+
+
+
+Explore the BBC
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+
+
+
+
+Terms of Use
+
+About the BBC
+
+Privacy Policy
+
+Cookies
+
+Accessibility Help
+
+Parental Guidance
+
+Contact the BBC
+
+Get Personalised Newsletters
+
+Advertise with us
+
+AdChoices / Do Not Sell My Info
+The BBC is not responsible for the content of external sites.
+Copyright © 2022 BBC.
+
+Read about our approach to external linking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

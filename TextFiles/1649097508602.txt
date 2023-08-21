@@ -1,0 +1,1523 @@
+
+
+
+
+Wikipedia:Requests for page protection - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia:Requests for page protection
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+Wikimedia noticeboard for requesting protection of pages
+
+"WP:RFP" and "WP:RPP" redirect here. You may also be looking for , , or .
+Wikipedia:Requests for permissions
+Wikipedia:Requesting copyright permission
+Wikipedia:Random page patrol
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+Noticeboards
+
+
+Wikipedia's centralized . For a listing of ongoing discussions and current requests, see the . For a related set of forums which do not function as noticeboards see .
+discussion, request, and help venues
+dashboard
+formal review processes
+
+General
+
+
+
+Administrators
+
+
+main
+
+incidents
+
+Bots
+
+Bureaucrats
+
+Centralized discussion
+
+Closure requests
+
+Education
+
+Interface admins
+
+Main Page errors
+
+Open proxies
+
+VRT
+
+Oversight
+
+User permissions
+
+Articles and content
+
+
+
+
+Biographies of living persons
+Copyrights
+
+
+questions on media
+
+problems
+
+Current events
+
+Dispute resolution
+
+External links
+
+Fringe theories
+
+Neutral point of view
+
+Original research
+
+Reliable sources
+
+Resource requests
+
+Spam
+
+
+blacklist
+
+whitelist
+
+Scalable vector graphics
+
+Titleblacklist
+
+Translation
+
+Page handling
+
+
+
+
+History merges
+
+Mergers
+
+Splits
+
+Moves
+
+Protection
+
+Importation
+
+XfD
+
+
+Articles
+
+Redirects
+
+Categories
+
+Templates
+
+Files
+
+Miscellany
+
+Undeletion
+
+User conduct
+
+
+
+
+Conflict of interest
+
+Contributor copyright
+
+Edit warring and 3RR
+
+Sanctions
+
+
+Personal restrictions
+
+General sanctions
+
+Discretionary sanctions
+
+Sockpuppets
+
+Usernames
+
+Vandalism
+
+Other
+
+
+
+Arbitration
+
+
+Committee noticeboard
+
+requests
+
+enforcement
+
+Edit filters
+
+
+requested
+
+false positives
+Questions
+
+
+Help desk
+
+Teahouse
+
+Reference desk
+
+New articles
+
+Requests for comment
+Village pump
+
+
+policy
+
+technical
+
+proposals
+
+idea lab
+
+WMF
+
+miscellaneous
+
+WikiProject proposals
+
+
+
+
+Category:Wikipedia noticeboards
+
+
+
+Skip to TOC
+
+Skip to bottom
+
+
+
+Requests for page protection
+
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:RFPP
+
+
+WP:RFP
+
+
+WP:RPP
+This page is for requesting that a page, file or template be . Please read up on the . Full protection is used to stop edit warring between multiple users or to prevent vandalism to ; semi-protection and pending changes are usually used only to prevent IP and new user vandalism (see the ); and move protection is used to stop revert wars. Extended confirmed protection is used where semi-protection has proved insufficient (see the )
+protected
+protection policy
+high-risk templates
+rough guide to semi-protection
+pagemove
+rough guide to extended confirmed protection
+After a page has been protected, the protection is listed in the page history and logs with a short description indicating why it was protected, and the article is listed on . Further discussion should take place on the Talk page of the article. In the case of full protection due to edit warring, admins do not revert to specific versions of the page, except to get rid of .
+Special:Protectedpages
+obvious vandalism
+: Editors should consider requesting page protection as a method for continuing an argument from elsewhere nor as a venue for starting a new discussion regarding article content. If a request contains excessive argument, appears to be intended to resolve a content dispute, includes personal attacks or uncivil comments, or has any other unrelated discussion, it will be removed from this page and no action will be taken.
+Note
+not
+
+
+
+
+
+
+
+
+Skip to
+table of contents
+requests to
+raise protection
+
+lower protection
+
+requested edits
+
+
+
+(purge)
+
+
+
+
+
+
+
+Request of a page, or increasing the protection level
+protection
+
+
+
+Request protection
+
+
+
+
+
+
+
+
+Request of a page, or reducing the protection level
+unprotection
+
+
+
+Request unprotection
+
+
+
+
+
+
+
+
+Request a specific to a protected page Please request an edit directly on the protected page's before posting here
+edit
+
+talk page
+
+
+
+
+
+
+
+
+
+
+: •
+this header
+view
+edit
+
+
+
+
+
+
+
+
+
+
+
+Archives
+
+
+
+
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+
+
+
+
+
+
+
+
+
+
+
+Administrator instructions
+
+
+
+
+
+Contents
+
+
+
+
+
+1
+Current requests for increase in protection level
+
+
+
+1.1
+All I Wanna Do (The Beach Boys song)
+
+
+1.2
+Golan
+
+
+1.3
+David Freiheit
+
+
+1.4
+2022 FIA Formula 3 Championship
+
+
+1.5
+Place (Reddit)
+
+
+1.6
+Murder
+
+
+1.7
+Half-Life (series)
+
+
+1.8
+Faraón Love Shady
+
+
+1.9
+Misery index (economics)
+
+
+2
+Current requests for reduction in protection level
+
+
+
+2.1
+Gettr
+
+
+2.2
+Aurangzeb
+
+
+2.3
+List of Marvel Cinematic Universe films
+
+
+2.4
+Hesham Nazih
+
+
+3
+Current requests for edits to a protected page
+
+
+4
+Handled requests
+
+Current in protection level
+
+requests for increase
+
+
+
+
+
+
+
+Request of a page, or increasing the protection level
+protection
+
+
+
+Request protection
+
+
+
+
+All I Wanna Do (The Beach Boys song)
+
+
+
+
+All I Wanna Do (The Beach Boys song)
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+edit warring () 14:16, 4 April 2022 (UTC)
+Reason:
+WP:GWAR
+ili
+talk
+
+[
+reply
+]
+
+
+– Not enough recent disruptive activity to protection. () 16:13, 4 April 2022 (UTC)
+
+
+Declined
+justify
+Bbb23
+talk
+
+[
+reply
+]
+
+
+
+
+Golan
+
+
+
+
+Golan
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+. () 15:32, 4 April 2022 (UTC)
+Extended confirmed protection:
+Arbitration enforcement
+CollectiveSolidarity
+talk
+
+[
+reply
+]
+
+
+The last edit was in February and the one before that a year before. () 16:15, 4 April 2022 (UTC)
+
+
+Declined
+Bbb23
+talk
+
+[
+reply
+]
+
+
+
+
+David Freiheit
+
+
+
+
+David Freiheit
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+IP Vandalism, Partisan removal of sourced information, edit wars. () 15:54, 4 April 2022 (UTC)
+Reason:
+TruthBuster21223
+talk
+
+[
+reply
+]
+
+
+It certainly appears that you are edit warring in the article in questions. I would stop that if I were you. 16:20, 4 April 2022 (UTC)
+
+
+Declined
+
+Jayron
+
+
+32
+
+[
+reply
+]
+
+
+
+
+2022 FIA Formula 3 Championship
+
+
+
+
+2022 FIA Formula 3 Championship
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+Persistent – Edit warring between two users. () 15:55, 4 April 2022 (UTC)
+Temporary semi-protection:
+vandalism
+Areaseven
+talk
+
+[
+reply
+]
+
+
+
+
+the edit war seems to have stopped six hours ago. () 15:59, 4 April 2022 (UTC)
+Comment:
+
+MSport1005
+talk
+
+[
+reply
+]
+
+– This is a case of possible by one or two users. 16:08, 4 April 2022 (UTC)
+
+
+
+Consider
+the edit warring noticeboard
+edit-warring
+
+
+Ks0stm
+(•••)
+T
+C
+G
+E
+
+[
+reply
+]
+
+
+
+
+
+Place (Reddit)
+
+
+
+
+Place (Reddit)
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+Persistent . () 17:13, 4 April 2022 (UTC)
+Temporary semi-protection:
+vandalism
+SWinxy
+talk
+
+[
+reply
+]
+
+
+for a period of , after which the page will be automatically unprotected. () 17:45, 4 April 2022 (UTC)
+
+
+
+Semi-protected
+1 week
+MelanieN
+talk
+
+[
+reply
+]
+
+
+
+
+Murder
+
+
+
+
+Murder
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+Persistent – Recent continuing vandalism today from multiple IPs. () 17:13, 4 April 2022 (UTC)
+Temporary semi-protection:
+vandalism
+Singularity42
+talk
+
+[
+reply
+]
+
+
+-- 17:19, 4 April 2022 (UTC)
+
+
+
+Semi-protected
+
+
+Deep
+fried
+okra
+()
+talk
+
+[
+reply
+]
+
+
+
+
+
+Half-Life (series)
+
+
+
+
+Half-Life (series)
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+Content dispute/edit warring. [] 17:38, 4 April 2022 (UTC)
+Temporary full protection:
+
+IceWelder
+
+?
+
+[
+reply
+]
+
+
+for a period of , after which the page will be automatically unprotected. I don't see any attempt to discuss this on the talk page. Please take it there. () 17:49, 4 April 2022 (UTC)
+
+
+
+Fully protected
+2 days
+MelanieN
+talk
+
+[
+reply
+]
+
+
+
+
+
+Faraón Love Shady
+
+
+
+
+Faraón Love Shady
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+: Persistent vandalism. () 17:47, 4 April 2022 (UTC)
+Permanent semi-protection
+Sebaspikyaq
+talk
+
+[
+reply
+]
+
+
+for a period of , after which the page will be automatically unprotected. () 17:52, 4 April 2022 (UTC)
+
+
+
+Semi-protected
+3 months
+~ ToBeFree
+talk
+
+[
+reply
+]
+
+
+
+
+
+Misery index (economics)
+
+
+
+
+Misery index (economics)
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+High level of IP vandalism, especially on "Hanke's 2020 Misery Index" section. () 18:12, 4 April 2022 (UTC)
+Reason:
+7szz
+talk
+
+[
+reply
+]
+
+
+Current in protection level
+
+requests for reduction
+
+
+
+
+
+
+
+Request of a page, or reducing the protection level
+unprotection
+
+
+
+Request unprotection
+
+
+
+Gettr
+
+
+
+
+Gettr
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+See detailed un-protect request at () 03:34, 2 April 2022 (UTC)
+Reason:
+https://en.wikipedia.org/wiki/Talk:Gettr#Remove_%22targeted_to_American_conservative%22
+98.109.117.71
+talk
+
+[
+reply
+]
+
+
+I could go either way. you protected the page, any thoughts on this request? 20:59, 2 April 2022 (UTC)
+
+@:
+ScottyWong
+—
+Wug·
+a·po·des
+
+[
+reply
+]
+
+
+(for Wugs). () 00:58, 4 April 2022 (UTC)
+@:
+
+Scottywong
+Sdrqaz
+talk
+
+[
+reply
+]
+
+
+
+
+Aurangzeb
+
+
+
+
+Aurangzeb
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+Many exaggerated information has been given out. It does not match with the real history. () 01:30, 4 April 2022 (UTC)
+Reason:
+Vmshera
+talk
+
+[
+reply
+]
+
+
+You should request an edit via the talk page, then. — () 01:43, 4 April 2022 (UTC)
+@:
+
+Aurangzeb
+
+C.Fred
+talk
+
+[
+reply
+]
+
+see the above. I might be wrong but it seems C confused the page name for the username? () 05:27, 4 April 2022 (UTC)
+@:
+
+Vmshera
+CreecregofLife
+talk
+
+[
+reply
+]
+
+
+Please use . () 14:50, 4 April 2022 (UTC)
+
+
+Declined
+edit requests
+Lectonar
+talk
+
+[
+reply
+]
+
+
+
+
+List of Marvel Cinematic Universe films
+
+
+
+
+List of Marvel Cinematic Universe films
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+Not being vandalised, my amend at other page was reverted because apparently broke transcluded table () 13:25, 4 April 2022 (UTC)
+Reason:
+Indagate
+talk
+
+[
+reply
+]
+
+
+The “not being vandalized” is probably due to the protection () 13:47, 4 April 2022 (UTC)
+
+CreecregofLife
+talk
+
+[
+reply
+]
+
+
+Extended confirmed protection is more than sufficient for this given and disruption. And as CreecregofLife it's "not being vandalized" because of the protection. - () 14:40, 4 April 2022 (UTC)
+Comment
+
+the history of protection
+Favre1fan93
+talk
+
+[
+reply
+]
+
+– No changes to the current protection level are required at this point in time. () 14:48, 4 April 2022 (UTC)
+
+
+Declined
+Lectonar
+talk
+
+[
+reply
+]
+
+
+
+
+Hesham Nazih
+
+
+
+
+Hesham Nazih
+
+( | | | | | )
+edit
+talk
+history
+links
+watch
+logs
+This is an alternative spelling (apparently) of composer 's name. An article has been created at for them and this article naming should be created and redirect there. () 14:37, 4 April 2022 (UTC)
+Unprotection:
+Hesham Nazeh
+Hesham Nazeh
+Favre1fan93
+talk
+
+[
+reply
+]
+
+
+And if protection need be, it can be reinstituted after the redirect is created () 14:42, 4 April 2022 (UTC)
+
+really
+CreecregofLife
+talk
+
+[
+reply
+]
+
+
+courtesy ping last protecting admin. () 14:47, 4 April 2022 (UTC)
+
+@:
+TomStar81
+Lectonar
+talk
+
+[
+reply
+]
+
+
+Current to a protected page
+
+requests for edits
+
+
+
+
+
+
+
+Request a specific to a protected page Please request an edit directly on the protected page's before posting here
+edit
+
+talk page
+
+
+
+
+
+
+
+
+
+
+
+Handled requests
+
+
+
+A historical archive of previous protection requests can be found at .
+Wikipedia:Requests for page protection/Archive
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_page_protection&oldid=1080682015
+
+Hidden categories:
+
+
+Project pages with short description
+
+Wikipedia move-protected project pages
+
+Wikipedia semi-protected project pages
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Project page
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+View source
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+In other projects
+
+
+
+
+Wikimedia Commons
+
+
+Multilingual Wikisource
+
+
+Languages
+
+
+
+
+???????
+
+
+??????
+
+
+?????
+
+
+Bosanski
+
+
+Brezhoneg
+
+
+Deutsch
+
+
+Español
+
+
+?????
+
+
+Français
+
+
+???
+
+
+??????
+
+
+Bahasa Indonesia
+
+
+Italiano
+
+
+Jawa
+
+
+Lëtzebuergesch
+
+
+Lietuvi?
+
+
+Bahasa Melayu
+
+
+Nederlands
+
+
+??????
+
+
+???
+
+
+Norsk bokmål
+
+
+Occitan
+
+
+O?zbekcha/???????
+
+
+Português
+
+
+Român?
+
+
+???????
+
+
+Scots
+
+
+Shqip
+
+
+?????
+
+
+????
+
+
+Slovenš?ina
+
+
+?????
+
+
+?????
+
+
+??????
+
+
+Türkçe
+
+
+??????????
+
+
+????
+
+
+Vèneto
+
+
+Ti?ng Vi?t
+
+
+??
+
+
+??
+
+
+Edit links
+
+
+This page was last edited on 2 April 2022, at 19:16.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

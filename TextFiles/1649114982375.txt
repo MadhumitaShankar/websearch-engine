@@ -1,0 +1,1475 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GeeksforGeeks | A computer science portal for geeks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tutorials
+
+
+
+Practice DS & Algo.
+
+
+
+Must Do Questions
+
+DSA Topic-wise
+
+DSA Company-wise
+
+Algorithms
+
+
+
+Analysis of Algorithms
+
+
+
+Asymptotic Analysis
+
+Worst, Average and Best Cases
+
+Asymptotic Notations
+
+Little o and little omega notations
+
+Lower and Upper Bound Theory
+
+Analysis of Loops
+
+Solving Recurrences
+
+Amortized Analysis
+
+What does 'Space Complexity' mean ?
+
+Pseudo-polynomial Algorithms
+
+Polynomial Time Approximation Scheme
+
+A Time Complexity Question
+
+Searching Algorithms
+
+Sorting Algorithms
+
+Graph Algorithms
+
+Pattern Searching
+
+Geometric Algorithms
+
+Mathematical
+
+Bitwise Algorithms
+
+Randomized Algorithms
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Divide and Conquer
+
+Backtracking
+
+Branch and Bound
+
+All Algorithms
+
+Data Structures
+
+
+
+Arrays
+
+Linked List
+
+Stack
+
+Queue
+
+Binary Tree
+
+Binary Search Tree
+
+Heap
+
+Hashing
+
+Graph
+
+Advanced Data Structure
+
+Matrix
+
+Strings
+
+All Data Structures
+
+Interview Corner
+
+
+
+Company Preparation
+
+Top Topics
+
+Practice Company Questions
+
+Interview Experiences
+
+Experienced Interviews
+
+Internship Interviews
+
+Competititve Programming
+
+Design Patterns
+
+System Design Tutorial
+
+Multiple Choice Quizzes
+
+Languages
+
+
+
+C
+
+C++
+
+Java
+
+Python
+
+C#
+
+JavaScript
+
+jQuery
+
+SQL
+
+PHP
+
+Scala
+
+Perl
+
+Go Language
+
+HTML
+
+CSS
+
+Kotlin
+
+CS Subjects
+
+
+
+Mathematics
+
+Operating System
+
+DBMS
+
+Computer Networks
+
+Computer Organization and Architecture
+
+Theory of Computation
+
+Compiler Design
+
+Digital Logic
+
+Software Engineering
+
+GATE
+
+
+
+GATE Computer Science Notes
+
+Last Minute Notes
+
+GATE CS Solved Papers
+
+GATE CS Original Papers and Official Keys
+
+GATE 2021 Dates
+
+GATE CS 2021 Syllabus
+
+Important Topics for GATE CS
+
+Web Technologies
+
+
+
+HTML
+
+CSS
+
+JavaScript
+
+AngularJS
+
+ReactJS
+
+NodeJS
+
+Bootstrap
+
+jQuery
+
+PHP
+
+Software Designs
+
+
+
+Software Design Patterns
+
+System Design Tutorial
+
+School Learning
+
+
+
+School Programming
+
+Mathematics
+
+
+
+Number System
+
+Algebra
+
+Trigonometry
+
+Statistics
+
+Probability
+
+Geometry
+
+Mensuration
+
+Calculus
+
+Maths Notes (Class 8-12)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+Class 12 Notes
+
+NCERT Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+RD Sharma Solutions
+
+
+
+Class 8 Maths Solution
+
+Class 9 Maths Solution
+
+Class 10 Maths Solution
+
+Class 11 Maths Solution
+
+Class 12 Maths Solution
+
+Physics Notes (Class 8-11)
+
+
+
+Class 8 Notes
+
+Class 9 Notes
+
+Class 10 Notes
+
+Class 11 Notes
+
+CS Exams/PSUs
+
+
+
+ISRO
+
+
+
+ISRO CS Original Papers and Official Keys
+
+ISRO CS Solved Papers
+
+ISRO CS Syllabus for Scientist/Engineer Exam
+
+UGC NET
+
+
+
+UGC NET CS Notes Paper II
+
+UGC NET CS Notes Paper III
+
+UGC NET CS Solved Papers
+
+Student
+
+
+
+Campus Ambassador Program
+
+School Ambassador Program
+
+Project
+
+Geek of the Month
+
+Campus Geek of the Month
+
+Placement Course
+
+Competititve Programming
+
+Testimonials
+
+Geek on the Top
+
+Careers
+
+Internship
+
+Jobs
+
+
+
+Apply for Jobs
+
+Post a Job
+
+JOB-A-THON
+
+Events
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Write
+Come write articles for us and get featured
+
+
+
+
+Practice
+Learn and code with the best industry experts
+
+
+
+
+Premium
+Get access to ad-free content, doubt assistance and more!
+
+
+
+
+Jobs
+Come and find your dream job with us
+
+
+
+
+Geeks Digest
+
+Quizzes
+
+Geeks Campus
+
+
+Gblog Articles
+
+IDE
+
+Campus Mantri
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+Saved Videos
+
+Courses
+
+
+
+GBlog
+
+Puzzles
+
+What's New ?
+
+
+
+
+
+Change Language
+
+
+
+
+
+
+
+Data Structures
+
+Algorithms
+
+Interview Preparation
+
+Topic-wise Practice
+
+C++
+
+Java
+
+Python
+
+Competitive Programming
+
+Machine Learning
+
+Web Development
+
+SDE Sheet
+
+Puzzles
+
+GFG School
+
+Projects
+
+
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gblog
+Geeks Summer Carnival 2022 – Your Best Investment of the Year
+“Buy the dip”… “Invest in XYZ Mutual Fund” … “Invest in NFTs”… and many more investment advice you must be getting on a regular basis…
+
+Read More
+
+
+
+
+Top Programming Languages For iOS App Development
+
+Today, Mobile has become an essential part of our lives and businesses. If you’ll dig deeper, a report suggested that 56% of people go online…
+
+Read More
+
+
+
+
+
+GBlog
+
+
+Programming Language
+
+
+
+A Freshers Guide To Programming – Geeks Summer Carnival 2022 Exclusive
+
+Since the boom of the IT sector, computer science has become the key to the door of future evergrowing careers. Everyone knows it (You’re seriously…
+
+Read More
+
+
+
+
+
+GFG-Update
+
+
+GBlog
+
+
+
+Videos
+
+Explore
+
+
+
+
+
+
+
+
+6:04
+CPP Program To Print Floyd's Triangle using For Loop
+04/04/2022
+
+
+
+
+
+14:38
+Von Neumann Architecture | Computer Architecture
+02/04/2022
+
+
+
+
+
+235:42
+Login and Signup Page in Android Using Flutter
+01/04/2022
+
+
+
+
+
+28:43
+How to Prepare for Accenture Placement Drive
+31/03/2022
+
+
+
+
+
+81:03
+Air Quality Index Prediction in Machine Learning using Python
+30/03/2022
+
+
+
+
+
+28:37
+Android Fingerprint Authentication | Lock Application
+29/03/2022
+
+
+
+
+
+19:29
+Digit Recognition using Convolutional Neural Network (CNN) | MNIST Dataset
+28/03/2022
+
+
+
+
+
+18:23
+Midpoint Circle Drawing Algorithm | Computer Graphics
+25/03/2022
+
+
+
+
+
+21:08
+How to Create Language Detector Application in Flutter
+24/03/2022
+
+
+
+
+
+21:57
+K Nearest Neighbors (KNN) Algorithm | Machine Learning
+23/03/2022
+
+
+
+
+
+
+
+BharatPe Interview Experience for SDE-2 (1.5 Years Experienced)
+
+Round 1: Write method findPath, which we should be able to call on any variable on type JSON Object/ multi-level dict. Should take keys separated…
+
+Read More
+
+
+
+
+
+BharatPe
+
+
+Experienced
+
+
+Interview Experiences
+
+
+
+FIS Interview Experience
+
+I was interviewed for the IT Trainee role. I was a fresher at the time of the interview. There were 3 rounds in total. Round…
+
+Read More
+
+
+
+
+
+FIS
+
+
+Interview Experiences
+
+
+
+GoComet Interview Experience for SDE-2 (1.5 Years Experienced)
+
+Coding Round:1. Write SQL Query to get several overlaps for each user. schema employee(user_id,start_date,end_date)The output will be for each user_id to get a count of…
+
+Read More
+
+
+
+
+
+GoComet
+
+
+Experienced
+
+
+Interview Experiences
+
+
+
+Cloudkaptan Interview Experience 2022 (Off-Campus)
+
+First of all, cloudkaptan is a Kolkata-based startup they are a small group but very hard working they work on salesforce. First I applied off-campus…
+
+Read More
+
+
+
+
+
+Cloudkaptan
+
+
+Off-Campus
+
+
+Interview Experiences
+
+
+
+Goodworker Technologies Pvt ltd. Interview Experience for SDE-1 (1.5 Years Experienced)
+
+There were two rounds of interviews. Round 1: It involved two coding questions. 1. https://leetcode.com/discuss/interview-question/1397869/compass-online-assessment-questions2. https://www.geeksforgeeks.org/check-if-a-word-exists-in-a-grid-or-not/ Round 2: It involved some questioning and project discussion.…
+
+Read More
+
+
+
+
+
+Goodworker
+
+
+Experienced
+
+
+Interview Experiences
+
+
+
+Samsung Interview Experience for FTE (On-Campus)
+
+Samsung R&D Institute Bangalore visited our campus in Feb 2022 to hire Final Year Students (2022 Batch) for the role of Networks Developer. Allowed Branches:…
+
+Read More
+
+
+
+
+
+On-Campus
+
+
+Samsung
+
+
+Interview Experiences
+
+
+
+Check if Binary Array can be made palindrome after K bitwise XOR with 1
+
+Medium
+Given a binary array arr[] of size N and an integer K, the task is to check whether the binary array can be turned into…
+
+Read More
+
+
+
+
+
+Bitwise-XOR
+
+
+palindrome
+
+
+Arrays
+
+
+Bit Magic
+
+
+Greedy
+
+
+
+
+Quick Links
+
+
+
+
+
+
+Events at GeeksforGeeks
+
+
+
+
+Courses at GeeksforGeeks
+
+
+
+
+Write an Article
+
+
+
+
+Java Tutorial
+
+
+
+
+Python Tutorial
+
+
+
+
+Data Structures Tutorial
+
+
+
+
+Coding Practice
+
+
+
+
+For each value in [1, N] find Minimum element present in all Subarray of that size
+
+Given an array A[] of size N, the task is to find the minimum element present in all subarrays for all sizes from 1 to…
+
+Read More
+
+
+
+
+
+subarray
+
+
+Analysis
+
+
+Arrays
+
+
+
+Minimize the maximum of Array by replacing any element with other element at most K times
+
+Given an array arr[] of size N and an integer K, the task is to minimize the value of the maximum element of the array…
+
+Read More
+
+
+
+
+
+Arrays
+
+
+Hash
+
+
+Searching
+
+
+
+Find Mth lexicographically smallest Binary String with no two adjacent 1
+
+Given two integers N and M, the task is to find the Mth lexicographically smallest binary string (have only characters 1 and 0) of length…
+
+Read More
+
+
+
+
+
+lexicographic-ordering
+
+
+Greedy
+
+
+Recursion
+
+
+Strings
+
+
+
+Second unique smallest value of given Binary Tree whose each node is minimum of its children
+
+Given a full binary tree where each node value is the same as the minimum value between its children, the task is to find the…
+
+Read More
+
+
+
+
+
+Binary Tree
+
+
+Recursion
+
+
+Tree
+
+
+
+Find GCD of all Array elements except the multiples of K
+
+Given an array arr[] of N integers and an integer K, the task is to find the GCD of all the array elements except the…
+
+Read More
+
+
+
+
+
+GCD-LCM
+
+
+Arrays
+
+
+Greedy
+
+
+
+Minimize moves to sort Array in non decreasing order by breaking elements in two parts
+
+Given an array of arr[] of N integers, the task is to find the minimum number of moves to sort the array in non-decreasing order…
+
+Read More
+
+
+
+
+
+Arrays
+
+
+Greedy
+
+
+Interview Experiences
+
+
+Sorting
+
+
+
+Determine if possible to get Array by breaking rod segments into two halves
+
+Given a rod of length L and an array arr[] of length N, the task is to find if it is possible to break the…
+
+Read More
+
+
+
+
+
+priority-queue
+
+
+Arrays
+
+
+Heap
+
+
+
+Count of strictly increasing and decreasing paths in directed Binary Tree
+
+Given a directed binary tree of N nodes whose edges are directed from the parent to the child, the task is to count the number…
+
+Read More
+
+
+
+
+
+Binary Tree
+
+
+Greedy
+
+
+Recursion
+
+
+Tree
+
+
+
+Page 1 of 7,819
+1
+2
+3
+4
+5
+...
+10
+20
+30
+...
+»
+Last »
+
+
+
+
+
+
+
+What's New
+
+
+
+
+
+
+
+
+
+Geeks Summer Carnival 2022
+
+View Details
+
+
+
+
+
+
+
+
+Data Structures & Algorithms- Self Paced Course
+
+View Details
+
+
+
+
+
+
+
+
+Complete Interview Preparation
+
+View Details
+
+
+
+
+
+
+
+
+
+
+Quick Links
+
+
+
+
+
+
+Events at GeeksforGeeks
+
+
+
+
+Courses at GeeksforGeeks
+
+
+
+
+Write an Article
+
+
+
+
+Java Tutorial
+
+
+
+
+Python Tutorial
+
+
+
+
+Data Structures Tutorial
+
+
+
+
+Coding Practice
+
+
+
+
+
+Featured Articles
+
+View All
+
+
+
+
+
+SDE SHEET – A Complete Guide for SDE Preparation
+February 21, 2022
+
+Get Hired With GeeksforGeeks and Win Exciting Rewards!
+October 30, 2021
+
+Master the Coding Interview – Contest Series Based On Real Interviews
+October 5, 2021
+
+Recently Asked Interview Questions in Product Based Companies
+May 11, 2021
+
+Bridge the Gap Between Engineering and Your Dream Job – Complete Interview Preparation
+May 1, 2021
+
+
+
+
+Recommended
+
+
+
+
+
+
+Guest Blogs
+
+
+
+Must Do Coding Questions Company-wise
+
+
+
+Practice for cracking any coding interview
+
+
+
+Placements
+
+
+
+Complete Interview Preparation With Doubt Assistance
+
+
+
+GATE Computer Science Notes
+
+
+
+Machine Learning
+
+
+
+Django Tutorial
+
+
+
+Computer Science Projects
+
+
+
+Amazon SDE Test Series
+
+
+
+Company Interview Corner
+
+
+
+The C++ Standard Template Library (STL)
+
+
+
+Software Design Patterns
+
+
+
+SQL Tutorial
+
+
+
+Advanced Data Structures
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5th Floor, A-118, Sector-136, Noida, Uttar Pradesh - 201305
+
+
+
+feedback@geeksforgeeks.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+About Us
+
+Careers
+
+In Media
+
+Contact Us
+
+Privacy Policy
+
+Copyright Policy
+
+Learn
+
+Algorithms
+
+Data Structures
+
+SDE Cheat Sheet
+
+Machine learning
+
+CS Subjects
+
+Video Tutorials
+
+
+News
+
+Top News
+
+Technology
+
+Work & Career
+
+Business
+
+Finance
+
+Lifestyle
+
+Languages
+
+Python
+
+Java
+
+CPP
+
+Golang
+
+C#
+
+SQL
+
+Web Development
+
+Web Tutorials
+
+Django Tutorial
+
+HTML
+
+CSS
+
+JavaScript
+
+Bootstrap
+
+Contribute
+
+Write an Article
+
+Improve an Article
+
+Pick Topics to Write
+
+Write Interview Experience
+
+Internships
+
+Video Internship
+
+
+@geeksforgeeks
+,
+Some rights reserved
+
+
+
+
+
+
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our &
+
+Cookie Policy
+
+Privacy Policy
+Got It !
+
+
+
+
+
+
+Start Your Coding Journey Now!
+
+Login
+Register
+

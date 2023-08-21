@@ -1,0 +1,3686 @@
+
+
+
+
+Wikipedia:WikiProject Reliability - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikipedia:WikiProject Reliability
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+Wikimedia subject-area collaboration
+
+"WP:WPRE" redirects here. For WikiProject Resource Exchange, see .
+WP:WRE
+
+
+
+
+
+
+an area for focused collaboration among Wikipedians. New participants are welcome; please feel free to participate!
+This is a ,
+WikiProject
+
+
+
+
+Guide to WikiProjects
+
+Directory of WikiProjects
+
+
+
+
+
+
+
+
+
+Shortcuts
+
+
+
+WP:FACT
+
+
+WP:WPRE
+
+
+WP:FRC
+
+
+WP:REFCHECK
+
+
+
+
+Welcome!
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+
+
+1
+Welcome!
+
+
+
+1.1
+Getting started
+
+
+2
+Scope and goals
+
+
+
+2.1
+Scope
+
+
+2.2
+Goals
+
+
+3
+Guidelines
+
+
+
+3.1
+Articles with no references
+
+
+3.2
+Articles based on a single source
+
+
+3.3
+Articles with partial or incomplete sources
+
+
+3.4
+Articles with questionable resources
+
+
+3.5
+Articles with statements that lack references
+
+
+4
+Open tasks
+
+
+
+4.1
+How can I help now?
+
+
+4.2
+Help now: Solve Citations Needed!
+
+
+5
+Participants
+
+
+
+5.1
+Participants
+
+
+6
+Templates
+
+
+
+6.1
+Userbox
+
+
+6.2
+Invitation
+
+
+6.3
+Pages
+
+
+6.4
+Award
+
+
+7
+See also
+
+
+
+7.1
+Tools
+
+
+7.2
+Resources
+
+
+7.3
+Reports
+
+
+7.4
+Related projects
+
+
+7.5
+Key pages
+
+
+7.6
+Miscellaneous
+Hello, and welcome to . This WikiProject is dedicated to improving the of Wikipedia articles. We ensure that articles are supported by , answer inquiries on the , and maintain a . This project works to achieve the goals of the and policies. If you would like to help, please the project, participate on the and see the below.
+WikiProject Reliability
+reliability
+reliable sources
+reliable sources noticeboard
+list of frequently discussed sources
+verifiability
+no original research
+join
+talk page
+open tasks
+
+Getting started
+
+
+
+See the for help with tagging articles for review and correction.
+Do you have an article/fact/reference that needs checking?
+
+guidelines
+
+See the and pages for information on how to write references and create citations
+Do you need help creating citations?
+
+Referencing for beginners
+
+Citing sources
+
+Lend a hand with some of the , and add your name to the list.
+Do you want to help improve the reliability of Wikipedia?
+
+open tasks
+
+participants
+
+Please feel free to comment on the project , and someone will try to help as soon as possible!
+Do you have a question?
+
+talk page
+
+There are over 453,042 "Citation needed" statements on Wikipedia. which makes it easy to pick one to fix.
+Give me something simple to do!
+
+Click here to use the Citation Hunt tool
+
+
+
+
+Scope and goals
+
+
+
+
+Scope
+
+
+This WikiProject covers all articles on Wikipedia.
+
+Goals
+
+
+
+Ensure that content in articles is
+verifiable
+
+Identify and tag claims that require verification with appropriate templates
+Perform fact and reference checks for articles with verification templates
+Provide assistance with factual verification to editors
+Improve the of sources cited in articles
+reliability
+
+Add citations to
+reliable sources
+Replace citations to with citations to better sources
+questionable sources
+Remove content supported by questionable sources when it is unsupported by reliable sources
+Participate in discussions on the
+reliable sources noticeboard
+
+Affirm sources that have a reputation for accuracy, fact-checking, and error-correction
+Challenge questionable sources, including authored by non-, , and
+self-published sources
+experts
+sponsored content
+spam
+Maintain the
+list of perennial sources
+
+Add perennial sources that are missing from the page
+Index new discussions from the reliable sources noticeboard
+Update entries when noticeboard discussions are archived
+
+
+
+
+Guidelines
+
+
+
+
+Articles with no references
+
+
+For an article with , add the template to the beginning of the article to flag it for review and addition of citations. This will automatically add the article to .
+no
+citations
+{{}}
+unreferenced
+Category:Articles lacking sources
+
+Articles based on a single source
+
+
+If the article has only one reference or external link (that is related to the article content), use to put the article in .
+{{}}
+one source
+Category:Articles lacking sources
+
+Articles with partial or incomplete sources
+
+
+For an article with partial sources, add the templates or . This will automatically add the article to or .
+{{}}
+refimprove
+{{}}
+primary sources
+Category:Articles needing additional references
+Category:Articles lacking reliable references
+
+Articles with questionable resources
+
+
+For an article with questionable resources, add the templates or to put the article in to .
+{{}}
+verify source
+{{}}
+verify credibility
+Category:Wikipedia articles needing factual verification
+
+Articles with statements that lack references
+
+
+For an article with small numbers of statements lacking references, add the template or . This will automatically add the article to .
+{{}}
+citation needed
+{{}}
+citations missing
+Category:Articles with unsourced statements
+Other maintenance templates are available at .
+Category:Citation and verifiability maintenance templates
+
+
+
+
+Open tasks
+
+
+
+
+
+How can I help now?
+
+
+There are a number of different that help track the existing backlog of referencing activities. They fall into two major groups, Lacking References and Ensuring Accuracy through existing references:
+Wikipedia Backlog categories
+
+
+
+
+
+
+Lacking references
+
+:
+Needs references
+146,466
+:
+
+Needs references (BLP)
+1,783
+:
+Needs more references
+428,469
+: 30,528
+
+Needs more references (BLP)
+:
+Needs in-text citations
+100,920
+:
+Needs reliable references
+79,752
+:
+Has unsourced quotes
+1,207
+:
+Has unsourced statements
+453,042
+!
+Fix one
+
+
+Accuracy
+
+:
+Uses broken or outdated citations
+100
+:
+
+Uses deprecated sources
+185
+:
+Needs factual verification
+4,575
+:
+Needs references list
+10
+:
+
+Needs references clean up
+979
+:
+Accuracy disputes
+8,950
+:
+Neutrality disputed
+7,906
+:
+Needs updating
+32,455
+:
+Has original research
+16,556
+:
+
+Self-contradictory
+536
+
+
+Help now: Solve Citations Needed!
+
+
+At the moment, there are over 453,042 articles with "Citation needed" statements. They are some of the easiest referencing issues to solve, because you are frequently looking for a targeted and singular reference. You can browse the whole list of these articles at .
+Category:All articles with unsourced statements
+With 453,042 statements that need , sometimes it's hard to choose which article to work on. The tool makes that easier by suggesting random articles, which you can sort by topical category membership.
+WP:Verification
+Citation Hunt
+
+
+I can help! Give me a random citation to find!
+
+
+
+
+Participants
+
+
+
+
+Participants
+
+
+If you wish to join the project, please add your name to the list with:
+
+
+#{{np2|FuturesZa}} ~~~~~
+
+
+
+Join WikiProject Reliability
+
+· ) Shadowy
+(
+FuturesZa
+talk
+contribs
+
+
+
+· ) 06:35, 19 April 2007 (UTC)
+(
+1Shaggy1
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:29, 25 April 2012 (UTC)
+(
+A Quest For Knowledge
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:04, 10 July 2019 (UTC)
+(
+A garbage person
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:51, 25 January 2007? (UTC)
+(
+A.Ou
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 11:54, 15 January 2006? (UTC)
+(
+Adamsan
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:52, 2 August 2007? (UTC)
+(
+Aditreeslime
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:49, 7 January 2007 (UTC)
+(
+Agne27
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 00:51, 12 September 2008 (UTC)
+(
+Aldwinteo
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 08:10, 8 May 2020 (UTC)
+(
+Aleksejs.resko
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:00, 20 May 2007 (UTC)
+(
+AlphaEta
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:37, 5 January 2005 (UTC)
+(
+Alterego
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:38, 28 December 2020 (UTC)
+(
+Amigao
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:18, 24 November 2020 (UTC)
+(
+AmirahBreen
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:50, 19 March 2008 (UTC)
+(
+Andrewlp1991
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:26, 16 January 2006 (UTC)
+(
+Andries
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:48, 11 November 2007 (UTC)
+(
+Arnoutf
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:13, 5 June 2009 (UTC)
+(
+Arthree
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:40, 14 July 2012 (UTC)
+(
+Artventure22
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:06, 6 April 2020 (UTC)
+(
+Ashlesh007
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:56, 17 December 2020 (UTC)
+(
+Atlantis77177
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:26, 9 February 2006 (UTC)
+(
+Avraham
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:53, 25 April 2007 (UTC)
+(
+Batmanrules677
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:16, 3 May 2007 (UTC)
+(
+Beebee2100
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:24, 24 February 2008 (UTC)
+(
+BlueAg09
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 13:04, 7 February 2015 (UTC)
+(
+Bosstopher
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:53, 9 May 2019 (UTC)
+(
+Bsoyka
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 15:50, 22 April 2005 (UTC)
+(
+CAnderson
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:54, 5 April 2007 (UTC)
+(
+COFS
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:17, 10 January 2010 (UTC)
+(
+Cactusbin
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 09:32, 17 September 2020 (UTC)
+(
+Cambial Yellowing
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 12:24, 19 July 2020 (UTC)
+(
+CantingCrew
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:43, 30 June 2008 (UTC)
+(
+Captain-tucker
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:36, 7 January 2008 (UTC)
+(
+Ceyockey
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 11:13, 19 July 2011 (UTC)
+(
+Charlievb
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:31, 10 April 2021 (UTC)
+(
+Chillabit
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 15:22, 25 August 2006 (UTC)
+(
+ClairSamoht
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 03:49, 10 January 2010 (UTC)
+(
+Clifflandis
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 03:05, 7 March 2008 (UTC)
+(
+Cold Phoenix
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 12:30, 9 August 2007 (UTC)
+(
+Cronholm144
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:49, 1 January 2015 (UTC)
+(
+Ctg4Rahat
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:43, 25 April 2019 (UTC)
+(
+Curdigirl
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 11:41, 4 February 2007 (UTC)
+(
+Czesc26
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:07, 2 February 2007 (UTC)
+(
+Danielfolsom
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:30, 1 September 2004 (UTC)
+(
+Danny
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:36, 1 February 2005 (UTC)
+(
+David Gerard
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 00:13, 19 February 2006 (UTC)
+(
+Deeptrivia
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 03:00, 28 May 2010 (UTC)
+(
+Dogweather
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:36, 25 February 2008 (UTC)
+(
+Doug Weller
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:21, 18 July 2019 (UTC)
+(
+Dr Unanimous
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:45, 10 July 2007 (UTC)
+(
+Dreftymac
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:43, 17 October 2006 (UTC)
+(
+Durgadasa
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:31, 13 November 2007 (UTC)
+(
+E104421
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:03, 9 March 2021 (UTC)
+(
+Elli
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:31, 11 November 2007 (UTC)
+(
+Elonka
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:28, 31 March 2006 (UTC)
+(
+English212
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:36, 14 October 2005 (UTC)
+(
+Epolk
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:33, 5 May 2012 (UTC)
+(
+Factseducado
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 15:30, 27 February 2007 (UTC)
+(
+Faraz
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:11, 19 September 2012 (UTC)
+(
+Fcia0423
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:11, 31 January 2010 (UTC)
+(
+Fences and windows
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:16, 7 May 2012 (UTC)
+(
+Fifelfoo
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:02, 6 September 2007 (UTC)
+(
+Figureskatingfan
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:08, 29 March 2007 (UTC)
+(
+Fire e23
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:17, 25 January 2021 (UTC)
+(
+Firestar464
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 13:26, 20 February 2007 (UTC)
+(
+Fletchus
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:03, 29 May 2007 (UTC)
+(
+Flubeca
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:11, 21 March 2008 (UTC)
+(
+Fnsnet
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 10:34, 13 September 2020 (UTC)
+(
+FozzieHey
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:40, 14 July 2012 (UTC)
+(
+Francoisalex2
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:24, 1 September 2004 (UTC)
+(
+Frazzydee
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 15:47, 1 September 2004 (UTC)
+(
+Fred Bauder
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:38, 9 April 2006 (UTC)
+(
+Fridaymorninggirls
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:28, 15 November 2014 (UTC)
+(
+FunkyAnesthetic
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:18, 18 July 2011 (UTC)
+(
+Gagman385
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:00, 3 January 2007 (UTC)
+(
+Goldfritha
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:08, 8 February 2019 (UTC)
+(
+Guy Macon
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:27, 21 April 2007 (UTC)
+(
+Hamidali391
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:27, 21 October 2005 (UTC)
+(
+HappyCamper
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 03:57, 9 January 2007 (UTC)
+(
+Hersfold
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:04, 28 April 2011 (UTC)
+(
+History2007
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 09:14, 2 August 2007 (UTC)
+(
+Hughcharlesparker
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:12, 2 May 2012 (UTC)
+(
+IRWolfie-
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:38, 18 December 2005 (UTC)
+(
+Ian Pitchford
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:21, 31 May 2007 (UTC)
+(
+Information Center
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:39, 10 December 2008 (UTC)
+(
+IrishDragon
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:54, 30 January 2008 (UTC)
+(
+JackSchmidt
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:38, 20 November 2019 (UTC)
+(
+JaneciaTaylor
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:50, 1 April 2014 (UTC)
+(
+Jaydubya93
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 03:03, 20 March 2007 (UTC)
+(
+Jayvdb
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 09:01, 24 October 2004 (UTC)
+(
+JesseW
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:26, 1 September 2004 (UTC)
+(
+Jfdwolff
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:54, 29 November 2018 (UTC)
+(
+Jflopezfernandez
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:58, 18 January 2006 (UTC)
+(
+Jleybov
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:32, 1 September 2004 (UTC)
+(
+Jmabel
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:32, 9 June 2012 (UTC)
+(
+Joe Decker
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:29, 2 December 2019 (UTC)
+(
+JoeMum
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:12, 25 April 2012 (UTC)
+(
+John Carter
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 11:02, 19 May 2012 (UTC)
+(
+John Vandenberg
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:23, 28 March 2012 (UTC)
+(
+JohnChrysostom
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:35, 28 October 2005 (UTC)
+(
+Johnleemk
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:50, 28 October 2005 (UTC)
+(
+Johntex
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:08, 23 April 2019 (UTC)
+(
+Jpotterlibr
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:41, 23 August 2007 (UTC)
+(
+Jude Maxwell
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:32, 30 March 2005 (UTC)
+(
+JustDerek
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:38, 19 June 2020 (UTC)
+(
+JzG
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:56, 27 June 2021 (UTC)
+(
+Ken Tony
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:04, 28 June 2011 (UTC)
+(
+Kilmer-san
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:21, 15 October 2020? (UTC)
+(
+Kirbopher2004
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:50, 3 April 2006 (UTC)
+(
+Kool-Aid Jammers
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:10, 18 November 2012 (UTC)
+(
+Ksparks777
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 13:29, 9 August 2009 (UTC)
+(
+Lantrix
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 15:18, 16 August 2008 (UTC)
+(
+Larno Man
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:09, 14 January 2008 (UTC)
+(
+Lazulilasher
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:13, 5 January 2015 (UTC)
+(
+Learnerktm
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:06, 30 March 2007 (UTC)
+(
+Lenoxus
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:02, 24 September 2006 (UTC)
+(
+Ling.Nut
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 10:43, 9 December 2011 (UTC)
+(
+Longwayround
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:02, 15 February 2020? (UTC)
+(
+Lopezruth73
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 12:59, 24 May 2019 (UTC)
+(
+M.chinar
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 08:07, 26 February 2006 (UTC)
+(
+MSJapan
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:43, 14 April 2007 (UTC)
+(
+Maniwar
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:27, 23 April 2020 (UTC)
+(
+MarioGom
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:57, 10 May 2005 (UTC)
+(
+Mark Dingemanse
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:34, 14 September 2007 (UTC)
+(
+MarkCertif1ed
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:57, 8 July 2015 (UTC)
+(
+Marilyn Leask
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:24, 11 March 2019 (UTC)
+(
+MarkH21
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:13, 25 April 2020 (UTC)
+(
+Markworthen
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 12:50, 22 June 2014 (UTC)
+(
+Masssly
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:28, 9 June 2012 (UTC)
+(
+Maunus
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 10:51, 3 December 2006 (UTC)
+(
+Mcbridematt
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:11, 8 March 2021 (UTC)
+(
+Meanderingbartender
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:03, 11 May 2017 (UTC)
+(
+Menaechmi
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 11:02, 24 October 2006 (UTC)
+(
+Messedrocker
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:40, 21 January 2008 (UTC)
+(
+Mietchen
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:56, 21 March 2021 (UTC)
+(
+Mikehawk10
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 09:45, 12 August 2019 (UTC)
+(
+Mikemoral
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:23, 8 May 2010 (UTC)
+(
+Minnecologies
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:52, 29 March 2008 (UTC)
+(
+Mm40
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:43, 9 December 2020 (UTC)
+(
+MonsieurD
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:48, 19 February 2005 (UTC)
+(
+Mozzerati
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 09:18, 26 June 2014 (UTC)
+(
+Mr. Yondris Ferguson
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 03:52, 22 April 2017 (UTC)
+(
+MrLinkinPark333
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:56, 16 October 2013 (UTC)
+(
+Mrfrobinson
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 11:35, 2 October 2020 (UTC)
+(
+Mysteriumen
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:14, 8 January 2005 (UTC)
+(
+Neoconned
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:51, 5 May 2007 (UTC)
+(
+Neranei
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:52, 4 January 2019 (UTC)
+(
+Newslinger
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:06, 10 April 2005 (UTC)
+(
+Nichalp
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:45, 10 July 2019 (UTC)
+(
+Nomad
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 09:05, 31 March 2014 (UTC)
+(
+Northamerica1000
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 10:29, 25 February 2015 (UTC)
+(
+OMolokaiO
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:13, 27 January 2018 (UTC)
+(
+Ohmyerica
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:29, 25 June 2015 (UTC)
+(
+Olivettilly
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:13, 2 June 2012 (UTC)
+(
+Orschstaffer
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 19:07, 13 June 2019 (UTC)
+(
+Owynhart
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:44, 8 January 2021 (UTC)
+(
+Paradise Chronicle
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:55, 21 February 2009 (UTC)
+(
+Paul Siebert
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:16, 28 March 2005 (UTC)
+(
+Pearlg
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:12, 11 November 2004 (UTC)
+(
+Pedant
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:02, 12 June 2005 (UTC)
+(
+Peter Farago
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:27, 23 November 2005 (UTC)
+(
+Pádraic MacUidhir
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:52, 1 April 2007 (UTC)
+(
+Quadzilla99
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 10:26, 15 October 2004 (UTC)
+(
+Quinobi
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:27, 21 October 2020 (UTC)
+(
+RAJIVVASUDEV
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:53, 4 July 2008 (UTC)
+(
+RCX
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 13:36, 14 May 2009 (UTC)
+(
+RadioFan
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 08:09, 11 April 2007 (UTC)
+(
+Raphaelmak
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:00, 5 March 2020 (UTC)
+(
+ReliverX
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:33, 17 May 2021 (UTC)
+(
+Riley1012
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:40, 23 July 2010 (UTC)
+(
+S1312
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:17, 24 August 2005 (UTC)
+(
+SV Resolution
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 12:43, 27 January 2021 (UTC)
+(
+Sarensalgérie
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:32, 21 December 2005 (UTC)
+(
+Satanael
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 00:10, 15 March 2007 (UTC)
+(
+Savagepine
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:33, 11 January 2007 (UTC)
+(
+Seraphimblade
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:23, 1 September 2004 (UTC)
+(
+Sewing
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 13:59, 1 September 2004 (UTC)
+(
+ShaunMacPherson
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:09, 31 October 2020 (UTC)
+(
+Shifrajohari
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 11:40, 25 June 2020 (UTC)
+(
+Shobhasv
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:12, 2 August 2007 (UTC)
+(
+Shruti14
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:41, 30 May 2007 (UTC)
+(
+SilkTork
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:58, 15 October 2010 (UTC)
+(
+Smoggyrob
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:31, 15 March 2021 (UTC)
+(
+Snuish2
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:04, 17 December 2005 (UTC)
+(
+Spangineer
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 08:54, 27 May 2007 (UTC)
+(
+Sr13
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 12:21, 5 April 2018 (UTC)
+(
+Steinpal
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:44, 22 March 2019 (UTC)
+(
+Stellachamzy
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 07:37, 13 November 2019 (UTC)
+(
+SuperHamster
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:16, 4 December 2004 (UTC)
+(
+Ta bu shi da yu
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 08:00, 28 July 2020 (UTC)
+(
+Tadyatha
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:56, 20 March 2005 (UTC)
+(
+TakuyaMurata
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 06:51, 3 October 2020? (UTC)
+(
+Tanyasingh
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 15:52, 4 December 2004 (UTC)
+(
+Taxman
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:23, 29 April 2020 (UTC)
+(
+Tayi Arajakate
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:01, 3 May 2011 (UTC)
+(
+The Blade of the Northern Lights
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:33, 4 January 2005 (UTC)
+(
+The Epopt
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:40, 4 April 2006 (UTC)
+(
+The wild banshees
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:53, 29 August 2008 (UTC)
+(
+TheGerm
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:18, 16 October 2006 (UTC)
+(
+Tomj
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:13, 7 August 2010 (UTC)
+(
+Triona
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 21:19, 24 December 2007 (UTC)
+(
+Trulystand700
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 17:39, 8 February 2009 (UTC)
+(
+UmmairSaeed
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 05:32, 22 February 2009 (UTC)
+(
+Uwishiwazjohng
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:39, 4 April 2007 (UTC)
+(
+Vinch
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:44, 15 June 2005 (UTC)
+(
+Viriditas
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:39, 9 December 2006 (UTC)
+(
+VodkaJazz
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:06, 11 December 2005 (UTC)
+(
+Voice of All(MTG)
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 01:26, 10 November 2008 (UTC)
+(
+Wadester16
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 12:07, 4 August 2006 (UTC)
+(
+Wai Wai
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:36, 14 December 2017 (UTC)
+(
+Waking-to kindness
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:27, 20 September 2006 (UTC)
+(
+Walshga
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 00:21, 8 March 2019 (UTC)
+(
+Wei4Green
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 22:01, 29 July 2010 (UTC)
+(
+WeijiBaikeBianji
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 20:26, 3 December 2006 (UTC)
+(
+West wikipedia
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:46, 11 June 2011 (UTC)
+(
+Whiteghost.ink
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:31, 13 February 2013 (UTC)
+(
+Wiki.0hlic
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 18:46, 2 February 2005 (UTC)
+(
+WikiUser
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:29, 7 July 2020 (UTC)
+(
+Windyshadow32
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 10:41, 24 September 2006 (UTC)
+(
+Wobble
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:59, 29 July 2020 (UTC)
+(
+X0bN14Rb
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 04:17, 11 March 2012 (UTC)
+(
+YHoshua
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:35, 21 September 2007 (UTC)
+(
+Yahel Guhan
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 02:38, 30 November 2006 (UTC)
+(
+Yono
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:20, 10 April 2021 (UTC)
+(
+Zainjutt5551
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 14:26, 9 December 2020 (UTC)
+(
+????? ???? ???
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:22, 26 July 2021 (UTC)
+(
+MarshallKe
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 00:00, 1 January 2022 (UTC)
+(
+Cfls
+
+talk
+contribs
+
+[
+reply
+]
+
+Mohammad Aqib Khan,11 January 2022 (UTC)
+
+· ) 11:39, 4 February 2022 (UTC)
+(
+Aithus
+talk
+contribs
+
+[
+reply
+]
+
+· ) 16:29, 4 February 2022 (UTC)
+(
+Suonii180
+
+talk
+contribs
+
+[
+reply
+]
+
+· ) 23:30, 29 March 2022 (UTC)
+(
+Tow
+
+talk
+contribs
+
+[
+reply
+]
+
+
+
+
+
+Templates
+
+
+
+
+Userbox
+
+
+The WikiProject Reliability can be added with , which shows:
+userbox
+{{}}
+User WikiProject Reliability
+
+
+
+
+
+
+
+This user is a participant in .
+
+
+WikiProject Reliability
+
+
+Invitation
+
+
+To invite a user to WikiProject Reliability, use , which displays:
+{{}}
+subst:WikiProject Reliability invite
+
+
+
+
+
+
+
+Hi, WikiProject Reliability! Thanks for ensuring that articles are supported by . I'd like to invite you to become a part of , a collaborative effort to improve the of Wikipedia articles.
+reliable sources
+
+WikiProject Reliability
+reliability
+If you would like to participate, please visit for more information. Feel free to sign your name under "Participants". Thanks! ~~~~
+WikiProject Reliability
+Use to include a section heading before the message.
+{{|heading=y}}
+subst:WikiProject Reliability invite
+
+Pages
+
+
+To include a page under WikiProject Reliability, add to the top of the corresponding talk page, which shows:
+{{}}
+WikiProject Reliability
+
+
+
+
+WikiProject Reliability
+
+
+
+
+
+
+
+
+
+
+This page is part of , a collaborative effort to improve the of Wikipedia articles. If you would like to participate, please visit the , where you can join the and see a .
+
+WikiProject Reliability
+reliability
+project page
+discussion
+list of open tasks
+
+Reliability
+Wikipedia:WikiProject Reliability
+Template:WikiProject Reliability
+Reliability articles
+
+
+
+
+
+
+This also adds the page to .
+Category:Wikipedia reliable sources
+
+Award
+
+
+
+
+
+
+
+
+
+Barnstar of Reliability
+
+The Barnstar of Reliability is awarded to editors whose contributions improve the of Wikipedia articles. To award this barnstar, click the heart icon at the top of a user talk page (on a desktop or laptop computer), choose "Make your own", and use as the image filename.
+reliability
+WikiLove
+Barnstar of Reliability.png
+
+
+
+
+See also
+
+
+
+
+Tools
+
+
+
+- gamifying adding sources to uncited statements
+Citation Hunt
+- iconic indicators for citations
+Cite Unseen
+
+Unreliable/Predatory Source Detector
+
+Resources
+
+
+
+
+The Wikipedia Library
+
+Internet Archive
+
+Reports
+
+
+
+
+
+The Wikipedia CiteWatch
+
+Wikipedia:WikiProject Reliability/Self-published source usage report
+
+Related projects
+
+
+
+- a category based project to review articles that are in .
+Wikipedia:WikiProject Unreferenced articles
+Category:Articles lacking sources
+
+Wikipedia:WikiProject Unsourced Article Rescue
+
+Wikipedia:WikiProject Citation cleanup
+- a project to create a standardized citation database.
+m:Wikicite
+- a list of pages where content contradicts other language versions.
+Wikipedia:Content contradictory to other language versions
+- a project where Wikipedians offer to search in their resources for the reference that you are looking for.
+Wikipedia:WikiProject Resource Exchange
+
+WikiProject Notability
+
+WikiProject Spam
+
+Key pages
+
+
+
+
+
+
+Wikipedia:Verifiability
+
+Wikipedia:Reliable sources
+
+Wikipedia:Reliable sources/Noticeboard
+
+Wikipedia:Reliable sources/Perennial sources
+
+Wikipedia:Deprecated sources
+
+MediaWiki talk:Spam-blacklist
+
+Miscellaneous
+
+
+
+
+Category:Citation and verifiability maintenance templates
+- listing resources from many projects
+Category:WikiProject reference libraries
+
+Reliable sources in content review processes
+
+Sources in biology and medicine
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+
+
+t
+
+
+e
+
+
+
+WikiProject Council
+
+
+
+
+WikiProject guides
+
+
+
+
+WikiProject Council
+
+
+Talk
+
+Guidelines/Intro
+
+
+WikiProjects
+
+Task forces
+
+Technical notes
+
+Assessment FAQ
+
+Work via WikiProjects
+
+
+
+
+Directories and summaries
+
+
+
+
+Directory
+
+Proposals
+
+Signpost
+
+Shortcuts
+
+Popular pages
+
+Database reports
+
+
+Watchers
+
+
+
+
+Culture and the arts
+
+
+
+
+Arts
+
+
+Music
+
+Performing
+
+Plastic
+
+Visual
+
+Broadcasting
+
+Crafts and hobbies
+
+Entertainment
+
+
+Games and toys
+
+Food and drink
+
+Internet culture
+
+Language and literature
+
+
+Biography
+
+Linguistics
+
+Media
+
+Philosophy and religion
+
+Sports
+
+
+
+
+Geographical
+
+
+
+
+Bodies of water
+
+Cities
+
+Countries
+
+
+Africa
+
+Americas
+
+Asia
+
+Europe
+
+Oceania
+
+Landforms
+
+Maps
+
+Parks, conservation areas and historical sites
+
+
+
+
+History and society
+
+
+
+
+History and society
+
+Business and economics
+
+Education
+
+Military and warfare
+
+Politics and government
+
+Transportation
+
+
+
+
+Science, technology and engineering
+
+
+
+
+
+Science
+
+Biology
+
+Chemistry
+
+Economics
+
+Geosciences
+
+Information science
+
+Mathematics
+
+Medicine
+
+Meteorology
+
+Physics
+
+Space
+
+Technology
+
+Time
+
+
+
+
+Wikipedia assistance and tasks
+
+
+
+
+
+Contents systems
+
+Maintenance
+
+Files
+
+Article improvement and grading
+
+Classroom projects
+
+WikiProjects
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Reliability&oldid=1080032986
+
+:
+Categories
+
+
+Active WikiProjects
+
+Wikipedia WikiProjects
+
+Wikipedia reliable sources
+
+WikiProject Reliability
+Hidden categories:
+
+
+Project pages with short description
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Project page
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+Edit
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+Languages
+
+
+
+
+
+Add links
+
+
+This page was last edited on 29 March 2022, at 23:30.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

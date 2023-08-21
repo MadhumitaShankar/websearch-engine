@@ -1,0 +1,522 @@
+
+
+
+Use music and sound effects from the Audio Library - YouTube Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YouTube Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign in
+
+
+
+
+
+
+
+
+
+
+
+
+Google Help
+
+
+
+
+
+
+
+Help Center
+
+
+Fix a problem
+
+Watch videos
+
+Manage your account & settings
+
+Supervised experience on YouTube
+
+Join & manage YouTube Premium
+
+Create & grow your channel
+
+Monetize with the YouTube Partner Program
+
+Policy, safety, & copyright
+
+Community
+
+YouTube
+
+
+Privacy Policy
+
+YouTube Terms of Service
+
+Submit feedback
+
+Send feedback on...
+
+
+
+
+This help content & information
+
+
+
+
+
+General Help Center experience
+
+
+
+Next
+
+
+
+
+
+
+Help Center
+Community
+Creator Tips
+
+
+
+YouTube
+
+
+
+
+
+Fix a problem
+
+Troubleshoot problems playing videos
+Troubleshoot account issues
+Fix upload problems
+Fix YouTube Premium membership issues
+Get help with the YouTube Partner Program
+
+Watch videos
+
+Find videos to watch
+Change video settings
+Watch videos on different devices
+Comment, subscribe, & connect with creators
+Save or share videos & playlists
+Troubleshoot problems playing videos
+Purchase and watch movies and TV shows
+
+Manage your account & settings
+
+Sign up and manage your account
+Manage account settings
+Manage privacy settings
+Manage accessibility settings
+Troubleshoot account issues
+
+Supervised experience on YouTube
+
+Join & manage YouTube Premium
+
+Learn about YouTube Premium benefits
+Manage Premium membership
+Manage Premium billing
+Get a YouTube Premium family plan
+Sign up for a student Premium membership
+Fix YouTube Premium membership issues
+Troubleshoot billing & charge issues
+Request a refund for YouTube paid products
+YouTube Premium Updates & Promotions
+
+Create & grow your channel
+
+Upload videos
+Edit videos & video settings
+Create Shorts
+Customize & manage your channel
+Analyze performance with analytics
+Translate videos, subtitles, & captions
+Manage your community & comments
+Live stream on YouTube
+
+Monetize with the YouTube Partner Program
+
+YouTube Partner Program
+Make money on YouTube
+Get paid
+Understand ads and related policies
+Get help with the YouTube Partner Program
+YouTube for Content Managers
+
+Policy, safety, & copyright
+
+YouTube policies
+Reporting and enforcement
+Privacy and safety center
+Copyright and rights management
+
+
+
+
+
+
+
+
+
+Edit videos & video settings
+
+
+
+
+
+Use music and sound effects from the Audio Library
+
+
+
+
+
+
+
+Use music and sound effects from the Audio Library
+
+
+In the Audio Library in YouTube Studio, you can find royalty-free production music and sound effects to use in your videos.
+
+
+Music and sound effects from the YouTube Audio Library are copyright-safe. The Audio Library is found exclusively in YouTube Studio.
+Open the Audio Library
+
+Sign in to .
+YouTube Studio
+From the left menu, select l.
+Audio
+ibrary
+You can also access the Audio Library directly at .
+youtube.com/audiolibrary
+Search the Audio Library
+Find music
+In the tab, use the filters and search bar to find tracks for your videos.
+Free music
+
+To find a certain track, enter a track title, artist, or keyword in the search bar. You can also use filters to find music by the track title, genre, mood, artist name, attribution, and duration (length in seconds).
+Refine your search results by clicking the filter next to the artist, genre, or mood of individual tracks. You can sort your search results by track title, artist name, duration, or date by clicking their column names.
+
+Save your favorite tracks by clicking the star icon next to the track title. To see a list of your favorite tracks, click the tab.
+Starred
+
+New releases are added to the Audio Library twice a month.
+Find sound effects
+In the tab, use the filters and search bar to find sound effects for your videos.
+Sound effects
+
+To find a certain sound effect, enter a track title or keyword in the search bar. You can also filter sound effects by category and duration (length in seconds).
+Play and download audio
+To sample a track, click Play . If you like what you hear, hover over the date and click to get an MP3 file.
+
+DOWNLOAD
+The track will continue to play as you browse the Audio Library. Using the controls on the audio player, you can pause, seek, and play the previous or next track.
+Give attribution
+If you’re using a track with a license, you must credit the artist in your video’s description. To generate attribution info you can use:
+Creative Commons
+
+
+Sign in to .
+YouTube Studio
+From the left menu, select .
+Audio Library
+Find the track you want to use.
+
+Note: To browse all music with a Creative Commons license, click the filter bar > Attribution required.
+In the column, click the Creative Commons icon .
+License type
+
+In the pop-up window, click Copy to copy the attribution text. You can now paste this info in your video’s description.
+
+If you want to find music that has a standard YouTube Audio Library license that doesn’t require attribution, click the filter bar > .
+
+Attribution not required
+
+If your video uses any music from the YouTube Audio Library, a “” section will show on your video’s watch page. Keep in mind that if your video uses music with a Creative Commons license, the attribution info is still required in your video’s description.
+Note:
+Music in this Video
+Monetize your video
+If you're in the , you can monetize videos with music and sound effects from the Audio Library.
+YouTube Partner Program
+Copyright-safe music and sound effects downloaded from the Audio Library won't be claimed by a rights holder through the system.
+Content ID
+
+
+Keep in mind:
+
+Only music and sound effects from the Audio Library are known to YouTube to be copyright-safe.
+YouTube is not responsible for issues that arise from “royalty-free” music and sound effects from YouTube channels or other music libraries.
+YouTube can’t give legal guidance, including guidance on issues with music that can occur off the platform.
+If you have questions about your use of music, you may wish to consult a qualified lawyer.
+Learn more about .
+what kind of content you can monetize
+
+
+
+Was this helpful?
+How can we improve it?
+
+Yes
+No
+
+
+
+Submit
+
+
+
+true
+
+
+
+
+
+Edit videos & video settings
+
+
+Improve uploads on mobile with enhancements
+
+
+
+
+Remove claimed content from videos
+
+
+
+
+Use music and sound effects from the Audio Library
+
+
+
+
+Mention channels in video titles & descriptions
+
+
+
+
+Video Chapters
+
+
+
+
+
+
+
+©2022 Google
+
+Privacy Policy
+
+YouTube Terms of Service
+
+
+català?
+dansk?
+Deutsch?
+eesti?
+English (United Kingdom)?
+español?
+español (Latinoamérica)?
+Filipino?
+français?
+hrvatski?
+Indonesia?
+italiano?
+latviešu?
+lietuvi??
+magyar?
+Nederlands?
+norsk?
+polski?
+português?
+português (Brasil)?
+român??
+sloven?ina?
+slovenš?ina?
+suomi?
+svenska?
+Ti?ng Vi?t?
+Türkçe?
+íslenska?
+?eština?
+?????????
+??????????
+????????
+???????
+???????????
+??????
+?????
+????????
+???????
+??????
+????
+???????
+???????
+????
+????
+English?
+
+
+
+
+
+
+Enable Dark Mode
+
+Send feedback on...
+This help content & information
+General Help Center experience
+
+Search
+Clear search
+Close search
+Google apps
+Main menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Help Center
+
+
+
+
+
+
+
+
+
+
+
+
+true
+59
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+false

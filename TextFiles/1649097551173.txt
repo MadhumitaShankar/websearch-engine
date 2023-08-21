@@ -1,0 +1,340 @@
+
+
+
+
+Wikilink - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wikilink
+
+From Wikipedia, the free encyclopedia
+
+Redirect page
+
+
+Jump to navigation
+Jump to search
+
+
+
+Redirect to:
+
+
+Hyperlink#Wikis
+
+
+
+
+
+
+
+This page is a .
+redirect
+The following are used to track and monitor this redirect:
+categories
+
+
+: This is a redirect from a title that potentially could be expanded into a new article or other type of associated page such as a new template. The topic described by this title may be more detailed than is currently provided on the target page or in a section of that page.
+
+With possibilities
+
+{{}} should be used together with this template when applied to a redirect in .
+R printworthy
+mainspace
+When used on a template redirect, it will automatically populate .
+
+Category:Template redirects with possibilities
+When the target page becomes too large, or for any reason a new page would be an improvement, this redirect may be replaced with an article, template or other project page that is carved out of the target page. See also {{}} and use together with this rcat when appropriate.
+R to section
+If the topic of the redirect is not susceptible to expansion, then use other rcats such as {{}} or {{}} .
+R to section
+R to list entry
+when appropriate
+Since a new page may be created, links to this redirect be replaced with a direct link to the target page.
+should
+not
+
+
+: This is a redirect from a topic that does not have its own page to a of a page on the subject. For redirects to on a page, use {{}} .
+
+To a section
+section
+embedded anchors
+R to anchor
+instead
+
+
+: This is a redirect from a subtopic of the target article.
+
+From a subtopic
+
+If the redirected subtopic could potentially have in the future, then also tag the redirect with {{}} and {{}}.
+its own article
+R with possibilities
+R printworthy
+
+
+: This is a redirect from a title that would be helpful in a or version of Wikipedia. See for more helpful information.
+
+From a printworthy page title
+printed
+CD/DVD
+Wikipedia:Printability
+
+When appropriate, are automatically sensed, described and categorized.
+protection levels
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Wikilink&oldid=1068405893
+
+Hidden categories:
+
+
+Printworthy redirects
+
+Redirects with possibilities
+
+Redirects to sections
+
+Redirects from subtopics
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Article
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+Edit
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Cite this page
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+Languages
+
+
+
+
+Deutsch
+
+
+Polski
+
+
+Português
+
+
+Add links
+
+
+This page was last edited on 28 January 2022, at 07:31.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

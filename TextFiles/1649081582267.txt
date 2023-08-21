@@ -1,0 +1,717 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How does the BBC use cookies for commercial purposes (outside the UK)? - Using the BBC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+Accessibility links
+
+
+Skip to content
+
+Accessibility Help
+
+
+
+BBC Account
+
+
+Notifications
+
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+Menu
+
+
+Search BBC
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+Close menu
+
+
+
+
+
+
+
+Using the BBC
+
+Menu
+
+
+
+Your Information & Privacy
+
+
+
+Your Information & Privacy Home
+
+Personal Information
+
+Privacy and Your Activity
+
+Cookie & Browser Settings
+
+
+
+Cookie & Browser Settings Home
+
+About Cookies
+
+Cookie Settings
+
+Creating & Using Your Account
+
+
+
+Creating & Using Your Account Home
+
+Help Registering & Signing In
+
+Account Features
+
+Personalisation & Recommendations
+
+Terms of Use
+
+
+
+Terms of Use Home
+
+Accessing the BBC
+
+Joining in
+
+Using BBC Content
+
+
+
+Your Information & Privacy
+
+
+Cookie & Browser Settings
+
+
+Creating & Using Your Account
+
+
+Terms of Use
+
+
+
+
+
+Cookie & Browser Settings
+
+
+
+About Cookies
+
+Cookie Settings
+
+
+
+
+
+
+About Cookies
+
+
+
+What do I need to know about cookies?
+
+How does the BBC use cookies?
+
+What happens if third party cookies are disabled on my browser?
+
+How does the BBC use cookies for commercial purposes (outside the UK)?
+
+
+How does the BBC use cookies for commercial purposes (outside the UK)?
+Page updated: 31 March 2021
+
+
+
+If you access the BBC website and/or related apps (the “Services”) from outside the UK, you may see third party advertising and content recommendations, as well as promotional BBC messaging (personalised based on your BBC ad profile). We refer to these collectively in this explainer as “Ads”.
+Third party advertising and content recommendations enable us to generate income to help fund BBC Services, including making those services available to international audiences. BBC Global News, a commercial subsidiary of the BBC, is responsible for commercialising the Services and is the “data controller” for the purposes of data protection law.
+We try our best to make sure that Ads are only visible to people outside the UK,. If you are viewing the website from within the UK and you can see Ads, to let us know.
+please use this form
+If you've seen what you believe to be inappropriate advertising on our online services,
+please read this FAQ for advice.
+If you are looking to manage your Commercial Cookies Settings, please refer to the “How can I opt-out from ad personalisation?” section below.
+
+
+How are the Ads shown to me personalised?
+
+If you are in the UK, the Services are funded by the Licence Fee and do not contain Ads and your data will not be used for ad personalisation purposes.
+If you are outside the UK, the Ads you see may be personalised based on information that has been inferred about you and your interests. Personalising Ads helps us to show you fewer, more relevant Ads. It also means we can receive more revenue from our advertisers, allowing us to invest more in great content.
+We will also show you Ads relevant to the content you viewing. For example, if you are reading an article about travel then we might show you ads for airlines. This is called contextual advertising.
+The personalisation of Ads may be based on information, referred to as “data”, collected about you (e.g. your registration data provided to sign up for a BBC Account), your use of our Services (e.g. what articles you read) and other data attributed to you by the advertiser or a data specialist – such as your interests, age, gender and similar statistical characteristics (demographics) inferred from your internet browsing or marketing data that an advertiser holds about you. We may also use your general location to show you Ads relevant to where you are, so if you are in the US you will see Ads from US advertisers.
+To create an ad profile for personalisation, unique identifiers (IDs) are used to tell your device apart from others – such as an ID stored by a cookie, or your Mobile Ad ID (a unique code set by your mobile operating system). You can opt-out from these IDs being used for ad personalisation; advice on how to do this is provided below.
+Data that directly identifies you, such as your name, email address or mobile number, will not be used for advertising purposes in your browser or app settings.
+Do other companies use cookies, and similar technologies, on your services for advertising purposes?
+We and our advertisers work with a range of other companies (“”) to show you Ads, both personalised and non-personalised. This includes the advertisers’ agencies, specialist technology platforms that help us with the sale of our ad space and delivery of the Ads, as well as data management platforms that help with analysis and sorting of the data needed to personalise Ads. We also work with specialists to make sure real people are seeing Ads, and to make sure our website is safe.
+Advertising Partners
+The cookies or other ID sent with the Ads by us and Advertising Partners make personalised advertising possible. They also enable advertisers to monitor the effectiveness of their Ads.
+Advertising Partners may also use cookies they dropped on your device when you were browsing other (non-BBC) websites. This helps them to show you Ads for things that might be relevant to your interests based on what you looked at on other websites. They also do this to see whether you have already seen a particular ad and to limit how many of their Ads you see across the internet. And if you take part in market research, the research company can record that you have seen a particular ad.
+
+
+
+
+They may also use data they collect from other sources, or infer from your browsing of other websites, to decide what type of ad might interest you. They may use a technology known as cookie syncing to do this. It works by matching the cookie ID assigned to you with another cookie ID held in another company’s database (which is likely to be attributable to you). That cookie may have certain interests and other population statistics information attributed to it.
+We and our Advertising Partners will also use your device IP address when selecting and delivering advertising to you. This is a numerical address allocated to your device by your Internet Service Provider (ISP) which acts like a postal address in that it allows websites to know where to send their content to you. Your IP address may be static (i.e. remain the same each day) but is more likely to be dynamic, meaning it changes frequently (usually every 24 hours). It may also be used to determine your broad location (e.g. what country you are in).
+Am I tracked across my devices for advertising purposes?
+Any company that has dropped a cookie on your device can track your online browsing activity. We and our Advertising Partners may attempt to match your browsing activity on one device, such as your laptop, with your browsing activity on another device, such as your smartphone, so that we can limit the number of times you see a particular ad (across your devices) and to personalise the advertising we show you.
+To do this we may use data, such as your browsing patterns, geo-location and mobile Ad ID and match it with other information about the browser and devices that you appear to use.
+Is data from other sources used to personalise advertising?
+As explained above, we and our Advertising Partners may use interest and statistical characteristic (demographic) data from data specialists to help us to better predict what might interest you. Advertisers might also use their own marketing data to show you Ads on our online services. This means you may see Ads based on things you’ve viewed on other websites and other information they have collected about you.
+Do you personalise advertising shown to me on non-BBC services?
+Sometimes we buy ad space on other websites and services to run ads for our advertisers. For example, we might show you an ad before a BBC News video on our social media channels. That ad could be personalised in the same way as when you use our services.
+Do other publishers personalise advertising shown to me when I access BBC content on their sites?
+Our content may be published on websites and apps owned by other companies; a list of these is provided below. These companies may collect and use data about your interactions with our content on their services, including for the purposes of showing you personalised Ads. To find out what they do with your data please refer to the privacy notice and terms of use for each service.
+
+
+
+
+
+
+Company
+Address
+
+
+
+MSN
+
+
+https://www.msn.com/
+
+
+Yahoo! Americas
+
+
+https://us.yahoo.com/
+
+
+Yahoo! Japan
+
+
+https://www.yahoo.co.jp/
+
+
+Apple News
+
+
+https://www.apple.com/uk/apple-news/
+
+
+Facebook Instant Articles
+
+
+https://instantarticles.fb.com/
+
+
+YouTube
+
+
+https://www.youtube.com/
+
+
+News Republic
+
+
+https://www.news-republic.com/
+
+
+Smart News
+
+
+https://www.smartnews.com/en/
+
+
+AOL
+
+
+https://www.aol.co.uk/
+
+
+Facebook
+
+
+https://en-gb.facebook.com/
+
+
+Where can I find out more about how ad personalisation works?
+
+The advertising industry has developed a number of consumer and business initiatives in Europe, the US and other regions, including those listed below. These initiatives require participating members (which may include our Advertising Partners) to comply with a self-regulatory framework, which set out best practice principles, consumer guides, and opt-out tools.
+
+European Interactive Digital Advertising Alliance (EDAA)
+
+Digital Advertising Alliance (DAA)
+
+Network Advertising Initiative (NAI)
+How do you manage the Advertising Partners operating on your services?
+We do our best to protect our users’ data and ensure it is used in accordance with our policies. For example, we work with Advertising Partners that actively participate in recognised self-regulatory frameworks (such as the , or ). We also place contractual limits on how data collected about people using our services is used. And we regularly audit our site to look for malware and unsafe cookies.
+EDAA
+DAA
+NAI
+We check every Advertising Partner we work with directly to ensure that it will handle your data responsibly. We list our contracted Advertising Partners below. These Advertising Partners and our direct advertisers may also be permitted to drop on your device cookies or pixels for limited purposes (e.g. for verification of ad serving) provided by pre-approved specialist companies. We check these specialist companies meet our quality standards before we place them on our pre-approved list; and these are listed .
+here
+The data the Advertising Partners collect may also be subject to their privacy policies (click on the Advertising Partner below name to access their privacy policy). You can read their privacy policies to find out more about how they may use your data. You can also opt-out from them using your data for ad personalisation purposes by following the instructions set out below.
+
+
+Who are your contracted Advertising Partners?
+
+
+
+Ad serving, ad trading and ad personalisation
+
+
+Google Ad Manager and Google Ads
+
+
+Index Exchange
+
+
+OpenX
+
+
+Pubmatic
+
+
+Rubicon Project
+
+
+TripleLift
+
+
+Teads
+
+Xandr
+
+
+Data management, audience segmentation & cross device tracking
+
+
+Lotame
+
+
+Permutive
+
+Roku
+
+
+In-email advertising
+
+
+LiveIntent
+
+
+Personalised content recommendations
+
+
+Outbrain
+
+
+Ad performance, measurement and fraud
+
+Integral Ad Science (IAS)
+How can I opt-out from ad personalisation?
+If at any time you do not want information about your data, such as your cookie ID and browsing behaviour, to be used for personalised advertising on our websites/apps, you can "opt out" or change your browser settings. You can learn how to do this below. If you opt-out or make any changes to your browser settings, you will continue to see ads that may be less relevant to you. Some data, such as your cookie ID and IP address, will be used to show you a non-personalised ad even if you opt-out. This is to measure the effectiveness of (non-personalised) Ads, to limit how many times you see an ad, and to make sure humans, not robots, are seeing the ad.
+
+
+Commercial Cookie Settings
+
+You can opt-out from the use of your data by us and most of our Advertising Partners to personalise advertising by clicking below.
+
+
+Manage commercial data preferences
+
+
+
+
+
+Ad Choices tools for web browsers
+You can opt-out of personalised advertising on our websites and more generally across the internet using the opt-out tools provided by ad industry bodies, including those set out below. However, not all advertisers and Advertising Partners are members or these bodies or participate in their tools. In any case, you can still use your browser settings for these and other advertisers as further explained below.
+
+
+European Interactive Digital Advertising Alliance (EDAA)
+
+
+Digital Advertising Alliance (DAA)
+
+
+Network Advertising Initiative (NAI)
+
+
+Change your browser settings
+You can also prevent your cookie ID and browsing data being tracked and used for personalised advertising purposes by changing your browser settings, browsing in ‘private mode’ or by using browser add-ons available on the internet. Visit the relevant support page for your browser, or use the help function on your browse, to learn more:
+
+
+
+
+
+Apple Safari
+
+
+Google Chrome
+
+
+Microsoft Edge
+
+
+Mozilla Firefox
+
+
+Opera browser
+
+
+Change your mobile device settings
+Mobile apps don’t use cookies. Instead, different technologies recognise your device and collect information about your app browsing to show you personalised ads. This technology makes use of your “Mobile Advertising ID”, which is randomly generated by your mobile operating system. Typical IDs are AdID (Android) and IDFA (Apple). Follow the instructions below to reset or turn off this ID.
+We provide settings for BBC News app users within the EEA to control which individual commercial partners we share data with and for what purposes.
+To manage this, install the latest version of the app and follow the instructions shown when the app is opened for the first time.
+EEA visitors can reset their preferences at any time within the app’s Settings screen.
+Menu > Settings > Privacy Settings / Do Not Sell My Info
+Apple iOS
+
+
+
+Menu > Settings > Privacy Settings / Do Not Sell My Info
+Google Android
+
+For users outside the EEA Apple and Google provide additional methods of limiting ad tracking
+Apple allows users running iOS 14 and above to disable the IDFA the first time the BBC News app is opened.
+Apple iOS
+
+To do this: 1. Ensure you have installed the latest version of the app 2. When opening the app for the first time after updating, select “Ask App Not to Track” when prompted
+
+
+If you have previously granted permission for the app to track you and wish to change this:
+Settings > Privacy > Tracking and tap to turn on or off each app displayed in the list of apps that have requested permission to track you
+Users running older versions of iOS: 1. Go to Settings > Privacy > Advertising. 2. Turn on Limit Ad Tracking. Visit the Apple for more information.
+
+
+
+
+support page
+1. Go to Settings. 2. Select Google in the Accounts section. 3. Select Ads in the Privacy section. 4. Tick Opt out of interest based Ads. Visit the Google for more information.
+Google Android
+
+
+
+
+
+
+support page
+
+
+Notice to California users – Do Not Sell My Info
+
+As described in this notice, we allow our advertising partners to collect a limited amount of information about you, such as your IP address, device identifiers, location and browsing data to show you targeted advertising. Such sharing of this type of data may constitute a “sale” of “personal information” for the purposes of the California Consumer Privacy Act 2018 (“CCPA”). You can opt-out of any future “sale” of your personal information by following the instructions detailed in this notice.
+If you have previously opted-out of the use of your data in accordance with the above, you can opt back in by: (i) changing your Commercial Cookies Settings or by changing any of the other control measures described below in this notice and (ii) confirming your choice by continuing to use our site/app.
+
+
+Read the full Privacy and Cookies policy
+
+
+Learn more about Privacy and Terms across the BBC
+
+
+
+
+
+
+
+What are Cookies
+BBC WEBWISE
+
+
+
+
+
+
+How to make Cookies and influence people
+BBC NEWS
+
+
+
+
+
+
+Should we try to regulate the internet?
+BBC iWONDER
+
+
+
+
+
+
+Radio 4 series - Privacy Under Pressure
+BBC RADIO
+
+
+
+Choose language:
+Cymraeg
+Gàidhlig
+
+
+
+
+
+Explore the BBC
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+
+
+
+
+Terms of Use
+
+About the BBC
+
+Privacy Policy
+
+Cookies
+
+Accessibility Help
+
+Parental Guidance
+
+Contact the BBC
+
+Get Personalised Newsletters
+
+Advertise with us
+
+AdChoices / Do Not Sell My Info
+The BBC is not responsible for the content of external sites.
+Copyright © 2022 BBC.
+
+Read about our approach to external linking.
+
+
+
+
+
+
+
+
+
+
+
+
+

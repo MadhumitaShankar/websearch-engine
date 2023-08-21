@@ -1,0 +1,782 @@
+
+
+
+
+Template:Category redirect - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Template:Category redirect
+
+From Wikipedia, the free encyclopedia
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+
+
+
+
+
+This category is located at .
+[[:Category:{{{1}}}]]
+
+This category should be empty.
+Note:
+See the for more information.
+instructions
+
+: If this category name is unlikely to be entered on new pages, and all have been cleaned up, .
+Administrators
+incoming links
+click here to delete
+
+
+
+
+
+
+
+
+
+This template should only be used on category pages.
+
+
+
+
+Template documentation
+
+[] [] [] []
+view
+edit
+history
+purge
+
+
+
+
+
+. To avoid major disruption and server load, any changes should be tested in the template's or subpages, or in your own . The tested changes can be added to this page in a single edit. Consider discussing changes on the before implementing them.
+This template is used on
+approximately 103,000 pages
+
+/sandbox
+/testcases
+user subpage
+talk page
+
+
+
+
+
+
+This template should be .
+not
+substituted
+
+
+
+
+
+
+If you intend to change this template in any significant way, move or nominate it for deletion, please inform the bot operators. Thank you. The relevant bots are: and .
+
+This template is used by one or more .
+bots
+
+JJMC89 bot
+RussBot
+
+Not to be confused with .
+Template:Redirect category
+
+For the Wikipedia policy on redirecting categories, see .
+WP:CATRED
+
+
+
+
+
+
+Shortcuts
+
+{{}}
+
+Catred
+{{}}
+
+Catr
+
+
+
+Contents
+
+
+
+
+
+1
+Instructions
+
+
+2
+Exceptions
+
+
+3
+TemplateData
+
+
+4
+See also
+
+Instructions
+Example: To redirect from to , simply add the following to :
+Category:Authors
+Category:Writers
+Category:Authors
+
+or
+{{Category redirect|Writers}}
+with optional namespace prefix
+{{Category redirect|Category:Writers}}
+This template adds category pages to .
+Category:Wikipedia soft redirected categories
+If a category redirect exists but is not likely to be useful (see criteria in ), tag it with {{}} for deletion.
+WP:Category redirects that should be kept
+db-c1
+
+Exceptions
+
+Non-empty categories will be listed at .
+Category:Wikipedia non-empty soft redirected categories
+(?0?)
+Infinite loops of length 1 will be listed at under .
+Category:Wikipedia category-redirect box parameter needs fixing
+(?0?)
+?
+Redirects with non-existent targets will be listed at under .
+Category:Wikipedia category-redirect box parameter needs fixing
+(?0?)
+?
+
+TemplateData
+This is the for this template used by , and other tools. to see a monthly parameter usage report for this template based on this TemplateData.
+TemplateData
+TemplateWizard
+VisualEditor
+Click here
+
+TemplateData for Category redirect
+
+
+Marks category as a soft-redirect
+
+
+Template parameters
+
+
+This template prefers inline formatting of parameters.
+
+
+Parameter
+Description
+Type
+Status
+
+
+Destination category
+
+1
+
+Category that this category should redirect to
+
+Example
+Writers
+Page name
+required
+
+nocat
+
+nocat
+
+no description
+
+Unknown
+optional
+
+See also
+
+
+Template:Category disambiguation
+
+Template:Resolve category redirect
+
+Wikipedia:Template index/Category namespace
+
+The above is from . Editors can experiment in this template's and pages. Add categories to the subpage. .
+documentation
+transcluded
+Template:Category redirect/doc
+( | )
+edit
+history
+
+sandbox
+( | )
+edit
+diff
+testcases
+()
+edit
+
+/doc
+Subpages of this template
+
+
+Retrieved from ""
+https://en.wikipedia.org/w/index.php?title=Template:Category_redirect&oldid=926225525
+
+:
+Categories
+
+
+Pages monitored by Wikipedia bots
+
+Redirect templates
+
+Category namespace templates
+
+Templates for soft redirects
+Hidden categories:
+
+
+Wikipedia template-protected templates
+
+Templates using TemplateData
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+
+Not logged in
+
+
+Talk
+
+
+Contributions
+
+
+Create account
+
+
+Log in
+
+
+
+Namespaces
+
+
+
+
+Template
+
+
+Talk
+
+
+
+English
+
+
+
+
+
+Views
+
+
+
+
+Read
+
+
+View source
+
+
+View history
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main page
+
+
+Contents
+
+
+Current events
+
+
+Random article
+
+
+About Wikipedia
+
+
+Contact us
+
+
+Donate
+
+
+Contribute
+
+
+
+
+Help
+
+
+Learn to edit
+
+
+Community portal
+
+
+Recent changes
+
+
+Upload file
+
+
+Tools
+
+
+
+
+What links here
+
+
+Related changes
+
+
+Upload file
+
+
+Special pages
+
+
+Permanent link
+
+
+Page information
+
+
+Wikidata item
+
+
+Print/export
+
+
+
+
+Download as PDF
+
+
+Printable version
+
+
+In other projects
+
+
+
+
+Wikimedia Commons
+
+
+Meta-Wiki
+
+
+Multilingual Wikisource
+
+
+Wikibooks
+
+
+Wikidata
+
+
+Wikiquote
+
+
+Wikisource
+
+
+Wikiversity
+
+
+Wikivoyage
+
+
+Wiktionary
+
+
+Languages
+
+
+
+
+Acèh
+
+
+???????
+
+
+?????
+
+
+???????
+
+
+??????
+
+
+?????
+
+
+Bân-lâm-gú
+
+
+??????????
+
+
+???????
+
+
+Bosanski
+
+
+Català
+
+
+Cebuano
+
+
+?eština
+
+
+Dansk
+
+
+???????
+
+
+????????
+
+
+Español
+
+
+Esperanto
+
+
+Euskara
+
+
+?????
+
+
+Fiji Hindi
+
+
+Français
+
+
+Gaeilge
+
+
+Gaelg
+
+
+Galego
+
+
+???????
+
+
+???
+
+
+??????
+
+
+Ilokano
+
+
+????????????? ???????
+
+
+Bahasa Indonesia
+
+
+Íslenska
+
+
+?????
+
+
+???????
+
+
+Kiswahili
+
+
+Kurdî
+
+
+Latviešu
+
+
+Lombard
+
+
+Magyar
+
+
+??????
+
+
+??????????
+
+
+??????
+
+
+Malti
+
+
+?????
+
+
+????
+
+
+????????
+
+
+Bahasa Melayu
+
+
+Mirandés
+
+
+??????????
+
+
+??????
+
+
+???
+
+
+Norsk bokmål
+
+
+Norsk nynorsk
+
+
+?????
+
+
+????
+
+
+Português
+
+
+Român?
+
+
+Runa Simi
+
+
+?????????
+
+
+Scots
+
+
+Shqip
+
+
+?????
+
+
+Simple English
+
+
+????
+
+
+Slovenš?ina
+
+
+Soomaaliga
+
+
+?????
+
+
+?????? / srpski
+
+
+Srpskohrvatski / ??????????????
+
+
+Svenska
+
+
+Tagalog
+
+
+?????
+
+
+Tarandíne
+
+
+?????????
+
+
+??????
+
+
+???
+
+
+Türkçe
+
+
+??????????
+
+
+????
+
+
+Ti?ng Vi?t
+
+
+??
+
+
+??????
+
+
+??
+
+
+Zazaki
+
+
+??
+
+
+Edit links
+
+
+This page was last edited on 15 November 2019, at 00:33.
+(UTC)
+Text is available under the ; additional terms may apply. By using this site, you agree to the and . Wikipedia® is a registered trademark of the , a non-profit organization.
+Creative Commons Attribution-ShareAlike License 3.0
+
+Terms of Use
+Privacy Policy
+Wikimedia Foundation, Inc.
+
+
+Privacy policy
+
+About Wikipedia
+
+Disclaimers
+
+Contact Wikipedia
+
+Mobile view
+
+Developers
+
+Statistics
+
+Cookie statement
+
+
+
+
+
+
+
+

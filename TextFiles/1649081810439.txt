@@ -1,0 +1,544 @@
+
+
+
+General information about HD (High Definition) | iPlayer help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+Accessibility links
+
+
+Skip to content
+
+Accessibility Help
+
+
+
+BBC Account
+
+
+Notifications
+
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+Menu
+
+
+Search BBC
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+Close menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+iPlayer help home
+
+Playback issues
+
+Why does BBC iPlayer think I'm outside the UK?
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General information about HD (High Definition)
+
+
+
+
+Programmes that have been broadcast in HD on the BBC are usually available to watch in HD on BBC iPlayer.
+If a programme was broadcast live, it may take longer for the HD version to become available, as it can take longer to process. In such cases, please try again later.
+How can I watch in HD?
+
+
+On the BBC iPlayer website on your computer or laptop, programmes will automatically play in HD where possible. To change the video quality, use the settings cog in the playback bar (next to the subtitles icon).
+Computers:
+
+Go to Settings then Video Qualityand select High Definition or Standard Definition. Seeing a Best Quality option instead? Head to our page.
+Connected TVs:
+
+
+Why am I seeing a Best Quality option instead of High Definition on my connected TV?
+
+The video quality on the BBC iPlayer app for mobiles and tablets will automatically adjust according to your internet connection at that time.
+Mobiles and tablets:
+How can I download in HD?
+
+
+On the BBC iPlayer website on your computer or laptop, you'll be given an option of downloading in SD or in HD when you select Download.
+Computers:
+
+On the BBC iPlayer app for mobiles and tablets, go to Menu then Settings and make sure Higher Quality Downloads is switched on.
+Mobiles and tablets:
+
+: If you have a compatible Sky+ box, you’ll find the HD version of a programme alongside the SD version.
+Sky+
+How fast does my internet connection need to be?
+
+We recommend an internet connection fast enough to allow 3.2Mbps (megabits) playback, or 5Mbps playback for our best HD quality. If you’re having buffering issues while streaming but think you have a fast enough connection, you should contact your internet service provider.
+You could also try switching to SD (Standard Definition).
+
+
+What's the difference between High Definition and Standard Definition?
+
+To be classed as "true" high definition, we encode in at least 1280x720 resolution or 720p. We use h.264 with a bitrate of 3.2Mbps (going up to 5Mbps for best quality, should your connection allow) and 128kbps audio. This means that streaming programmes in HD quality will put demands on your network connection.
+Standard Definition is any resolution which streams at lower than 720p. SD programmes usually require less bandwidth to stream and download and won't put as much demand on your network connection as HD programmes.
+Check the following page for supported TV models:
+We're excited to be able to deliver HD streams in 1080p to some TV devices.
+
+Devices which support 1080p streaming
+Can I watch in HD on an older computer?
+
+Some older computers may struggle to handle HD playback. To avoid lots of buffering during playback we recommend a modern computer with a graphics card and processor that can handle the graphics. You'll need to watch in full-screen mode to reduce the demand on your computer.
+
+
+
+
+
+
+
+
+
+
+Related FAQs
+
+
+
+What channels can I watch live in HD?
+
+Why aren't all programmes available in HD?
+
+Why is HD picture quality poor sometimes?
+
+
+
+
+
+
+
+
+
+
+Need more help?
+
+
+
+
+Contact us
+
+
+
+
+Browse our help categories
+
+
+
+
+
+
+
+Getting Started
+
+
+
+
+
+About BBC iPlayer and our policies
+
+
+
+Accessibility
+
+
+
+Getting started with BBC iPlayer
+
+
+
+Need more help?
+
+
+
+Parental controls
+
+
+
+Signing in
+
+
+
+Supported devices
+
+
+
+
+
+Watching iPlayer
+
+
+
+
+
+Downloading
+
+
+
+Features
+
+
+
+Programme availability
+
+
+
+Recent changes to iPlayer
+
+
+
+Watching outside the UK
+
+
+
+
+
+Resolving Issues
+
+
+
+
+
+Mobile and tablet issues
+
+
+
+Playback issues
+
+
+
+Smart TV and games console issues
+
+
+
+Computer issues
+
+
+
+
+
+iPlayer Kids app
+
+
+
+
+
+About the app
+
+
+
+
+
+
+
+
+Explore the BBC
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+
+
+
+
+Terms of Use
+
+About the BBC
+
+Privacy Policy
+
+Cookies
+
+Accessibility Help
+
+Parental Guidance
+
+Contact the BBC
+
+Get Personalised Newsletters
+
+Advertise with us
+
+AdChoices / Do Not Sell My Info
+The BBC is not responsible for the content of external sites.
+Copyright © 2022 BBC.
+
+Read about our approach to external linking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

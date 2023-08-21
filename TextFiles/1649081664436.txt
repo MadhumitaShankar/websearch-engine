@@ -1,0 +1,524 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BBC MakerBox
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+Accessibility links
+
+
+Skip to content
+
+Accessibility Help
+
+
+
+BBC Account
+
+
+Notifications
+
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+Menu
+
+
+Search BBC
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+Close menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Formats
+
+Tools
+
+Community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+StoryFormer
+Create personal and responsive stories for your audience - this is interactive video made easy
+
+
+
+
+email
+
+Request Access
+
+
+Accessing StoryFormer
+
+Requesting access
+
+close
+
+StoryFormer is available to users both within and outside the BBC. If you're requesting from outside the BBC you will be asked to sign and return Terms and Conditions; this will allow you to use and explore the tool on a trial basis. Any conversations about publishing StoryFormer experiences will take place separately and are not conditional for trial usage. Please allow two working days to hear back from any request. To request a tool you must be a member of the MakerBox Community.
+
+
+How does it work?
+
+
+
+
+1
+Start by thinking about your audience journey - how will they interact with the story you want to tell and what will they get out of interacting?
+
+
+
+2
+Cut your footage then upload and map the paths your user can take - no coding skills needed!
+
+
+
+3
+Easily test and edit your story. Make sure the choices are meaningful and the flow works
+
+What is StoryFormer?
+
+
+
+
+
+StoryFormer is a BBC R&D tool for creating flexible, responsive stories. Using StoryFormer, the flow of a story and the media used to tell it can change dynamically, responding to the viewer's input, their preferences, or their context. This can happen either before the story starts, or while it's underway. The same story can be told differently to every viewer. Different parts of a story can be explored at will, expanded in depth, or avoided entirely.
+StoryFormer also allows the media for any particular bit of narrative to be varied: perhaps audiences would rather listen to an audio version of a story, rather than watch it. Or skim through it as a graphic novel. All of this flexibility is under the producer's control within StoryFormer's simple user interface.
+
+
+Top tips to get you ready
+
+
+
+download
+
+Full guide to the tool
+
+
+
+
+
+
+
+
+
+Think about why people might need different versions of your story. How much time have they got, how are old they? What knowledge and expectations do they bring to your story?
+
+
+
+
+
+
+Think about drawing out your variables early on - it will help you think about how your story will work and the best uses of the responsive features
+
+
+
+
+
+
+Think about your story from the audience's point of view - where can they have agency and how will that feel for them? Try ways to give them control of how the story plays out
+
+
+
+previous
+
+previous
+
+
+next
+
+next
+
+What have we learnt using StoryFormer?
+
+
+
+
+
+As broadcasting becomes more digital, one size fits all programming is no longer the only option for engaging audiences. Object Based Media is an approach that allows us to change the story we're telling, and the way our audience receives it. StoryFormer was built so that experiences can be customised depending on each individual audience members' circumstances, preferences or even viewing device.
+So far we've had two production teams using StoryFormer, as well as lots of shorter trials and workshops. We've had people take interactive projects from prototyping and filming to a building a working interactive prototype within just a few hours. We've been able to learn lots about what really works in StoryFormer and, crucially, where we can improve the tool. The more people that use the tool the more we can see where the strengths of both it and Object Based Media lie. We've found that there is space to improve both the functionality of the tool and the storytelling possibilities. More work is currently going into the editing process on StoryFormer as well as basic functionality, and we're keen to do more trials.
+
+
+Latest Discussions
+
+
+
+
+
+
+
+
+
+
+
+lilliefyfe1
+31 Mar
+
+StoryFormer Export
+Hi everyone! I’m trying to export my StoryFormer file, but when I try to download the media the “stream.txt” seems to fail every time and specifies a server problem. Does anyone have any advice on how to resolve this?
+
+
+
+
+
+
+
+
+MattB
+30 Sep
+
+StoryFormer Manual Now Available
+Hi all, The missing piece of StoryFormer has always been a manual. Well, finally, we have one! It’s comprehensive, and covers all StoryFormer 1.0 features. There are a couple of post-1.0 features missing that I’ll be adding very soon. You’ll find it in the Login &amp; Settings menu in StoryFormer. You can also find it here: ...
+
+
+
+
+
+
+
+
+MattB
+29 Sep
+
+StoryPlayer App Launched
+Hi all, It’s been a while coming, but the StoryPlayer app for Windows and Mac is now available! You’re free to download it and distribute it in order to share your stories. Of course, you’ll want to download your stories too, so you can distribute them alongside the player. You can do all of this from the Export tab in StoryFormer. You’ll find all the options you need...
+
+
+
+
+
+
+
+
+MattB
+19 May
+
+StoryFormer Launched! What's Next?
+Hi all, Now that StoryFormer v1.0 is out of the door I thought I would give a quick update on what we have been working on. We appreciate that currently it’s not possible to share your StoryFormer Stories with others while you are developing it. And if you’re not on a route to publishing to BBC Taster, this will remain a limiting factor for getting your work seen. So,...
+
+
+
+
+
+
+
+
+Emma1
+27 Apr
+
+Separating audience interaction from default paths
+Hi everyone, I’m a student at the University of York and for my final year project I’m developing an interactive TV series where the viewers choices would be collated as a community using StoryKit and these choices would go on to influence further episodes. I wanted to do this so that audiences could truly impact the events and ending of a TV series without there already being a fixed number...
+
+View all discussions
+
+
+
+
+
+
+Featured case study
+Celebrating 1000 episodes with BBC Click
+Using StoryFormer to make an interactive episode of BBC Click
+Read more
+
+
+Keep in touch
+
+If you would like to keep up-to-date about MakerBox, subscribe to our mailing list
+Subscribe
+
+Legal Information
+To read about Our Mission, the extra terms when you use MakerBox and relevant privacy information, please visit
+MakerBox - Extra Terms of Use & Privacy Notice
+
+
+
+
+
+Explore the BBC
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+
+
+
+
+Terms of Use
+
+About the BBC
+
+Privacy Policy
+
+Cookies
+
+Accessibility Help
+
+Parental Guidance
+
+Contact the BBC
+
+Get Personalised Newsletters
+
+Advertise with us
+
+AdChoices / Do Not Sell My Info
+The BBC is not responsible for the content of external sites.
+Copyright © 2022 BBC.
+
+Read about our approach to external linking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

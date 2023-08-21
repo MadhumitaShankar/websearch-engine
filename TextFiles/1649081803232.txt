@@ -1,0 +1,548 @@
+
+
+
+What can I do to help with buffering or playback problems? | iPlayer help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Homepage
+
+
+Accessibility links
+
+
+Skip to content
+
+Accessibility Help
+
+
+
+BBC Account
+
+
+Notifications
+
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+Menu
+
+
+Search BBC
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+Close menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+iPlayer help home
+
+Playback issues
+
+Why does BBC iPlayer think I'm outside the UK?
+
+
+
+search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What can I do to help with buffering or playback problems?
+
+
+
+
+Buffering is caused by the internet connection between your router and your device cutting off and joining again, so to play a programme smoothly and without interruption, you’ll need a good internet connection.
+If your internet connection isn’t fast enough, the programme may buffer, or you’ll see a message saying you have ‘insufficient bandwidth’ (bandwidth is the amount of data your connection can transfer).
+What can I do to improve playback?
+
+
+If other devices are sharing the same internet connection, try disconnecting them, or just turn them off to see if that makes a difference.
+Disconnect other devices
+
+
+
+Try switching to Standard Definition as High Definition programmes will require more bandwidth and may cause buffering if your internet connection isn't strong enough. Check the following pages for advice on changing the video quality on BBC iPlayer: BBC iPlayer on mobiles and tablets will automatically adjust the video quality according to your internet connection at that time.
+Switch to Standard Definition (SD)
+
+
+
+
+
+How do I change the video quality on my computer or laptop?
+
+
+How do I set the video quality on my connected TV or games console?
+
+
+
+If you’re connecting via WiFi, try a wired connection to help rule out interference from another WiFi network. Or you could try moving your device closer to your internet router.
+Try a wired internet connection
+
+
+
+If you’re using BBC iPlayer with a browser on your computer, mobile or tablet, try using another browser to see if that helps. And if you have lots of tabs open in your browser, close them down as they could be affecting the device's performance.
+Try a different browser
+
+
+
+Take a look at ourfor advice on how to check your internet speed.
+Check your internet speed
+
+
+
+internet speed checker FAQ
+
+Still having problems? on your computer or via the BBC iPlayer app on your mobile or tablet if you are based in the UK. Take a look at the page for further information.
+Try downloading full TV programmes
+
+How can I watch programmes when I'm offline?
+If you're having issues with your internet connection, please contact your , especially if channels and programmes from other broadcasters are affected.
+
+internet service provider
+
+
+
+
+
+
+
+
+
+
+Related FAQs
+
+
+
+What internet speed do I need for playing programmes?
+
+How can I check if my internet connection is fast enough for BBC iPlayer?
+
+How do I set the video quality on my connected TV or games console?
+
+
+
+
+
+
+
+
+
+
+Need more help?
+
+
+
+
+Contact us
+
+
+
+
+Browse our help categories
+
+
+
+
+
+
+
+Getting Started
+
+
+
+
+
+About BBC iPlayer and our policies
+
+
+
+Accessibility
+
+
+
+Getting started with BBC iPlayer
+
+
+
+Need more help?
+
+
+
+Parental controls
+
+
+
+Signing in
+
+
+
+Supported devices
+
+
+
+
+
+Watching iPlayer
+
+
+
+
+
+Downloading
+
+
+
+Features
+
+
+
+Programme availability
+
+
+
+Recent changes to iPlayer
+
+
+
+Watching outside the UK
+
+
+
+
+
+Resolving Issues
+
+
+
+
+
+Mobile and tablet issues
+
+
+
+Playback issues
+
+
+
+Smart TV and games console issues
+
+
+
+Computer issues
+
+
+
+
+
+iPlayer Kids app
+
+
+
+
+
+About the app
+
+
+
+
+
+
+
+
+Explore the BBC
+
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Weather
+
+
+iPlayer
+
+
+Sounds
+
+
+Bitesize
+
+
+CBeebies
+
+
+CBBC
+
+
+Food
+
+
+
+Home
+
+
+News
+
+
+Sport
+
+
+Reel
+
+
+Worklife
+
+
+Travel
+
+
+Future
+
+
+Culture
+
+
+TV
+
+
+Weather
+
+
+Sounds
+
+
+
+
+
+
+Terms of Use
+
+About the BBC
+
+Privacy Policy
+
+Cookies
+
+Accessibility Help
+
+Parental Guidance
+
+Contact the BBC
+
+Get Personalised Newsletters
+
+Advertise with us
+
+AdChoices / Do Not Sell My Info
+The BBC is not responsible for the content of external sites.
+Copyright © 2022 BBC.
+
+Read about our approach to external linking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
